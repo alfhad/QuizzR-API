@@ -1,0 +1,112 @@
+[
+    {
+        "id": 0,
+        "difficulty": 1,
+        "question": "Which is the Smallest Country in the World?",
+        "a": "Maldives",
+        "b": "Monaco",
+        "c": "Vatican City",
+        "d": "Montenegro",
+        "answer": "c"
+    },
+    {
+        "id": 1,
+        "difficulty": 2,
+        "question": "What is the currency of the Kingdom of Saudi Arabia?",
+        "a": "Riyal",
+        "b": "Dinaar",
+        "c": "Dirham",
+        "d": "Shekel",
+        "answer": "a"
+    },
+    {
+        "id": 2,
+        "difficulty": 1,
+        "question": "Which of these edible items is not the leaf of a plant?",
+        "a": "Tea",
+        "b": "Coffee",
+        "c": "Spinach",
+        "d": "Lettuce",
+        "answer": "b"
+    },
+    {
+        "id": 3,
+        "difficulty": 2,
+        "question": "Which sport is Pete Sampras associated with professionally?",
+        "a": "Golf",
+        "b": "Tennis",
+        "c": "Hockey",
+        "d": "Boxing",
+        "answer": "b"
+    },
+    {
+        "id": 4,
+        "difficulty": 3,
+        "question": "Which of these is not an Ape?",
+        "a": "Gorilla",
+        "b": "Chimpanzee",
+        "c": "Orangutan",
+        "d": "Monkey",
+        "answer": "d"
+    },
+    {
+        "id": 5,
+        "difficulty": 1,
+        "question": "What does the 'C' in VCR stand for?",
+        "a": "Cassette",
+        "b": "Compact",
+        "c": "Cable",
+        "d": "Cinema",
+        "answer": "a"
+    },
+    {
+        "id": 6,
+        "difficulty": 3,
+        "question": "Who was the first person to reach North Pole?",
+        "a": "Robert Peary",
+        "b": "Robert Cook",
+        "c": "Charles Hillary",
+        "d": "Johan Don",
+        "answer": "a"
+    },
+    {
+        "id": 7,
+        "difficulty": 2,
+        "question": "Who the First Prime Minister of Britain?",
+        "a": "John Blunt",
+        "b": "Henry Waterloo",
+        "c": "George Bush",
+        "d": "Robert Walpole",
+        "answer": "d"
+    },
+    {
+        "id": 8,
+        "difficulty": 3,
+        "question": "Which country won the First Football World Cup?",
+        "a": "Brazil",
+        "b": "Uruguay",
+        "c": "Belgium",
+        "d": "Argentina",
+        "answer": "b"
+    },
+    {
+        "id": 9,
+        "difficulty": 4,
+        "question": "Who was the first female cosmonaut in Space?",
+        "a": "Peggy Whitson",
+        "b": "Svetlana Savitskaya",
+        "c": "Sally Ride",
+        "d": "Velentina Tereshkova",
+        "answer": "d"
+    },
+    {
+        "id": 10,
+        "difficulty": 3,
+        "question": "Where is The Engadin Valley located?",
+        "a": "Egypt",
+        "b": "Portugal",
+        "c": "Switzerland",
+        "d": "Turkey",
+        "answer": "c"
+    }
+]

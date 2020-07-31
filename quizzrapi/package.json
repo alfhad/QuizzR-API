@@ -1,0 +1,20 @@
+{
+  "name": "quizzr-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfhad/QuizzR-API.git"
+  },
+  "author": "devang fahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfhad/QuizzR-API/issues"
+  },
+  "homepage": "https://github.com/alfhad/QuizzR-API#readme"
+}
