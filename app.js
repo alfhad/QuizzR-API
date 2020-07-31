@@ -10,5 +10,5 @@ app.listen(5000, ()=>{
 })
 
 app.get("/", (req, res)=>{
-    res.sendFile(__dirname+"/web/index.html");
+    res.sendFile(__dirname+"/index.html");
 });
