@@ -1,12 +1,19 @@
-const http = require('http');
-const port = process.env.PORT || 3000
+//jshint esversion: 6
 
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/html');
-  res.sendFile(__dirname + "/index.html");
+const express = require('express');
+const app = express();
+
+const bodyParser = require('body-parser');
+
+const https = require('https');
+
+app.use(bodyParser.urlencoded({extended: true}));
+
+app.listen(4000, ()=>{
+    console.log("Server Started.");
 });
 
-server.listen(port,() => {
-  console.log(`Server running at port `+port);
+app.get('/', (req, res) => {
+    res.sendFile(__dirname + "/index.html");
 });
+
