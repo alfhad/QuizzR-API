@@ -1,19 +1,48 @@
-//jshint esversion: 6
+const http = require('http');
+const fs = require("fs");
+const path = require("path");
 
-const express = require('express');
-const app = express();
+function send404(response){
+  response.writeHead(404, {'Content-Type': 'text/plain'});
+  response.write('Error 404: Resource not found.');
+  response.end();
+}
 
-const bodyParser = require('body-parser');
+const mimeLookup = {
+  '.js': 'application/javascript',
+  '.html': 'text/html'
+};
 
-const https = require('https');
+const server = http.createServer((req, res) => {
+  if(req.method == 'GET'){
 
-app.use(bodyParser.urlencoded({extended: true}));
+    let fileurl;
+    if(req.url == '/'){
+      fileurl = 'index.html';
+    }else{
+      fileurl = req.url;
+    }
+    let filepath = path.resolve('./' + fileurl);
 
-app.listen(4000, ()=>{
-    console.log("Server Started.");
-});
+    let fileExt = path.extname(filepath);
+    let mimeType = mimeLookup[fileExt];
 
-app.get('/', (req, res) => {
-    res.sendFile(__dirname + "/index.html");
-});
+    if(!mimeType) {
+      send404(res);
+      return;
+    }
 
+    fs.exists(filepath, (exists) => {
+      if(!exists){
+        send404(res);
+        return;
+      }
+
+      res.writeHead(200, {'Content-Type': mimeType});
+      fs.createReadStream(filepath).pipe(res);
+
+    });
+
+  }
+}).listen(3000);
+console.log("Server running at port 3000");
