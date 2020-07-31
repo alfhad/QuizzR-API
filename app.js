@@ -1,13 +1,14 @@
-const http = require('http');
-const port = process.env.PORT || 3000
+const express = require('express');
+const app = express();
 
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/html');
-    var s = "<h1>Sitaaron Ke Aage Jahaan Aur Bhi Hain.</h1><h1>Abhi Ishq Ke Imtihaan Aur Bhi Hain</h1><h1>Abhi Hum Zinda Hai !!"
-  res.end(s);
-});
+const bodyParser = require('body-parser');
 
-server.listen(port,() => {
-  console.log(`Server running at port `+port);
+app.use(bodyParser.urlencoded({extended: true}));
+
+app.listen(5000, ()=>{
+    console.log("Server Started.");
+})
+
+app.get("/", (req, res)=>{
+    res.sendFile(__dirname+"/web/index.html");
 });
