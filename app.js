@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/html');
-  res.end('<h1>Devaiyya</h1>');
+  res.sendFile(__dirname + "index.html");
 });
 
 server.listen(port,() => {
