@@ -108,5 +108,156 @@
         "c": "Switzerland",
         "d": "Turkey",
         "answer": "c"
+    },
+    {
+        "id": 11,
+        "difficulty": 4,
+        "question": "Which of these is not a Stock Market index?",
+        "a": "Nikkei",
+        "b": "Sensex",
+        "c": "Dow Jones",
+        "d": "GATT",
+        "answer": "d"
+    },
+    {
+        "id": 12,
+        "difficulty": 4,
+        "question": "Who was Prophet Muhammads' father?",
+        "a": "Abu Bakr",
+        "b": "Abdullah",
+        "c": "Abu Talib",
+        "d": "Abd al Muttalib",
+        "answer": "b"
+    },
+    {
+        "id": 13,
+        "difficulty": 3,
+        "question": "Which is the first letter of the Arabic alphabet?",
+        "a": "Alfa",
+        "b": "Alif",
+        "c": "Olfa",
+        "d": "Calif",
+        "answer": "b"
+    },
+    {
+        "id": 14,
+        "difficulty": 2,
+        "question": "On which day of the year do Christians observe the 'twelfth night'?",
+        "a": "5th January",
+        "b": "25th December",
+        "c": "31st December",
+        "d": "23rd June",
+        "answer": "a"
+    },
+    {
+        "id": 15,
+        "difficulty": 3,
+        "question": "What is the Japanese business philosophy of continuous improvement called?",
+        "a": "Karaoke",
+        "b": "Kaizen",
+        "c": "Kamikaze",
+        "d": "Kimono",
+        "answer": "b"
+    },
+    {
+        "id": 16,
+        "difficulty": 4,
+        "question": "Which Soviet leader is associated with the terms 'Glasnost' and 'Perestroika'?",
+        "a": "Mikhail Gorbachev",
+        "b": "Boris Yeltsin",
+        "c": "Vladimir Putin",
+        "d": "Yuri Andropov",
+        "answer": "a"
+    },
+    {
+        "id": 17,
+        "difficulty": 2,
+        "question": "Who is the only woman to have received two Nobel Prizes?",
+        "a": "Marie Curie",
+        "b": "Aung San Su Kyi",
+        "c": "Mother Teresa",
+        "d": "Pearl S Buck",
+        "answer": "a"
+    },
+    {
+        "id": 18,
+        "difficulty": 5,
+        "question": "The medical term hysterectomy refers to the removal of which organ?",
+        "a": "Kidney",
+        "b": "Liver",
+        "c": "Lungs",
+        "d": "Uterus",
+        "answer": "d"
+    },
+    {
+        "id": 19,
+        "difficulty": 1,
+        "question": "Which is the largest state in the United States?",
+        "a": "Alaska",
+        "b": "Alabama",
+        "c": "California",
+        "d": "Texas",
+        "answer": "a"
+    },
+    {
+        "id": 20,
+        "difficulty": 2,
+        "question": "What did John Logie Baird invent?",
+        "a": "Microwave Oven",
+        "b": "Fax Machine",
+        "c": "Television",
+        "d": "Photocopier",
+        "answer": "c"
+    },
+    {
+        "id": 21,
+        "difficulty": 4,
+        "question": "Which country rules the Falkland Islands in the Atlantic Ocean?",
+        "a": "Argentina",
+        "b": "UK",
+        "c": "Germany",
+        "d": "France",
+        "answer": "b"
+    },
+    {
+        "id": 22,
+        "difficulty": 3,
+        "question": "Which of these sports has never been featured at the Olympics?",
+        "a": "Cricket",
+        "b": "Tug of War",
+        "c": "Polo",
+        "d": "Bowls",
+        "answer": "d"
+    },
+    {
+        "id": 23,
+        "difficulty": 4,
+        "question": "Who invented the Oral Polio Vaccine (OPV)?",
+        "a": "Ronald Ross",
+        "b": "Louis Pasteur",
+        "c": "Francis Crick",
+        "d": "Albert Sabin",
+        "answer": "d"
+    },
+    {
+        "id": 24,
+        "difficulty": 4,
+        "question": "Which was the first country to make Christianity the official religion?",
+        "a": "Italy",
+        "b": "England",
+        "c": "Greece",
+        "d": "Armenia",
+        "answer": "d"
+    },
+    {
+        "id": 25,
+        "difficulty": 5,
+        "question": "Where was the worlds' first fingerprinting bureau established?",
+        "a": "Calcutta",
+        "b": "Paris",
+        "c": "New York",
+        "d": "London",
+        "answer": "a"
     }
+    
 ]
