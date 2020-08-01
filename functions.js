@@ -9,6 +9,22 @@ function randomQuestion()
     return questions[randomIndex];
 }
 
-//console.log(randomQuestion());
+function getDifficulty(level)
+{
+    var randomIndex = Math.random()*questions.length;
+    randomIndex = Math.floor(randomIndex);
+    var k = randomIndex;
+    while(1)
+    {
+        if(questions[k].difficulty == level)
+        {
+            return questions[k];
+        }
 
-module.exports = {randomQuestion};
+        k = (k+1)%(questions.length);
+    }
+}
+
+//console.log(getDifficulty(2));
+
+module.exports = {randomQuestion, getDifficulty};
