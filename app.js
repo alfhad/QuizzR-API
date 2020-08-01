@@ -1,12 +1,11 @@
 const express = require('express');
 const app = express();
-
 const path = require('path');
-
 const bodyParser = require('body-parser');
-const { randomQuestion, getDifficulty } = require('./functions');
 
 app.use(express.static(path.join(__dirname, "public")));
+
+const { randomQuestion, getDifficulty } = require('./functions');
 
 app.use(bodyParser.urlencoded({extended: true}));
 
@@ -15,7 +14,7 @@ app.listen(process.env.PORT || 3000, ()=>{
 });
 
 app.get("/", (req, res)=>{
-    res.sendFile(__dirname+"/public/index.html");
+    res.sendFile(__dirname+"/index.html");
 });
 
 app.get("/random", (req, res) =>{
@@ -49,7 +48,7 @@ app.use(function(req, res, next){
   
     // respond with html page
     if (req.accepts('html')) {
-      res.sendFile(__dirname + "/public/404.html");
+      res.sendFile(__dirname + "/404.html");
       return;
     }
   
