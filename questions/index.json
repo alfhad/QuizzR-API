@@ -438,6 +438,218 @@
         "c": "Honduras",
         "d": "Belize",
         "answer": "b"
+    },
+    {
+        "id": 44,
+        "difficulty": 2,
+        "question": "Sofia is the capital of which European nation?",
+        "a": "Finland",
+        "b": "Bulgaria",
+        "c": "Denmark",
+        "d": "Spain",
+        "answer": "b"
+    },
+    {
+        "id": 45,
+        "difficulty": 2,
+        "question": "What does an Aardvarks' diet mostly consist of?",
+        "a": "Ants & Termites",
+        "b": "Fruits & Vegetables",
+        "c": "Spiders & Locusts",
+        "d": "Mice & Rats",
+        "answer": "a"
+    },
+    {
+        "id": 46,
+        "difficulty": 2,
+        "question": "Which actress played Rose in the film 'Titanic'?",
+        "a": "Kate Winslet",
+        "b": "Gwyneth Paltrow",
+        "c": "Melaine Lynskey",
+        "d": "Julia Stiles",
+        "answer": "a"
+    },
+    {
+        "id": 47,
+        "difficulty": 1,
+        "question": "Leonardo da Vinci was a famous scientist, artist and inventor born in which country?",
+        "a": "Denmark",
+        "b": "Switzerland",
+        "c": "Latvia",
+        "d": "Italy",
+        "answer": "d"
+    },
+    {
+        "id": 48,
+        "difficulty": 3,
+        "question": "Aer Lingus is the national airline of which country?",
+        "a": "Ireland",
+        "b": "Iceland",
+        "c": "Latvia",
+        "d": "The Netherlands",
+        "answer": "a"
+    },
+    {
+        "id": 49,
+        "difficulty": 2,
+        "question": "Which of these cities would you find in Africa?",
+        "a": "Moscow",
+        "b": "Bucharest",
+        "c": "Addis Ababa",
+        "d": "Riga",
+        "answer": "c"
+    },
+    {
+        "id": 50,
+        "difficulty": 1,
+        "question": "Gambia is a nation found on which continent?",
+        "a": "Asia",
+        "b": "South America",
+        "c": "Africa",
+        "d": "Europe",
+        "answer": "c"
+    },
+    {
+        "id": 51,
+        "difficulty": 3,
+        "question": "What is clavicle better known as?",
+        "a": "Appendix",
+        "b": "Collarbone",
+        "c": "Elbow",
+        "d": "Wrist",
+        "answer": "b"
+    },
+    {
+        "id": 52,
+        "difficulty": 1,
+        "question": "Eid is a festival celebrated by which religious group?",
+        "a": "Muslims",
+        "b": "Jews",
+        "c": "Pagans",
+        "d": "Christians",
+        "answer": "a"
+    },
+    {
+        "id": 53,
+        "difficulty": 1,
+        "question": "Which is NOT a Renewable Energy Source?",
+        "a": "Natural Gas",
+        "b": "Solar",
+        "c": "Wind",
+        "d": "Geothermal",
+        "answer": "a"
+    },
+    {
+        "id": 54,
+        "difficulty": 4,
+        "question": "Which Beatle narrated some of the 'Thomas The Tank Engine' TV series?",
+        "a": "Paul",
+        "b": "John",
+        "c": "Ringo",
+        "d": "George",
+        "answer": "c"
+    },
+    {
+        "id": 55,
+        "difficulty": 2,
+        "question": "Which 'M' nation would you find in Europe?",
+        "a": "Mali",
+        "b": "Mongolia",
+        "c": "Macedonia",
+        "d": "Malawi",
+        "answer": "c"
+    },
+    {
+        "id": 56,
+        "difficulty": 3,
+        "question": "What is the highest mountain in Africa?",
+        "a": "Mt. Kenya",
+        "b": "Mt. Meru",
+        "c": "Mt. Cameroon",
+        "d": "Mt. Kilimanjaro",
+        "answer": "d"
+    },
+    {
+        "id": 57,
+        "difficulty": 3,
+        "question": "What sport has a scrum?",
+        "a": "Rugby",
+        "b": "Soccer",
+        "c": "Tennis",
+        "d": "Swimming",
+        "answer": "a"
+    },
+    {
+        "id": 58,
+        "difficulty": 3,
+        "question": "Which war had the code name Operation Desert Storm?",
+        "a": "Korean War",
+        "b": "Gulf War",
+        "c": "Vietnam War",
+        "d": "Crimean War",
+        "answer": "b"
+    },
+    {
+        "id": 59,
+        "difficulty": 1,
+        "question": "Which motor car company created the 'Model T'?",
+        "a": "Ford",
+        "b": "Audi",
+        "c": "Mercedes",
+        "d": "BMW",
+        "answer": "a"
+    },
+    {
+        "id": 60,
+        "difficulty": 3,
+        "question": "Which slab of rock proved to be the key to understanding Egyptian hieroglyphics?",
+        "a": "The Cleopatra Stone",
+        "b": "The Palmetta Stone",
+        "c": "The Rosetta Stone",
+        "d": "The Ra Sone",
+        "answer": "b"
+    },
+    {
+        "id": 61,
+        "difficulty": 2,
+        "question": "In which of the following years were the Summer Olympic Games held?",
+        "a": "1997",
+        "b": "1998",
+        "c": "1996",
+        "d": "1995",
+        "answer": "c"
+    },
+    {
+        "id": 62,
+        "difficulty": 3,
+        "question": "What is the main ingredient in the Italian dish 'Risotto'?",
+        "a": "Wheat Flour",
+        "b": "Pasta",
+        "c": "Tomatoes",
+        "d": "Rice",
+        "answer": "d"
+    },
+    {
+        "id": 63,
+        "difficulty": 3,
+        "question": "The Hoover Dam stands on which river?",
+        "a": "Mississippi",
+        "b": "Colorado",
+        "c": "Rio Grande",
+        "d": "Missouri",
+        "answer": "b"
+    },
+    {
+        "id": 64,
+        "difficulty": 4,
+        "question": "Potato and which other vegetable make up the main ingredients of the Irish dish 'Colcannon'?",
+        "a": "Brocolli",
+        "b": "Cabbage",
+        "c": "Carrot",
+        "d": "Cauliflower",
+        "answer": "b"
     }
+    
+    
     
 ]
