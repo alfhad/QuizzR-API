@@ -38,4 +38,25 @@ app.get("/difficulty/5", (req, res)=>{
     res.json(getDifficulty(5));
 });
 
+//app.use(app.router);
+
+app.use(function(req, res, next){
+    res.status(404);
+  
+    // respond with html page
+    if (req.accepts('html')) {
+      res.sendFile(__dirname + "/404.html");
+      return;
+    }
+  
+    // respond with json
+    if (req.accepts('json')) {
+      res.send({ error: 'Not found' });
+      return;
+    }
+  
+    // default to plain-text. send()
+    res.type('txt').send('Not found');
+  });
+
 //process.env.PORT || 5000
