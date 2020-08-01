@@ -1,14 +1,16 @@
 const express = require('express');
 const app = express();
 
+const path = require('path');
+
 const bodyParser = require('body-parser');
 const { randomQuestion, getDifficulty } = require('./functions');
 
-app.use(express.static("public"));
+app.use(express.static(path.join(__dirname, "public")));
 
 app.use(bodyParser.urlencoded({extended: true}));
 
-app.listen(process.env.PORT || 5000, ()=>{
+app.listen(process.env.PORT || 3000, ()=>{
     console.log("Server Started.");
 });
 
