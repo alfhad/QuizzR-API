@@ -214,7 +214,7 @@
         "difficulty": 4,
         "question": "Which country rules the Falkland Islands in the Atlantic Ocean?",
         "a": "Argentina",
-        "b": "UK",
+        "b": "UK",https://quizzrapi.herokuapp.com/
         "c": "Germany",
         "d": "France",
         "answer": "b"
@@ -1955,7 +1955,7 @@
         "question": "In 2012, what became the first movie to win both the Oscar for Best Picture and France’s César Award for Best Film?",
         "a": "Rust and Bone",
         "b": "The Artist",
-        "c": "Holy Motors   ",
+        "c": "Holy Motors",
         "d": "The Intouchables",
         "answer": "b"
     }
