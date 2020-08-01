@@ -1,0 +1,964 @@
+    {
+        "id": 100,
+        "difficulty": 1,
+        "question": "Which planet is known as the Morning Star or the Evening Star?",
+        "a": "Venus",
+        "b": "Mercury",
+        "c": "Saturn",
+        "d": "Earth",
+        "answer": "a"
+    },
+	{
+        "id": 101,
+        "difficulty": 2,
+        "question": "Which planet has the most number of moons?",
+        "a": "Saturn",
+        "b": "Jupiter",
+        "c": "Venus",
+        "d": "Pluto",
+        "answer": "b"
+    },
+ 	{
+        "id": 102,
+        "difficulty": 4,
+        "question": "Who was the first person to reach space?",
+        "a": "Yuri Gagarin",
+        "b": "Neil Armstrong",
+        "c": "Kalpana Chawla",
+        "d": "Robert Behnken",
+        "answer": "a"
+    },
+	{
+        "id": 103,
+        "difficulty": 1,
+        "question": "Which continent has the largest coastline?",
+        "a": "Africa",
+        "b": "Antartica",
+        "c": "Asia",
+        "d": "Europe",
+        "answer": "c"
+    },
+	{
+        "id": 104,
+        "difficulty": 3,
+        "question": "Who invented the mobile phone?",
+        "a": "Martin Cooper",
+        "b": "Willies Carrier",
+        "c": "Ralph Bear",
+        "d": "Robert E.Kahn",
+        "answer": "a"
+    },
+	{
+        "id": 105,
+        "difficulty": 1,
+        "question": "For which of the following disciplines is Nobel Prize awarded?",
+        "a": "Physics and Chemistry",
+        "b": "Physiology or Medicine",
+        "c": "Literature, Peace and Economics",
+        "d": "All of the above",
+        "answer": "d"
+    },
+	{
+        "id": 106,
+        "difficulty": 1,
+        "question": "Hitler's party which came into power in 1933 is known as?",
+        "a": "Labour Party",
+        "b": "Ku-Klux-Klan",
+        "c": "Democratic Party",
+        "d": "Nazi Party",
+        "answer": "d"
+    },
+	{
+        "id": 107,
+        "difficulty": 3,
+        "question": "Georgia, Uzbekistan and Turkmenistan became the members of UNO in?",
+        "a": "1985",
+        "b": "1992",
+        "c": "1997",
+        "d": "1993",
+        "answer": "b"
+    },
+	{
+        "id": 108,
+        "difficulty": 4,
+        "question": "Katerina Sakellaropoulou was elected the first woman President of?",
+        "a": "Greece",
+        "b": "Spain",
+        "c": "Finland",
+        "d": "Netherlands",
+        "answer": "a"
+    },
+	{
+        "id": 109,
+        "difficulty": 2,
+        "question": "Tutankhamun was what when he died?",
+        "a": "Prince",
+        "b": "Principal",
+        "c": "Pharaoh",
+        "d": "President",
+        "answer": "c"
+    },
+	{
+        "id": 110,
+        "difficulty": 2,
+        "question": "At what sporting event you might witness a 'slam dunk'?",
+        "a": "Boxing",
+        "b": "Basketball",
+        "c": "Tennis",
+        "d": "Baseball",
+        "answer": "b"
+    },
+	{
+        "id": 111,
+        "difficulty": 1,
+        "question": "A mosiac is ?",
+        "a": "Bed cloth",
+        "b": "Decorative Art",
+        "c": "Musical Instruement",
+        "d": "Photo Album",
+        "answer": "b"
+    },
+	{
+        "id": 112,
+        "difficulty": 2,
+        "question": "Tiger Woods is famous for which game?",
+        "a": "Basketball",
+        "b": "Football",
+        "c": "Golf",
+        "d": "Pole-vault",
+        "answer": "c"
+    },
+	{
+        "id": 113,
+        "difficulty": 2,
+        "question": "Who created a world record for the maximum number of dismissals in Test Cricket as a 								Wicket Keeper?",
+        "a": "Alan Knott",
+        "b": "Rodney Marsh",
+        "c": "Ian Healy",
+        "d": "Moin Khan",
+        "answer": "c"
+    },
+	{
+        "id": 114,
+        "difficulty": 2,
+        "question": "What country has the largest Muslim population?",
+        "a": "Libya",
+        "b": "Iraq",
+        "c": "Nigeria",
+        "d": "Indonesia",
+        "answer": "d"
+    },
+	{
+        "id": 115,
+        "difficulty": 3,
+        "question": "Which of these is the largest landlocked country in the world?",
+        "a": "Paraguay",
+        "b": "Bolivia",
+        "c": "Kazakhstan",
+        "d": "Central African Republic",
+        "answer": "c"
+    },
+	{
+        "id": 116,
+        "difficulty": 2,
+        "question": "What European country is divided into departments?",
+        "a": "Sweden",
+        "b": "Switzerland",
+        "c": "France",
+        "d": "Germany",
+        "answer": "c"
+    },
+	{
+        "id": 117,
+        "difficulty": 3,
+        "question": "Which of these countries is considered the world’s oldest republic?",
+        "a": "Monaco",
+        "b": "San Mario",
+        "c": "Argentina",
+        "d": "Chile",
+        "answer": "b"
+    },
+	{
+        "id": 118,
+        "difficulty": 3,
+        "question": "Which of the following regions is referred to as Garden of Eden as mentioned in the 								Bible?",
+        "a": "Dead Sea",
+        "b": "Kutch region of South Iraq",
+        "c": "Nile Valley",
+        "d": "Cango Valley",
+        "answer": "b"
+    },
+	{
+        "id": 119,
+        "difficulty": 3,
+        "question": "The first subcutaneous pacemaker was built by ?",
+        "a": "Graeme Ferguson",
+        "b": "John Hopps",
+        "c": "Graham Bell",
+        "d": "Thomas Edison",
+        "answer": "b"
+    },
+	{
+        "id": 120,
+        "difficulty": 5,
+        "question": "The transition from hand production methods to machines, the increasing use of steam 								power and water power, the development of machine tools and the rise of the 								mechanized factory system  in Europe and the US, in the period from about 1760 to 								sometime between 1820 is known as?",
+        "a": "The European Revolution",
+        "b": "European Renaissance",
+        "c": "The Social Revolution",
+        "d": "Industrial Revolution",
+        "answer": "d"
+    },
+	{
+        "id": 121,
+        "difficulty": 1,
+        "question": "The number of rings in the Olympic symbol is ?",
+        "a": "7",
+        "b": "4",
+        "c": "3",
+        "d": "5"	,
+        "answer": "d"
+    },
+	{
+        "id": 122,
+        "difficulty": 5,
+        "question": "Who was the last Soviet premier?",
+        "a": "Mikhail Gorbachev",
+        "b": "Alexei Kosygin",
+        "c": "Nikolai Bulganin",
+        "d": "Vladimir Lenin",
+        "answer": "a"
+    },
+	{
+        "id": 123,
+        "difficulty": 2,
+        "question": "Where is the largest library in the world located?",
+        "a": "Canada",
+        "b": "India",
+        "c": "Russia",
+        "d": "United States",
+        "answer": "d"
+    },
+	{
+        "id": 124,
+        "difficulty": 3,
+        "question": "The world's first intercity rail line was between?",
+        "a": "Liverpool and Manchester",
+        "b": "Washington and New York",
+        "c": "Moscow and St.Petersburg",
+        "d": "Rome and Naples",
+        "answer": "a"
+    },
+	{
+        "id": 125,
+        "difficulty": 2,
+        "question": "Global Navigation Satellite System or GIONASS has been developed by which country?",
+        "a": "Russia",
+        "b": "France",
+        "c": "United Kingdom",
+        "d": "Germany",
+        "answer": "a"
+    },
+	{
+        "id": 126,
+        "difficulty": 1,
+        "question": "The modern Olympic games were started in the year?",
+        "a": "1896",
+        "b": "1889",
+        "c": "1920",
+        "d": "1947",
+        "answer": "a"
+    },
+	{
+        "id": 127,
+        "difficulty": 1,
+        "question": "Pluto is classified as a ?",
+        "a": "Planet",
+        "b": "Dwarf Planet",
+        "c": "Star",
+        "d": "Asteroid",
+        "answer": "b"
+    },
+	{
+        "id": 128,
+        "difficulty": 2,
+        "question": "National Emblem of which of these countries shows a lion and a sword?",
+        "a": "India",
+        "b": "South Africa",
+        "c": "Nepal",
+        "d": "Sri Lanka",
+        "answer": "d"
+    },
+	{
+        "id": 129,
+        "difficulty": 1,
+        "question": "Which of these companies is the world's largest maker of computer chips?",
+        "a": "Intel",
+        "b": "Microsoft",
+        "c": "AMD",
+        "d": "Nividia",
+        "answer": "a"
+    },
+	{
+        "id": 130,
+        "difficulty": 3,
+        "question": "The first Internet search engine was?",
+        "a": "Google",
+        "b": "Yahoo",
+        "c": "Bing Search",
+        "d": "Archie",
+        "answer": "d"
+    },
+	{
+        "id": 131,
+        "difficulty": 3,
+        "question": "What is common among the following cities 
+        					Tokyo
+        					Mumbai
+        					Islamabad
+        					Kathmandu?",
+        "a": "All are capital cities",
+        "b": "All cities are in Asia",
+        "c": "All are island cities",
+        "d": "All cities have hosted Common Wealth games",
+        "answer": "b"
+    },
+	{
+        "id": 132,
+        "difficulty": 2,
+        "question": "Who said this famous quote 'government of the people, by the people, for the 								people, shall not perish from the earth'?",
+        "a": "Vladimir Lenin",
+        "b": "Mahatma Gandhi",
+        "c": "Abraham Lincoln",
+        "d": "Nelson Mandela",
+        "answer": "c"
+    },
+	{
+        "id": 133,
+        "difficulty": 5,
+        "question": "The Treaty of Paris, signed in Paris by representatives of King George III of Great Britain 								and representatives of the United States of America on September 3, 1783, ended 								the?",
+        "a": "Civil Rights movement",
+        "b": "American Revolutionary War",
+        "c": "Industrial crisis",
+        "d": "World War I",
+        "answer": "b"
+    },
+	{
+        "id": 134,
+        "difficulty": 4,
+        "question": "Reunification of the East and West Germany happened in the year?",
+        "a": "1985",
+        "b": "1990",
+        "c": "1995",
+        "d": "1998",
+        "answer": "b"
+    },
+	{
+        "id": 	135,
+        "difficulty": 2,
+        "question": "In computer world Trojan refers to ?",
+        "a": "Virus",
+        "b": "Malware",
+        "c": "Worm",
+        "d": "Spyware",
+        "answer": "b"
+    },
+	{
+        "id": 136,
+        "difficulty": 3,
+        "question": "Which protocol is used to recieve e-mail?",
+        "a": "SMTP",
+        "b": "POP3",
+        "c": "HTTP",
+        "d": "FTP",
+        "answer": "b"
+    },
+    {
+        "id": 137,
+        "difficulty": 4,
+        "question": "What geothermal Icelandic site has the same name as a 1980 movie?",
+        "a": "Xanadu",
+        "b": "The Shining",
+        "c": "Heaven's Gate",
+        "d": "The BLue Lagoon",
+        "answer": "d"
+    },
+    {
+        "id": 138,
+        "difficulty": 4,
+        "question": "Which European country technically shares a border with Brazil, because one of its “overseas departments” does?",
+        "a": "Geermany",
+        "b": "Belgium",
+        "c": "France",
+        "d": "Great Britain",
+        "answer": "c"
+    },
+    {
+        "id": 139,
+        "difficulty": 3,
+        "question": "What “finger-lickin’ good” company piloted a chicken-flavoured nail polish?",
+        "a": "Church's Chicken",
+        "b": "KFC",
+        "c": "Popeyes",
+        "d": "Mary Brown's",
+        "answer": "b"
+    },
+    {
+        "id": 140,
+        "difficulty": 4,
+        "question": "What Scottish poet’s works inspired the book titles Of Mice and Men and Catcher in the Rye?",
+        "a": "Robert Louis Stevenson",
+        "b": "Robert Burns",
+        "c": "James Hogg",
+        "d": "Walter Alva Scott",
+        "answer": "b"
+    },
+    {
+        "id": 141,
+        "difficulty": 4,
+        "question": "What Indian mausoleum was called a “teardrop… on the cheek of time” by Nobel Prize in Literature laureate Rabindranath Tagore?",
+        "a": "Tomb of Cyrus",
+        "b": "The Taj Mahal",
+        "c": "Tomb of Jahangir",
+        "d": "Humayun's Tomb",
+        "answer": "b"
+    },
+    {
+        "id": 142,
+        "difficulty": 4,
+        "question": "Which letter is omitted from the names of a prominent LGBTQ+ dating app, a website that hosts over 465 million blogs, and many other tech brands?",
+        "a": "O",
+        "b": "E",
+        "c": "X",
+        "d": "I",
+        "answer": "b"
+    },
+    {
+        "id": 143,
+        "difficulty": 4,
+        "question": "What actor said, “If you had been a public figure since the time you were a toddler…maybe you too would value privacy above all else”?",
+        "a": "Leonardo DiCaprio",
+        "b": "Shirley Temple",
+        "c": "Daniel Redcliffe",
+        "d": "Jodie Foster",
+        "answer": "d"
+    },
+    {
+        "id": 144,
+        "difficulty": 4,
+        "question": "What princess was traditionally called Badr al-Budur before Disney renamed her?",
+        "a": "Belle",
+        "b": "Anna",
+        "c": "Jasmine",
+        "d": "Ariel",
+        "answer": "c"
+    },
+    {
+        "id": 145,
+        "difficulty": 4,
+        "question": "In Swedish, a skvader is a rabbit with what unusual feature?",
+        "a": "Wings",
+        "b": "Glasses",
+        "c": "Leotard",
+        "d": "Giant Hands",
+        "answer": "a"
+    },
+    {
+        "id": 146,
+        "difficulty": 5,
+        "question": "In 2017, the site Bachtrack.com determined the 10 most performed ballets in the world. What composer gave us three of them, including the first?",
+        "a": "Léo Delibes",
+        "b": "Sergei Prokofiev",
+        "c": "Peter Ilyich Tchaikovsky",
+        "d": "Jean-Madeleine Schneitzhoeffer",
+        "answer": "c"
+    },
+    {
+        "id": 147,
+        "difficulty": 2,
+        "question": "The three actors who starred as Magneto, Iron Man and Doctor Strange have all played what other character?",
+        "a": "James Bond",
+        "b": "Basil Fawity",
+        "c": "Ebenezer Scrooge",
+        "d": "Sherlock Homes",
+        "answer": "d"
+    },
+    {
+        "id": 148,
+        "difficulty": 3,
+        "question": "So far, which has been the only FIFA World Cup host not to make it out of the group stage?",
+        "a": "Sweden",
+        "b": "Mexico",
+        "c": "United States",
+        "d": "South Africa",
+        "answer": "d"
+    },
+    {
+        "id": 149,
+        "difficulty": 3,
+        "question": "Worldwide, which is the most commonly transplanted organ from living donors?",
+        "a": "Kidney",
+        "b": "Colon",
+        "c": "Stomach",
+        "d": "Gallbladder",
+        "answer": "a"
+    },
+    {
+        "id": 150,
+        "difficulty": 4,
+        "question": "Who allegedly wrote the song “Golden Years” for Elvis Presley but ended up recording it himself?",
+        "a": "Elton John",
+        "b": "Van Morrison",
+        "c": "David Bowie",
+        "d": "Marvin Gaye",
+        "answer": "c"
+    },
+    {
+        "id": 151,
+        "difficulty": 4,
+        "question": "Who’s the only athlete who ever lit the cauldron for an Olympics and then won a gold medal at those same games?",
+        "a": "Midori Ito",
+        "b": "Cathy Freeman",
+        "c": "Wayne Gretzky",
+        "d": "Usain Bolt",
+        "answer": "b"
+    },
+    {
+        "id": 152,
+        "difficulty": 4,
+        "question": "What French entertainer, activist and secret agent had a pet cheetah named Chiquita?",
+        "a": "Jacques Tati",
+        "b": "Josephine Baker",
+        "c": "Maurice Chevalier",
+        "d": "Edith Piaf",
+        "answer": "b"
+    },
+    {
+        "id": 153,
+        "difficulty": 4,
+        "question": "Which country’s flag features an eagle eating a snake?",
+        "a": "Dominica",
+        "b": "Mozambiqu",
+        "c": "Gaum",
+        "d": "Mexico",
+        "answer": "d"
+    },
+    {
+        "id":154,
+        "difficulty": 5,
+        "question": "In 1986, a U.S. court of appeals ruled that what magic-practising movement qualifies as a religion?",
+        "a": "Wicca",
+        "b": "Scientology",
+        "c": "Nation of Yehwea",
+        "d": "Iglesia Maradoniana",
+        "answer": "a"
+    },
+    {
+        "id":155,
+        "difficulty": 4,
+        "question": "Russia is the world’s largest country (by area), and its largest city (by population) is its capital. What’s the nextlargest country for which this is the case?",
+        "a": "Canada",
+        "b": "China",
+        "c": "Brazil",
+        "d": "Argentina",
+        "answer": "d"
+    },
+    {
+        "id": 156,
+        "difficulty":4 ,
+        "question": "What scientist challenged church dogma but was nevertheless buried in a Catholic cathedral in Frombork, Poland?",
+        "a": "Leonardo da Vinci",
+        "b": "Copernicus",
+        "c": "Bertrand Russell",
+        "d": "Aristotle",
+        "answer": "c"
+    },
+    {
+        "id": 157,
+        "difficulty": 4,
+        "question": "Who dedicated Atlas Shrugged to both her husband and her boyfriend?",
+        "a": "Flannery O’Connor",
+        "b": "Virginia Woolf",
+        "c": " Ayn Rand",
+        "d": "Margaret Atwood",
+        "answer": "c"
+    },
+    {
+        "id": 158 ,
+        "difficulty": 4,
+        "question": "In 2016, a Pizza Hut in Dar es Salaam delivered to the top of what mountain,thus setting a record for the highest-elevation pizza delivery?",
+        "a": "Manaslu",
+        "b": "Denali",
+        "c": "Fuji",
+        "d": "Kilimanjaro",
+        "answer": "d"
+    },
+    {
+        "id": 159,
+        "difficulty": 4,
+        "question": "What international retail chain got its start in Älmhult, Sweden, and runs a museum dedicated to its history there?",
+        "a": "H&M",
+        "b": "Tesco",
+        "c": "IKEA",
+        "d": "Uniqlo",
+        "answer": "c"
+    },
+    {
+        "id": 160 ,
+        "difficulty": 3,
+        "question": "What writer with a highfalutin reputation used jokes about passing wind in such plays as The Comedy of Errors and Othello?",
+        "a": "Christopher Marlow",
+        "b": "Hennry Howard",
+        "c": "Thomas Middleton",
+        "d": "William Shakepeare",
+        "answer": "d"
+    },
+    {
+        "id": 161 ,
+        "difficulty": 3,
+        "question": "What singer was born in Havana in 1957, the daughter of a bodyguard employed by dictator Fulgencio Batista?",
+        "a": "Gloria EStefan",
+        "b": "Cella Cruz",
+        "c": "Jennifer Lopez",
+        "d": "Selena",
+        "answer": "a"
+    },
+    {
+        "id": 162 ,
+        "difficulty": 3,
+        "question": "Although it freed itself from the United States in 1946, what nation’s Independence Day celebrates its declaration of independence from Spain in 1898?",
+        "a": "Mexico",
+        "b": "The Philippines",
+        "c": "Argentina",
+        "d": "Gautemala",
+        "answer": "b"
+    },
+    {
+        "id": 163,
+        "difficulty": 3,
+        "question": "What country’s land is mostly on an island, although most of its people live on a peninsula across the South China Sea?",
+        "a": "Malaysia",
+        "b": "Indonesia",
+        "c": "Thailand",
+        "d": "Papa new Guinea",
+        "answer": "b"
+    },
+    {
+        "id": 164,
+        "difficulty": 3 ,
+        "question": "Gioachino Rossini’s last opera was produced in 1829, complete with Swiss alphorns. What was it?",
+        "a": "The Marriage of Figaro",
+        "b": "Don Giovanni",
+        "c": "The Barber of Seville",
+        "d": "William Tell",
+        "answer": "d"
+    },
+    {
+        "id": 165,
+        "difficulty": 4,
+        "question": "Which of the following is not a sub-atomic particle?",
+        "a": "Hadron",
+        "b": "Bason",
+        "c": "Muon",
+        "d": "Scion",
+        "answer": "d"
+    },
+    {
+        "id": 166,
+        "difficulty": 4,
+        "question": "The world’s oldest known musical instruments are 42,000-year-old flutes made from bird bone and the ivory of what mammal?",
+        "a": "Megalodon",
+        "b": "Mammoth",
+        "c": "Saber-toothed tiger",
+        "d": "Dire wolf",
+        "answer": "b"
+    },
+    {
+        "id": 167,
+        "difficulty": 4,
+        "question": "Who became famous for painting New Mexico landscapes from her Model A Ford?",
+        "a": "Frida Kahlo",
+        "b": " Georgia O’Keeffe",
+        "c": "Helen Frankenthaler",
+        "d": "Tamara de Lempicka",
+        "answer": "b"
+    },
+    {
+        "id": 168,
+        "difficulty": 4,
+        "question": "Which country should you visit if you want to spot a wild platypus?",
+        "a": "Australia",
+        "b": "New Zealand",
+        "c": "Mexico",
+        "d": "Ecuador",
+        "answer": "a"
+    },
+    {
+        "id": 169,
+        "difficulty": 5,
+        "question": "To raise money for charities, who handwrote an 800-word prequel to her bestselling book series?",
+        "a": "E.L. James",
+        "b": "J.K. Rowling",
+        "c": "Suzanne Collins",
+        "d": "Stephanie Meyer",
+        "answer": "b"
+    },
+    {
+        "id": 170,
+        "difficulty": 5,
+        "question": "According to its former minister of tourism, which country is known abroad for its three Rs: reggae, romance and running?",
+        "a": "Curacao",
+        "b": "Bonaire",
+        "c": "The Bahamas",
+        "d": "Jamaica",
+        "answer": "d"
+    },
+    {
+        "id": 171,
+        "difficulty": 5,
+        "question": "Main-sequence stars fuse hydrogen into helium in their cores. What’s the closest one to Earth?",
+        "a": "Pollux",
+        "b": "Sirius",
+        "c": "Rigel",
+        "d": "The Sun",
+        "answer": "d"
+    },
+    {
+        "id": 172,
+        "difficulty": 5,
+        "question": "Mauritius is the only African country where the most commonly practised religion is what?",
+        "a": "Mormonism",
+        "b": "Hinduism",
+        "c": "Protestantism",
+        "d": "Atheism",
+        "answer": "b"
+    },
+    {
+        "id": 173,
+        "difficulty": 4,
+        "question": "Structures in Tokyo, Las Vegas, Shenzhen and Paris, Texas, all look like what French monument?",
+        "a": "Notre-Dame Cathedral",
+        "b": "The Eiffel Tower",
+        "c": "Musée d’Orsay",
+        "d": " Champs-Élysées",
+        "answer": "b"
+    },
+    {
+        "id": 174,
+        "difficulty": 3,
+        "question": "What movie star uses his middle initial, B, for “Bakari,” to avoid confusion with a retired basketball star?",
+        "a": "Allen B. Iverson",
+        "b": " Larry B. Bird",
+        "c": " Walt B. Frazier",
+        "d": "Michael B. Jordan",
+        "answer": "d"
+    },
+    {
+        "id": 175,
+        "difficulty": 4,
+        "question": "Which country’s late monarch, King Bhumibol Adulyadej, got a patent for a rainmaking technology?",
+        "a": "Bhutan",
+        "b": "Tonga",
+        "c": "Thailand",
+        "d": "Bahrain",
+        "answer": "c"
+    },
+    {
+        "id": 176,
+        "difficulty": 5,
+        "question": "What was the first American prime-time network TV drama since the 1970s to star a Black woman as the lead character?",
+        "a": "Scandal",
+        "b": "How to Get Away with Murder",
+        "c": "Black-ish",
+        "d": " Dear White People",
+        "answer": "a"
+    },
+    {
+        "id": 177,
+        "difficulty": 5,
+        "question": "Kersti Kaljulaid was 46 years old when she became the youngest president ever elected to lead which country?",
+        "a": "Belarus",
+        "b": " Lithuania",
+        "c": "Latvia",
+        "d": "Estonia",
+        "answer": "d"
+    },
+    {
+        "id": 178,
+        "difficulty": 4,
+        "question": "Queen Mary Tudor of England is better known to history by what name?",
+        "a": "Crazy Mary",
+        "b": "Screaming Mary",
+        "c": "Bloody Mary",
+        "d": "Crying Mary",
+        "answer": "c"
+    },
+    {
+        "id": 179,
+        "difficulty": 5,
+        "question": "The “Eddie Murphy Rule” banned certain kinds of insider trading in commodities markets. It was inspired by Murphy’s role in what film?",
+        "a": "48 Hrs.",
+        "b": "Trading Places",
+        "c": "Beverly Hills Cop",
+        "d": "Coming to America",
+        "answer": "b"
+    },
+    {
+        "id": 180,
+        "difficulty": 5,
+        "question": "What two Renaissance artists were commissioned to paint rivalling frescoes at the Palazzo Vecchio in Florence?",
+        "a": "Donatello and Botticelli",
+        "b": "Raphael and Caravaggio",
+        "c": "Titian and Masaccio",
+        "d": "Leonardo da Vinci and Michelangelo",
+        "answer": "d"
+    },
+    {
+        "id": 181,
+        "difficulty": 4,
+        "question": "What flightless bird, now extinct, was last seen on an island off the coast of Iceland?",
+        "a": "Saint Helena hoopoe",
+        "b": "Amsterdam wigeon",
+        "c": "The great auk (Pinguinus impennis)",
+        "d": "Jamaican caracara",
+        "answer": "c"
+    },
+    {
+        "id": 182,
+        "difficulty": 5,
+        "question": "Arancini is an Italian delicacy. Its name means “little orange” but it’s actually made mostly of what?",
+        "a": " Lamb",
+        "b": "Rice",
+        "c": "Tagliatelle",
+        "d": "Egg",
+        "answer": "b"
+    },
+    {
+        "id": 183,
+        "difficulty": 4,
+        "question": "Among land animals, what species has the largest eyes?",
+        "a": "Tarsier",
+        "b": "Gibbon",
+        "c": "Owl",
+        "d": "Ostrich",
+        "answer": "d"
+    },
+    {
+        "id": 184,
+        "difficulty": 5,
+        "question": "Humphrey Bogart won his only Oscar for what motion picture?",
+        "a": "The Maltese Falcon",
+        "b": "The African Queen",
+        "c": " The Caine Mutiny",
+        "d": "Casablanca",
+        "answer": "b"
+    },
+    {
+        "id": 185,
+        "difficulty": 4,
+        "question": "Which Disney princess had two stepsisters, Anastasia and Drizella?",
+        "a": "Ariel",
+        "b": "Cinderella",
+        "c": "Elsa",
+        "d": "Merida",
+        "answer": "b"
+    },
+    {
+        "id": 186,
+        "difficulty": 4,
+        "question": "What historic figure was assassinated near the Miljacka River in 1914?",
+        "a": " Nicholas II",
+        "b": "William McKinley",
+        "c": " Carlos I",
+        "d": " Franz Ferdinand",
+        "answer": "d"
+    },
+    {
+        "id": 187,
+        "difficulty": 4,
+        "question": "Which member of boxing’s “Fabulous Four” was the only one who defeated each of the other three at least once?",
+        "a": "Sugar Ray Leonard",
+        "b": "Joe Frazier",
+        "c": "Jack Dempsey",
+        "d": "Muhammad Ali",
+        "answer": "a"
+    },
+    {
+        "id": 188,
+        "difficulty": 3,
+        "question": "Which country, other than Switzerland, uses the Swiss franc?",
+        "a": "Belgium",
+        "b": " Slovenia",
+        "c": "Liechtenstein",
+        "d": "Croatia",
+        "answer": "c"
+    },
+    {
+        "id": 189,
+        "difficulty": 4,
+        "question": "Which is the southernmost country in the European Union with no Mediterranean coastline?",
+        "a": "Portugal",
+        "b": "Spain",
+        "c": "France",
+        "d": "Switzerland",
+        "answer": "a"
+    },
+    {
+        "id": 190,
+        "difficulty": 3,
+        "question": "What comedy became the first film directed by a woman to gross over $100 million at the box office?",
+        "a": "A League of Their Own",
+        "b": "Big",
+        "c": "Clueless",
+        "d": "Bend It Like Beckham",
+        "answer": "b"
+    },
+    {
+        "id": 191,
+        "difficulty": 4,
+        "question": "Which of Sri Lanka’s official languages also has official status in Singapore and parts of India?",
+        "a": "Sinhala",
+        "b": "Tamil",
+        "c": "Veddah",
+        "d": "Brahmi",
+        "answer": "b"
+    },
+    {
+        "id": 192,
+        "difficulty": 5,
+        "question": "Which Toni Morrison novel is about a character with the unusual name Milkman Dead III?",
+        "a": "Song of Solomon",
+        "b": "Beloved",
+        "c": "The Bluest Eye",
+        "d": " God Help the Child",
+        "answer": "a"
+    },
+    {
+        "id": 193,
+        "difficulty": 5,
+        "question": "In 1901, Guglielmo Marconi received the first transatlantic wireless signal from atop Signal Hill in which city?",
+        "a": "New York City, New York",
+        "b": "Boston, Massachusetts ",
+        "c": "Halifax, Nova Scotia",
+        "d": "St. John’s, Newfoundland",
+        "answer": "d"
+    },
+    {
+        "id": 194,
+        "difficulty": 4,
+        "question": "So far, which continent has hosted the Olympics the most times?",
+        "a": "Asia",
+        "b": "Africa",
+        "c": "North America",
+        "d": "Europe",
+        "answer": "d"
+    },
+    {
+        "id": 195,
+        "difficulty": 4,
+        "question": "In 2012, what became the first movie to win both the Oscar for Best Picture and France’s César Award for Best Film?",
+        "a": "Rust and Bone",
+        "b": "The Artist",
+        "c": "Holy Motors   ",
+        "d": "The Intouchables",
+        "answer": "b"
+    }
