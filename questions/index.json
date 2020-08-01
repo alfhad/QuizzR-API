@@ -258,6 +258,186 @@
         "c": "New York",
         "d": "London",
         "answer": "a"
+    },
+    {
+        "id": 26,
+        "difficulty": 4,
+        "question": "Which scientist shared the Nobel Prize for Physics with the Curies in 1903?",
+        "a": "Antoine Becquerel",
+        "b": "Max Planck",
+        "c": "Ernest Rutherford",
+        "d": "Niels Bohr",
+        "answer": "a"
+    },
+    {
+        "id": 27,
+        "difficulty": 3,
+        "question": "Which of these is not an official language of the United Nations?",
+        "a": "Spanish",
+        "b": "French",
+        "c": "Italian",
+        "d": "English",
+        "answer": "c"
+    },
+    {
+        "id": 28,
+        "difficulty": 5,
+        "question": "Which is the southernmost point of the continent of Africa?",
+        "a": "Cape Horn",
+        "b": "Cape of Good Hope",
+        "c": "Cape Hatteras",
+        "d": "Cape Agulhas",
+        "answer": "d"
+    },
+    {
+        "id": 29,
+        "difficulty": 5,
+        "question": "Who first climbed the highest peak on each of all the seven continents?",
+        "a": "Daniel Johnson",
+        "b": "Rick Bass",
+        "c": "Phil Hartman",
+        "d": "Reinhold Messner",
+        "answer": "b"
+    },
+    {
+        "id": 30,
+        "difficulty": 5,
+        "question": "How many obstacles are there in the 3000m steeplechase athletic event?",
+        "a": "16",
+        "b": "35",
+        "c": "24",
+        "d": "32",
+        "answer": "b"
+    },
+    {
+        "id": 31,
+        "difficulty": 5,
+        "question": "Where was the worlds' first fingerprinting bureau established?",
+        "a": "Calcutta",
+        "b": "Paris",
+        "c": "New York",
+        "d": "London",
+        "answer": "a"
+    },
+    {
+        "id": 32,
+        "difficulty": 1,
+        "question": "In Scrabble, which tile has a value of zero?",
+        "a": "S",
+        "b": "Nill",
+        "c": "Blank",
+        "d": "Zero",
+        "answer": "c"
+    },
+    {
+        "id": 33,
+        "difficulty": 1,
+        "question": "Finish the old saying, 'The longest journey starts with ___'?",
+        "a": "A bright idea",
+        "b": "A packed bag",
+        "c": "A single step",
+        "d": "A ticket",
+        "answer": "c"
+    },
+    {
+        "id": 34,
+        "difficulty": 1,
+        "question": "Who is the brother of Nintendo's Italian plumber Mario?",
+        "a": "Twitty",
+        "b": "Sal",
+        "c": "Bowser",
+        "d": "Luigi",
+        "answer": "d"
+    },
+    {
+        "id": 35,
+        "difficulty": 2,
+        "question": "What species of bird builds the largest nests in North America?",
+        "a": "Bald Eagle",
+        "b": "Raven",
+        "c": "Flamingo",
+        "d": "Mallard",
+        "answer": "a"
+    },
+    {
+        "id": 36,
+        "difficulty": 2,
+        "question": "The movie 'Stand By Me' was based on a novella by whom?",
+        "a": "Stephen King",
+        "b": "Truman Capote",
+        "c": "JD Salinger",
+        "d": "Ian Fleming",
+        "answer": "a"
+    },
+    {
+        "id": 37,
+        "difficulty": 2,
+        "question": "What alcoholic drink is made from juniper berries among others?",
+        "a": "Sambuca",
+        "b": "Gin",
+        "c": "Vodka",
+        "d": "Ouzo",
+        "answer": "b"
+    },
+    {
+        "id": 38,
+        "difficulty": 2,
+        "question": "In April 2015, a major earthquake killed over 9,000 people in which mountainous Asian country?",
+        "a": "Tajikistan",
+        "b": "Bhutan",
+        "c": "Mongolia",
+        "d": "Nepal",
+        "answer": "d"
+    },
+    {
+        "id": 39,
+        "difficulty": 3,
+        "question": "Which driver has been Formula 1 World Champion a record 7 times?",
+        "a": "Alain Prost",
+        "b": "Michael Schumacher",
+        "c": "Sebastin Vettel",
+        "d": "Mika Hakkinen",
+        "answer": "b"
+    },
+    {
+        "id": 40,
+        "difficulty": 3,
+        "question": "When blood is first pumped out of the right side of the human heart, where does it get sent first?",
+        "a": "Brain",
+        "b": "Limbs",
+        "c": "Kidney",
+        "d": "Lungs",
+        "answer": "d"
+    },
+    {
+        "id": 41,
+        "difficulty": 3,
+        "question": "Name the fifth movie in the 'Mission Impossible' movie series, released in 2015?",
+        "a": "Sleeper Cell",
+        "b": "Delta Protocol",
+        "c": "Lethal Force",
+        "d": "Rogue Nation",
+        "answer": "d"
+    },
+    {
+        "id": 42,
+        "difficulty": 1,
+        "question": "Who wrote the Lord of the Rings Trilogy?",
+        "a": "J.R.R. Tolkien",
+        "b": "J.K. Rowling",
+        "c": "Ray Bradbury",
+        "d": "C.S. Lewis",
+        "answer": "a"
+    },
+    {
+        "id": 43,
+        "difficulty": 4,
+        "question": "La Paz and Sucre are cities in which country?",
+        "a": "Ecuador",
+        "b": "Bolivia",
+        "c": "Honduras",
+        "d": "Belize",
+        "answer": "b"
     }
     
 ]
