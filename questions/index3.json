@@ -1,0 +1,1003 @@
+[
+    {
+        "id": 200,
+        "difficulty": 1,
+        "question": "What is the highest-grossing film of all time without taking inflation into account?",
+        "a": "Titanic ",
+        "b": "Avengers: Endgame",
+        "c": "Avatar",
+        "d": "Star Wars: The Force Awakens",
+        "answer": "b"
+    },
+    {
+        "id": 201,
+        "difficulty": 2,
+        "question": "Which film did Steven Spielberg win his first Oscar for Best Director?",
+        "a": "Jaws",
+        "b": "Catch Me If You Can",
+        "c": "E.T.",
+        "d": "Schindler’s List",
+        "answer": "d"
+    },
+    {
+        "id": 202,
+        "difficulty": 1,
+        "question": " Which film won the first Academy Award for Best Picture?",
+        "a": "All Quiet on the Western Front",
+        "b": "Sunrisee",
+        "c": "Wings",
+        "d": "Metropolis",
+        "answer": "c"
+    },
+    {
+        "id": 203,
+        "difficulty": 2,
+        "question": "What was the first feature-length animated film ever released?",
+        "a": "Pinocchio",
+        "b": "Fantasia",
+        "c": "Snow White and the Seven Dwarfs ",
+        "d": "Dumbo",
+        "answer": "c"
+    },
+    {
+        "id": 204,
+        "difficulty": 3,
+        "question": "What was the first original Disney song to win an Academy Award for Best Original Song?",
+        "a": "Someday My Prince Will Come",
+        "b": "Circle of Life",
+        "c": "Beauty and the Beast",
+        "d": "When You Wish Upon a Star",
+        "answer": "d"
+    },
+    {
+        "id": 205,
+        "difficulty": 1,
+        "question": "What short film featured Mickey Mouse’s first appearance?",
+        "a": "Plane Crazy",
+        "b": "Wild Waves",
+        "c": "The Band Concert",
+        "d": "The Barnyard Concert",
+        "answer": "a"
+    },
+    {
+        "id": 206,
+        "difficulty": 3,
+        "question": "What was the last movie Walt Disney was able to work on before he died?",
+        "a": "Mary Poppins",
+        "b": "101 Dalmatians",
+        "c": "The Jungle Book",
+        "d": "The Sword in the Stone",
+        "answer": "c"
+    },
+    {
+        "id": 207,
+        "difficulty": 2,
+        "question": " What team has the longest winning streak in NBA history?",
+        "a": "Chicago Bulls",
+        "b": "Los Angeles Lakers",
+        "c": "Golden State Warriors",
+        "d": "Phoenix Suns",
+        "answer": "b"
+    },
+    {
+        "id": 208,
+        "difficulty": 3,
+        "question": "What team won the first NBA game?",
+        "a": "Boston Celtics",
+        "b": "Golden State Warriors",
+        "c": "Philadelphia 76ers",
+        "d": "New York Knicks",
+        "answer": "d"
+    },
+    {
+        "id": 209,
+        "difficulty": 4,
+        "question": " Who is the current commissioner of Major League Soccer (MLS)?",
+        "a": "Roger Goodell",
+        "b": "Don Garber",
+        "c": "Paul Tagliabue",
+        "d": "Pete Rozellea",
+        "answer": "b"
+    },
+    {
+        "id": 210,
+        "difficulty": 3,
+        "question": "Who won Chelsea player of the year in 2012 and 2013?",
+        "a": "Eden Hazard",
+        "b": "David Luiz",
+        "c": "Fabio Borini",
+        "d": "Juan Matay",
+        "answer": "d"
+    }
+    {
+        "id": 211,
+        "difficulty": 1,
+        "question": "What day of the year is considered National Pi Day?",
+        "a": "March 14th",
+        "b": "May 14th",
+        "c": "March 4th",
+        "d": "May 4th",
+        "answer": "a"
+    },
+    {
+        "id": 212,
+        "difficulty": 2,
+        "question": " What mathematician published “The Element” and influenced the study of geometry?",
+        "a": "Archimedes",
+        "b": "Leonhard Euler",
+        "c": "Pierre de Fermat",
+        "d": "Euclid",
+        "answer": "d"
+    },
+    {
+        "id": 213,
+        "difficulty": 1,
+        "question": "What mathematician published more papers in his lifetime than any other mathematician in history?",
+        "a": "Paul Erdos",
+        "b": "Isaac Newton",
+        "c": "Leonhard Euler",
+        "d": "Archimedes",
+        "answer": "a"
+    },
+    {
+        "id": 214,
+        "difficulty": 2,
+        "question": " What is the warmest sea on Earth?",
+        "a": "Dead sea",
+        "b": "White sea",
+        "c": "Red sea",
+        "d": "Black sea",
+        "answer": "c"
+    },
+    {
+        "id": 215,
+        "difficulty": 3,
+        "question": "What is the only major city located on two continents?",
+        "a": "Reykjavik",
+        "b": "Istanbul",
+        "c": "Mowcow",
+        "d": "Madrid",
+        "answer": "b"
+    },
+    {
+        "id": 216,
+        "difficulty": 1,
+        "question": " What year did the Cold War officially end?",
+        "a": "1988",
+        "b": "1989",
+        "c": "1990",
+        "d": "1991",
+        "answer": "b"
+    },
+    {
+        "id": 217,
+        "difficulty": 3,
+        "question": "How many U.S. presidents have been elected for two terms?",
+        "a": "9",
+        "b": "12",
+        "c": "14",
+        "d": "15",
+        "answer": "b"
+    },
+    {
+        "id": 218,
+        "difficulty": 2,
+        "question": " How many people make up the U.S. electoral college?",
+        "a": "270",
+        "b": "352",
+        "c": "442",
+        "d": "538",
+        "answer": "d"
+    },
+    {
+        "id": 219,
+        "difficulty": 3,
+        "question": " Which astronomer first discovered the sunspots on the surface of the sun?",
+        "a": "Nicolaus Copernicus",
+        "b": "Galileo Galilei",
+        "c": "Johannes Kepler",
+        "d": "Isaac Newton",
+        "answer": "b"
+    },
+    {
+        "id": 220,
+        "difficulty": 4,
+        "question": "Who is considered the founder of the modern study of genetics?",
+        "a": "Erich von Tschermak",
+        "b": "Carl Correns",
+        "c": "Hugo de Vries",
+        "d": "Gregor Mendel",
+        "answer": "d"
+    },
+    {
+        "id"221,
+        "difficulty": 3,
+        "question": "When was the idea of the atom first introduced in historical records?",
+        "a": "400 B.C.",
+        "b": "450 B.C.",
+        "c": "500 B.C.",
+        "d": "550 B.C.",
+        "answer": "b"
+    }
+    {
+        "id": 222,
+        "difficulty": 1,
+        "question": " Which nut is used to make dynamite?",
+        "a": "Almonds",
+        "b": "Pine nuts",
+        "c": "Peanuts",
+        "d": "Walnuts",
+        "answer": "c"
+    },
+    {
+        "id": 223,
+        "difficulty": 2,
+        "question": "What was the first cold breakfast cereal invented in 1863?",
+        "a": "Granola",
+        "b": "Corn flakes",
+        "c": "Bran flakes",
+        "d": "Cheerios",
+        "answer": "a"
+    },
+    {
+        "id": 224,
+        "difficulty": 1,
+        "question": "Who invented Coca-Cola?",
+        "a": "Asa Griggs Candler",
+        "b": "Charles Elmer Hires",
+        "c": "John Matthews",
+        "d": "John Pemberton",
+        "answer": "d"
+    },
+    {
+        "id": 225,
+        "difficulty": 2,
+        "question": "What is the only U.S. state to grow coffee beans?",
+        "a": "Florida",
+        "b": "California",
+        "c": "Hawaii",
+        "d": "Louisiana",
+        "answer": "c"
+    },
+    {
+        "id": 226,
+        "difficulty": 3,
+        "question": "What is the only edible food that never expires?",
+        "a": "White rice",
+        "b": "Rye",
+        "c": "Rye",
+        "d": "Honey",
+        "answer": "d"
+    },
+    {
+        "id": 227,
+        "difficulty": 1,
+        "question": " What is a group of turkeys called?",
+        "a": "A clutch",
+        "b": "A rafter",
+        "c": "A brood",
+        "d": "A peep",
+        "answer": "b"
+    },
+    {
+        "id": 228,
+        "difficulty": 3,
+        "question": " What was the first car to break the sound barrier?",
+        "a": "Bloodhound",
+        "b": "X-1",
+        "c": "Bugatti Chiron ",
+        "d": "ThrustSSC",
+        "answer": "d"
+    },
+    {
+        "id": 229,
+        "difficulty": 2,
+        "question": "What was Google’s original name? ",
+        "a": "Googol",
+        "b": "Oneshoto",
+        "c": "Typist",
+        "d": "Backrub",
+        "answer": "d"
+    },
+    {
+        "id": 230,
+        "difficulty": 3,
+        "question": "What year was the first color photograph taken?1861",
+        "a": "1861",
+        "b": "1885",
+        "c": "1885",
+        "d": "1899",
+        "answer": "a"
+    },
+    {
+        "id": 231,
+        "difficulty": 4,
+        "question": "What was the number of Twitter’s original character limit?",
+        "a": "125",
+        "b": "135",
+        "c": "280",
+        "d": "140",
+        "answer": "d"
+    },
+    {
+        "id": 232,
+        "difficulty": 3,
+        "question": " What is the most expensive book ever sold?",
+        "a": "Birds of America",
+        "b": "First Folio",
+        "c": "Codex Leicester",
+        "d": "The Gospels of Henry the Lion",
+        "answer": "c"
+    }
+    {
+        "id": 233,
+        "difficulty": 1,
+        "question": "How many Pyramids of Giza were made?",
+        "a": "7",
+        "b": "5",
+        "c": "3",
+        "d": "9",
+        "answer": "c"
+    },
+    {
+        "id": 234,
+        "difficulty": 2,
+        "question": "How many cards are there in a deck of Uno?",
+        "a": "54",
+        "b": "108",
+        "c": "216",
+        "d": "81",
+        "answer": "b"
+    },
+    {
+        "id": 235,
+        "difficulty": 1,
+        "question": "In which country is there a natural gas pit nicknamed the ‘Door to Hell’ that has been on fire since 1971?",
+        "a": "Turkmenistan",
+        "b": "Azerbaijan",
+        "c": "Bulgaria",
+        "d": "Icelaand",
+        "answer": "a"
+    },
+    {
+        "id": 236,
+        "difficulty": 2,
+        "question": "In 2013 which two airlines merged to become the world’s largest airline?",
+        "a": "Air France and KLM",
+        "b": "American Airlines and US Airways",
+        "c": "British Airways and Iberia",
+        "d": "Lufthansa and Germanwings",
+        "answer": "b"
+    },
+    {
+        "id": 237,
+        "difficulty": 3,
+        "question": "The International Literacy Day is observed on?",
+        "a": "Sep 8",
+        "b": "Nov 28",
+        "c": "May 2",
+        "d": "Sep 22",
+        "answer": "a"
+    },
+    {
+        "id": 238,
+        "difficulty": 1,
+        "question": "The language of Lakshadweep. a Union Territory of India, is?",
+        "a": "Tamil",
+        "b": "Hindi",
+        "c": "Malayalam",
+        "d": "Telugu",
+        "answer": "c"
+    },
+    {
+        "id": 239,
+        "difficulty": 3,
+        "question": "Which day is observed as the World Standards  Day?",
+        "a": "June 26",
+        "b": "Oct 14",
+        "c": "Nov 15",
+        "d": "Dec 2",
+        "answer": "b"
+    },
+    {
+        "id":240,
+        "difficulty": 2,
+        "question": "Which of the following was the theme of the World Red Cross and Red Crescent Day?",
+        "a": "Dignity for all - focus on women",
+        "b": "Dignity for all - focus on Children",
+        "c": "Focus on health for all",
+        "d": "Nourishment for all-focus on children",
+        "answer": "b"
+    },
+    {
+        "id": 241,
+        "difficulty": 3,
+        "question": "September 27 is celebrated every year as?",
+        "a": "Teachers' Day",
+        "b": "National Integration Day",
+        "c": "World Tourism Day",
+        "d": "International Literacy Day",
+        "answer": "c"
+    },
+    {
+        "id": 242,
+        "difficulty": 4,
+        "question": "International Literacy Day",
+        "a": "Khushwant Singh",
+        "b": "Prem Chanda",
+        "c": "Jayashankar Prasad",
+        "d": "Amrit Lal Naga",
+        "answer": "d"
+    },
+    {
+        "id": 243,
+        "difficulty": 3,
+        "question": "Who is the author of the epic 'Meghdoot"?",
+        "a": "Vishakadatta",
+        "b": "Valmiki",
+        "c": "Kalidas",
+        "d": "Banabhatta",
+        "answer": "c"
+    }
+    {
+        "id": 244,
+        "difficulty": 1,
+        "question": "'Good Friday' is observed to commemorate the event of?",
+        "a": "birth of Jesus Christ",
+        "b": "birth of' St. Peter",
+        "c": "crucification 'of Jesus Christ",
+        "d": "rebirth of Jesus Christ",
+        "answer": "c"
+    },
+    {
+        "id": 245,
+        "difficulty": 2,
+        "question": "What is the name for the Jewish New Year?",
+        "a": "Hanukkah",
+        "b": "Yom Kippur",
+        "c": "Kwanza",
+        "d": "Rosh Hashanah",
+        "answer": "d"
+    },
+    {
+        "id": 246,
+        "difficulty": 1,
+        "question": "How many blue stripes are there on the U.S. flag?",
+        "a": "6",
+        "b": "7",
+        "c": "13",
+        "d": "0",
+        "answer": "d"
+    },
+    {
+        "id": 247,
+        "difficulty": 2,
+        "question": "Which one of these characters is not friends with Harry Potter?",
+        "a": "Ron Weasley",
+        "b": "Neville Longbottom",
+        "c": "Draco Malfoy",
+        "d": "Hermione Granger",
+        "answer": "c"
+    },
+    {
+        "id": 248,
+        "difficulty": 3,
+        "question": "What was the name of the band Lionel Richie was a part of?",
+        "a": "King Harvest",
+        "b": "Spectrums",
+        "c": "Commodores",
+        "d": "The Marshall Tucker Band",
+        "answer": "c"
+    },
+    {
+        "id": 249,
+        "difficulty": 1,
+        "question": "Which animal does not appear in the Chinese zodiac?",
+        "a": "Dragon",
+        "b": "Rabbit",
+        "c": "Dog",
+        "d": "Hummingbird",
+        "answer": "d"
+    },
+    {
+        "id": 250,
+        "difficulty": 3,
+        "question": "Which country held the 2016 Summer Olympics?",
+        "a": "Chinay",
+        "b": "Ireland",
+        "c": "Brazil",
+        "d": "Italy",
+        "answer": "c"
+    },
+    {
+        "id": 251,
+        "difficulty": 2,
+        "question": "Who was the only U.S. President to resign?",
+        "a": "Herbert Hoover",
+        "b": "Richard Nixon",
+        "c": "George W. Bush",
+        "d": "Barack Obama",
+        "answer": "b"
+    },
+    {
+        "id": 252,
+        "difficulty": 3,
+        "question": "In which city can you find the Liberty Bell?",
+        "a": "Washington, D.C.",
+        "b": "Boston",
+        "c": "Philadelphia",
+        "d": "Manhattan",
+        "answer": "c"
+    },
+    {
+        "id": 253,
+        "difficulty": 4,
+        "question": "In Pirates of the Caribbean, what was the name of Captain Jack Sparrow’s ship?",
+        "a": "The Marauder",
+        "b": "The Black Pearl",
+        "c": "The Black Python",
+        "d": "The Slytherin",
+        "answer": "b"
+    },
+    {
+        "id": 254,
+        "difficulty": 3,
+        "question": "The British band One Direction (rip) was made up of Harry, Louis, Niall, Zayn, and ____?",
+        "a": "Paul",
+        "b": "Callum",
+        "c": "Kevin",
+        "d": "Liam",
+        "answer": "d"
+    }
+    {
+        "id": 255,
+        "difficulty": 1,
+        "question": "What is the rarest blood type?",
+        "a": "O",
+        "b": "A",
+        "c": "B",
+        "d": "AB-Negative",
+        "answer": "d"
+    },
+    {
+        "id": 256,
+        "difficulty": 2,
+        "question": "Which U.S. state is known as the sunflower state?",
+        "a": "Florida",
+        "b": "California",
+        "c": "Maine",
+        "d": "Kansas",
+        "answer": "d"
+    },
+    {
+        "id": 257,
+        "difficulty": 1,
+        "question": "Which famous singer released a song called “Adore You”?",
+        "a": "Harry Styles",
+        "b": "Dua Lipa",
+        "c": "Halsey",
+        "d": "Shawn Mendes",
+        "answer": "a"
+    },
+    {
+        "id": 258,
+        "difficulty": 2,
+        "question": "What year did Barbie come out?",
+        "a": "1958",
+        "b": "1959",
+        "c": "1956",
+        "d": "1961",
+        "answer": "b"
+    },
+    {
+        "id": 259,
+        "difficulty": 3,
+        "question": "What is Shakespeare’s shortest tragedy?",
+        "a": "Macbeth",
+        "b": "Hamlet",
+        "c": "Romeo & Juliet",
+        "d": "Othello",
+        "answer": "a"
+    },
+    {
+        "id": 260,
+        "difficulty": 1,
+        "question": "WHow many hearts does an octopus have?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "answer": "c"
+    },
+    {
+        "id":261,
+        "difficulty": 3,
+        "question": "Who wrote The Scarlett Letter?",
+        "a": "Shakespeare",
+        "b": "Stephen King",
+        "c": "Nathanial Hawthorne",
+        "d": "Ernest Hemingway",
+        "answer": "c"
+    },
+    {
+        "id": 262,
+        "difficulty": 2,
+        "question": "Which boyband sings the song “I Want It That Way”?",
+        "a": "One Direction",
+        "b": "Backstreet Boys",
+        "c": "NSYNC",
+        "d": "New Kids On The Block",
+        "answer": "b"
+    },
+    {
+        "id": 263,
+        "difficulty": 3,
+        "question": "Who painted the Sistine Chapel ceiling?",
+        "a": "Picasso",
+        "b": "Da Vinci",
+        "c": "Michelangelo",
+        "d": "Van Gogh",
+        "answer": "c"
+    },
+    {
+        "id": 264,
+        "difficulty": 4,
+        "question": "Which country gifted the Statue of Liberty to the U.S.?",
+        "a": "Germany",
+        "b": "China",
+        "c": "France",
+        "d": "Italy",
+        "answer": "c"
+    },
+    {
+        "id": 265,
+        "difficulty": 3,
+        "question": "Which country consumes the most chocolate?",
+        "a": "Spain",
+        "b": "Germany",
+        "c": "Switzerland",
+        "d": "North America",
+        "answer": "c"
+    }
+    {
+        "id": 266,
+        "difficulty": 1,
+        "question": "Who wrote the songs for The Lion King? ",
+        "a": "Elton John",
+        "b": "Phil Collins",
+        "c": "Celine Dion",
+        "d": "Stevie Wonder",
+        "answer": "a"
+    },
+    {
+        "id": 267,
+        "difficulty": 2,
+        "question": "Which U.S. state is known as “America’s Dairyland”?",
+        "a": "Minnesota",
+        "b": "Iowa",
+        "c": "Pennsylvania",
+        "d": "Wisconsin",
+        "answer": "d"
+    },
+    {
+        "id": 268,
+        "difficulty": 1,
+        "question": "Which Olympic sport is Michael Phelps known for?",
+        "a": "Snowboarding",
+        "b": "Skiing",
+        "c": "Running",
+        "d": "Swimming",
+        "answer": "d"
+    },
+    {
+        "id": 269,
+        "difficulty": 2,
+        "question": "What is the complementary color of green?",
+        "a": "blue",
+        "b": "yellow",
+        "c": "red",
+        "d": "purple",
+        "answer": "c"
+    },
+    {
+        "id": 270,
+        "difficulty": 3,
+        "question": "In what year did women get the right to vote?",
+        "a": "1910",
+        "b": "1920",
+        "c": "1930",
+        "d": "1940",
+        "answer": "b"
+    },
+    {
+        "id": 271,
+        "difficulty": 1,
+        "question": "Which is the most venemous snake in world?",
+        "a": "Inland Taipan",
+        "b": "King Cobra",
+        "c": "Black Mamba",
+        "d": "Gaboon Viper",
+        "answer": "a"
+    },
+    {
+        "id": 272,
+        "difficulty": 3,
+        "question": "What was the name of the Greek mythological woman who had snakes for hair?",
+        "a": "Pandora",
+        "b": "Helen",
+        "c": "Cassiopeia",
+        "d": "Medusa",
+        "answer": "d"
+    },
+    {
+        "id": 273,
+        "difficulty": 2,
+        "question": "In Greek Mythology, who is the Queen of the Underworld?",
+        "a": "Pandora",
+        "b": "Medusa",
+        "c": "Helen",
+        "d": "Persephone",
+        "answer": "d"
+    },
+    {
+        "id": 274,
+        "difficulty": 3,
+        "question": "Which two planets in our solar system are known as “ice giants”?",
+        "a": " Neptune and Jupiter",
+        "b": " Uranus and Pluto",
+        "c": " Uranus and Pluto",
+        "d": "Neptune and Uranus",
+        "answer": "d"
+    },
+    {
+        "id": 275,
+        "difficulty": 4,
+        "question": "What animal is associated with ancient Egypt?",
+        "a": "lion",
+        "b": "cat",
+        "c": "hummingbird",
+        "d": "rabbit",
+        "answer": "b"
+    },
+    {
+        "id": 276,
+        "difficulty": 3,
+        "question": "How many time zones are there in the world?",
+        "a": "7",
+        "b": "23",
+        "c": "24",
+        "d": "9",
+        "answer": "c"
+    }
+    {
+        "id": 277,
+        "difficulty": 1,
+        "question": "How many eyes does a spider have?",
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "2",
+        "answer": "a"
+    },
+    {
+        "id": 278,
+        "difficulty": 2,
+        "question": "Where did India play its 1st one day international match?",
+        "a": "Lords",
+        "b": "Headingly",
+        "c": "Taunton",
+        "d": "The Oval",
+        "answer": "b"
+    },
+    {
+        "id": 279,
+        "difficulty": 1,
+        "question": "Who was the 1st ODI captain for India?",
+        "a": "Ajit Wadekar",
+        "b": "Bishen Singh Bedi",
+        "c": "Nawab Pataudi",
+        "d": "Vinoo Mankad",
+        "answer": "a"
+    },
+    {
+        "id": 280,
+        "difficulty": 2,
+        "question": "When was the first cricket Test match played?",
+        "a": "1873",
+        "b": "1877",
+        "c": "1870",
+        "d": "1788",
+        "answer": "b"
+    },
+    {
+        "id": 281,
+        "difficulty": 3,
+        "question": "Which of the following countries does not share its border with Black Sea?",
+        "a": "Georgia",
+        "b": "Bulgaria",
+        "c": "Belarus",
+        "d": "Turkey",
+        "answer": "c"
+    },
+    {
+        "id": 282,
+        "difficulty": 1,
+        "question": "How many times Sun is heavier than Earth?",
+        "a": "3,300 times",
+        "b": "33,000 times",
+        "c": "3,30,000 times",
+        "d": "33,30,000 times",
+        "answer": "c"
+    },
+    {
+        "id": 283,
+        "difficulty": 3,
+        "question": "Which among the following is Brightest star?",
+        "a": "Sirius",
+        "b": " Alpha centauri",
+        "c": "Proxima Centauri",
+        "d": "Polaris",
+        "answer": "a"
+    },
+    {
+        "id": 284,
+        "difficulty": 2,
+        "question": "Which cricketer has the highest batting average in test cricket everr?",
+        "a": "Sir Don Bradman",
+        "b": "Sachin R. Tendulkar",
+        "c": "Virat Kohli",
+        "d": "Brain Lara",
+        "answer": "a"
+    },
+    {
+        "id": 285,
+        "difficulty": 3,
+        "question": "Which cricket has the highest individual score in test cricket?",
+        "a": "Sir Don Bradman",
+        "b": "Sachin R. Tendulkar",
+        "c": "Virat Kohli",
+        "d": "Brain Lara",
+        "answer": "d"
+    },
+    {
+        "id": 286,
+        "difficulty": 4,
+        "question": "In what year was the first-ever Wimbledon Championship held?",
+        "a": "1875",
+        "b": "1879",
+        "c": "1877",
+        "d": "1881",
+        "answer": "c"
+    },
+    {
+        "id": 287,
+        "difficulty": 3,
+        "question": "What year was the very first model of the iPhone released?",
+        "a": "2006",
+        "b": "2007",
+        "c": "2008",
+        "d": "2009",
+        "answer": "b"
+    }
+    {
+        "id": 288,
+        "difficulty": 1,
+        "question": "What is meteorology the study of?",
+        "a": "weather",
+        "b": "meteor",
+        "c": "space",
+        "d": "rock",
+        "answer": "a"
+    },
+    {
+        "id": 289,
+        "difficulty": 2,
+        "question": "Which of these is made of bone?",
+        "a": "Walrus tusk",
+        "b": "Rhino horns",
+        "c": "Deer antlers",
+        "d": "Elephant tusk",
+        "answer": "c"
+    },
+    {
+        "id": 290,
+        "difficulty": 1,
+        "question": "Which crop is sown on the largest area in India?",
+        "a": "Rice",
+        "b": "Wheat",
+        "c": "Sugarcane",
+        "d": "Maize",
+        "answer": "a"
+    },
+    {
+        "id": 291,
+        "difficulty": 2,
+        "question": "Entomology is the science that studies",
+        "a": "Behaviour of human beings",
+        "b": " Insects",
+        "c": "The origin and history of technical and scientific terms",
+        "d": "The formation of rocksng",
+        "answer": "b"
+    },
+    {
+        "id": 292,
+        "difficulty": 3,
+        "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+        "a": "highest railway station",
+        "b": "longest railway station",
+        "c": "largest railway station",
+        "d": "None of the above",
+        "answer": "c"
+    },
+    {
+        "id": 293,
+        "difficulty": 1,
+        "question":  Which one of the following was the first fort constructed by the British in India?",
+        "a": "Fort William",
+        "b": " Fort St. George",
+        "c": "Fort St. David",
+        "d": "Fort St. Angelo",
+        "answer": "b"
+    },
+    {
+        "id": 294,
+        "difficulty": 3,
+        "question": " Which country below is not one of the members of the UN security council (Jan 2003)?",
+        "a": "Germany",
+        "b": "France",
+        "c": "China",
+        "d": "USA",
+        "answer": "a"
+    },
+    {
+        "id": 295,
+        "difficulty": 2,
+        "question": "Ball pen function on which one of the following principal?",
+        "a": "Boyle’s law",
+        "b": "Gravitational force",
+        "c": "Surface tension",
+        "d": "Viscosity",
+        "answer": "c"
+    },
+    {
+        "id": 296,
+        "difficulty": 3,
+        "question": "Which of the following countries is not a part of Melanesia region in the pacific ocean?",
+        "a": "Vanuatu",
+        "b": "Solomon Islands",
+        "c": "Fiji",
+        "d": "Kiribati",
+        "answer": "d"
+    },
+    {
+        "id": 297,
+        "difficulty": 4,
+        "question": "The Indian, who holds the pride of beating the computers in mathematical wizard is:?",
+        "a": "Rina Panigrahi",
+        "b": "Ramanujam",
+        "c": "Raja Ramanna",
+        "d": "Shakuntala Devi",
+        "answer":d"
+    },
+    {
+        "id": 298,
+        "difficulty": 3,
+        "question": " ' Global 500 ' awards are given for the outstanding achievement in which of the following fields?",
+        "a": "Elimination of illiteracy",
+        "b": "Protection of environment",
+        "c": "campaign against drugs",
+        "d": "Population Control",
+        "answer": "b"
+    }
+    {
+        "id": 299,
+        "difficulty": 1,
+        "question": "The common elements of "NIFE" layer of the earth include?",
+        "a": "Silicon and Magnesium",
+        "b": "Nickel and Iron",
+        "c": "Silver and Tungsten",
+        "d": "Silicon and Aluminium",
+        "answer": "b"
+    }
+    
+]
