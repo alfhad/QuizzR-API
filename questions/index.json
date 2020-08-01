@@ -648,6 +648,266 @@
         "c": "Carrot",
         "d": "Cauliflower",
         "answer": "b"
+    },
+    {
+        "id": 65,
+        "difficulty": 4,
+        "question": "Flamenco music, song and dance originates from which Spanish region?",
+        "a": "Basque Country",
+        "b": "Madrid",
+        "c": "Andalucia",
+        "d": "Catalonia",
+        "answer": "c"
+    },
+    {
+        "id": 66,
+        "difficulty": 1,
+        "question": "Early 2018 saw Xi Jinping solidify his rule in which region?",
+        "a": "Japan",
+        "b": "New Zealand",
+        "c": "China",
+        "d": "South Korea",
+        "answer": "c"
+    },
+    {
+        "id": 67,
+        "difficulty": 1,
+        "question": "A Jewish girl named Anne Frank is best remembered for what during WWII?",
+        "a": "Her Diary",
+        "b": "Spying",
+        "c": "Being a Nurse",
+        "d": "Her Music",
+        "answer": "a"
+    },
+    {
+        "id": 68,
+        "difficulty": 2,
+        "question": "Which country has the most UNESCO World Heritage sites?",
+        "a": "France",
+        "b": "Mexico",
+        "c": "Italy",
+        "d": "USA",
+        "answer": "c"
+    },
+    {
+        "id": 69,
+        "difficulty": 5,
+        "question": "In which sport do Canadian teams compete for the Mann Cup and its distinctive solid-gold trophy?",
+        "a": "Lacrosse",
+        "b": "Canadian Football",
+        "c": "Ice Hockey",
+        "d": "Basketball",
+        "answer": "a"
+    },
+    {
+        "id": 70,
+        "difficulty": 3,
+        "question": "A planet which orbits a star other than our own sun, like several ones found recently, are known by what name?",
+        "a": "Indoplanets",
+        "b": "Exoplanets",
+        "c": "Essoplanets",
+        "d": "Entoplanets",
+        "answer": "b"
+    },
+    {
+        "id": 71,
+        "difficulty": 4,
+        "question": "What word means 'extremely bad'?",
+        "a": "Egregious",
+        "b": "Adequate",
+        "c": "Circuspect",
+        "d": "Translucent",
+        "answer": "a"
+    },
+    {
+        "id": 72,
+        "difficulty": 1,
+        "question": "What color is Sonic the Hedgehog?",
+        "a": "Blue",
+        "b": "Orange",
+        "c": "Green",
+        "d": "Red",
+        "answer": "a"
+    },
+    {
+        "id": 73,
+        "difficulty": 2,
+        "question": "In what country can you find the cities Rosario, La Plata and Buenos Aires?",
+        "a": "Ecuador",
+        "b": "Chile",
+        "c": "Paraguay",
+        "d": "Argentina",
+        "answer": "d"
+    },
+    {
+        "id": 74,
+        "difficulty": 4,
+        "question": "Which Scottish city sits on an extinct volcano?",
+        "a": "Glasgow",
+        "b": "Aberden",
+        "c": "Edinburgh",
+        "d": "Perth",
+        "answer": "c"
+    },
+    {
+        "id": 75,
+        "difficulty": 4,
+        "question": "Other than Iceland, name the only other Nordic country which is NOT a monarchy?",
+        "a": "Sweden",
+        "b": "Finland",
+        "c": "Norway",
+        "d": "Denmark",
+        "answer": "b"
+    },
+    {
+        "id": 76,
+        "difficulty": 4,
+        "question": "What is the name of the Greek God of the Winds?",
+        "a": "Demeter",
+        "b": "Aeolus",
+        "c": "Daphne",
+        "d": "Hestia",
+        "answer": "b"
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
+    },
+    {
+        "id": ,
+        "difficulty": ,
+        "question": "?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "answer": ""
     }
     
     
