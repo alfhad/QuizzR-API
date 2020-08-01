@@ -555,7 +555,7 @@
     {
         "id":155,
         "difficulty": 4,
-        "question": "Russia is the world’s largest country (by area), and its largest city (by population) is its capital. What’s the nextlargest country for which this is the case?,
+        "question": "Russia is the world’s largest country (by area), and its largest city (by population) is its capital. What’s the nextlargest country for which this is the case?",
         "a": "Canada",
         "b": "China",
         "c": "Brazil",
@@ -585,8 +585,7 @@
     {
         "id": 158 ,
         "difficulty": 4,
-        "question": "In 2016, a Pizza Hut in Dar es Salaam delivered to the top of what mountain, 
-                     thus setting a record for the highest-elevation pizza delivery?",
+        "question": "In 2016, a Pizza Hut in Dar es Salaam delivered to the top of what mountain,thus setting a record for the highest-elevation pizza delivery?",
         "a": "Manaslu",
         "b": "Denali",
         "c": "Fuji",
