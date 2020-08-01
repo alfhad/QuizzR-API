@@ -266,7 +266,7 @@
         "b": "1889",
         "c": "1920",
         "d": "1947",
-        "answer": a""
+        "answer": "a"
     },
 	{
         "id": 127,
@@ -415,8 +415,7 @@
     {
         "id": 141,
         "difficulty": 4,
-        "question": "What Indian mausoleum was called a “teardrop… on the cheek of time” by Nobel Prize 
-                     in Literature laureate Rabindranath Tagore?",
+        "question": "What Indian mausoleum was called a “teardrop… on the cheek of time” by Nobel Prize in Literature laureate Rabindranath Tagore?",
         "a": "Tomb of Cyrus",
         "b": "The Taj Mahal",
         "c": "Tomb of Jahangir",
@@ -426,8 +425,7 @@
     {
         "id": 142,
         "difficulty": 4,
-        "question": "Which letter is omitted from the names of a prominent GBTQ+ dating app,
-                     a website that hosts over 465 million blogs, and many other tech brands?",
+        "question": "Which letter is omitted from the names of a prominent LGBTQ+ dating app, a website that hosts over 465 million blogs, and many other tech brands?",
         "a": "O",
         "b": "E",
         "c": "X",
@@ -437,8 +435,7 @@
     {
         "id": 143,
         "difficulty": 4,
-        "question": "What actor said, “If you had been a public figure since the time you were a toddler…
-                     maybe you too would value privacy above all else”?",
+        "question": "What actor said, “If you had been a public figure since the time you were a toddler…maybe you too would value privacy above all else”?",
         "a": "Leonardo DiCaprio",
         "b": "Shirley Temple",
         "c": "Daniel Redcliffe",
@@ -468,8 +465,7 @@
     {
         "id": 146,
         "difficulty": 5,
-        "question": "In 2017, the site Bachtrack.com determined the 10 most performed ballets in the world. 
-                     What composer gave us three of them, including the first?",
+        "question": "In 2017, the site Bachtrack.com determined the 10 most performed ballets in the world. What composer gave us three of them, including the first?",
         "a": "Léo Delibes",
         "b": "Sergei Prokofiev",
         "c": "Peter Ilyich Tchaikovsky",
@@ -600,8 +596,7 @@
     {
         "id": 159,
         "difficulty": 4,
-        "question": "What international retail chain got its start in Älmhult, Sweden, 
-                     and runs a museum dedicated to its history there?",
+        "question": "What international retail chain got its start in Älmhult, Sweden, and runs a museum dedicated to its history there?",
         "a": "H&M",
         "b": "Tesco",
         "c": "IKEA",
@@ -611,8 +606,7 @@
     {
         "id": 160 ,
         "difficulty": 3,
-        "question": "What writer with a highfalutin reputation used jokes about passing wind in 
-                     such plays as The Comedy of Errors and Othello?",
+        "question": "What writer with a highfalutin reputation used jokes about passing wind in such plays as The Comedy of Errors and Othello?",
         "a": "Christopher Marlow",
         "b": "Hennry Howard",
         "c": "Thomas Middleton",
@@ -632,8 +626,7 @@
     {
         "id": 162 ,
         "difficulty": 3,
-        "question": "Although it freed itself from the United States in 1946, 
-                    what nation’s Independence Day celebrates its declaration of independence from Spain in 1898?",
+        "question": "Although it freed itself from the United States in 1946, what nation’s Independence Day celebrates its declaration of independence from Spain in 1898?",
         "a": "Mexico",
         "b": "The Philippines",
         "c": "Argentina",
@@ -643,8 +636,7 @@
     {
         "id": 163,
         "difficulty": 3,
-        "question": "What country’s land is mostly on an island, although most of its people 
-                    live on a peninsula across the South China Sea?",
+        "question": "What country’s land is mostly on an island, although most of its people live on a peninsula across the South China Sea?",
         "a": "Malaysia",
         "b": "Indonesia",
         "c": "Thailand",
