@@ -38,6 +38,7 @@ app.get("/difficulty/5", (req, res)=>{
     res.json(getDifficulty(5));
 });
 
+//app.use(app.router);
 
 app.use(function(req, res, next){
     res.status(404);
