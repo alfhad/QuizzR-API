@@ -214,7 +214,7 @@
         "difficulty": 4,
         "question": "Which country rules the Falkland Islands in the Atlantic Ocean?",
         "a": "Argentina",
-        "b": "UK",https://quizzrapi.herokuapp.com/
+        "b": "UK",
         "c": "Germany",
         "d": "France",
         "answer": "b"
