@@ -127,7 +127,7 @@ nav{
 }
 .contact{
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 6%;
     background: #707070;
 }
 .column{
@@ -140,7 +140,7 @@ nav{
     color: #f1e5e5;
     font-family: 'Arvo', serif;
     font-size: 2.2rem;
-    padding-bottom: 1%;
+    padding-bottom: 1.5%;
 }
 .cont{
     text-align: center;
@@ -148,7 +148,7 @@ nav{
     padding-top: 1%;
     font-family: 'Nunito', sans-serif;
     font-size: 1.9rem;
-    padding-bottom: 1.5%;
+    padding-bottom: 2%;
 }
 .name{
     text-align: center;
@@ -160,9 +160,34 @@ nav{
 .ghhh{
     text-align: center;
     font-family: 'Nunito', sans-serif;
+    color: #e1e2f5;
 }
 .college{
     text-align: center;
     color: #fcfcfc;
     font-family: 'Arvo', serif;
 }
+footer{
+    text-align: center;
+    padding-bottom: 0.7%;
+    padding-top: 0.3%;
+    background: #494646;
+    color: #ddd;
+    font-family: 'Alegreya', serif;
+}
+section {
+    width: 350px;
+    height: 130px;
+    overflow-y: scroll;
+    border: 1px solid black;
+    font-size: 0; 
+    scroll-behavior: smooth;    /* <----- THE SECRET ---- */
+  }
+  
+  section div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 8vw;
+  }
