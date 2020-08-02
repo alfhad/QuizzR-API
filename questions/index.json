@@ -2012,7 +2012,7 @@
     {
         "id": 205,
         "difficulty": 1,
-        "question": "What short film featured Mickey Mouse’s first appearance?",
+        "question": "What short-film featured Mickey Mouse’s first appearance?",
         "a": "Plane Crazy",
         "b": "Wild Waves",
         "c": "The Band Concert",
@@ -2032,7 +2032,7 @@
     {
         "id": 207,
         "difficulty": 2,
-        "question": " What team has the longest winning streak in NBA history?",
+        "question": "What team has the longest winning streak in NBA history?",
         "a": "Chicago Bulls",
         "b": "Los Angeles Lakers",
         "c": "Golden State Warriors",
@@ -2052,7 +2052,7 @@
     {
         "id": 209,
         "difficulty": 4,
-        "question": " Who is the current commissioner of Major League Soccer (MLS)?",
+        "question": "Who is the current commissioner of Major League Soccer (MLS)?",
         "a": "Roger Goodell",
         "b": "Don Garber",
         "c": "Paul Tagliabue",
@@ -2102,7 +2102,7 @@
     {
         "id": 214,
         "difficulty": 2,
-        "question": " What is the warmest sea on Earth?",
+        "question": "What is the warmest sea on Earth?",
         "a": "Dead sea",
         "b": "White sea",
         "c": "Red sea",
@@ -2122,7 +2122,7 @@
     {
         "id": 216,
         "difficulty": 1,
-        "question": " What year did the Cold War officially end?",
+        "question": "What year did the Cold War officially end?",
         "a": "1988",
         "b": "1989",
         "c": "1990",
@@ -2182,7 +2182,7 @@
     {
         "id": 222,
         "difficulty": 1,
-        "question": " Which nut is used to make dynamite?",
+        "question": "Which nut is used to make dynamite?",
         "a": "Almonds",
         "b": "Pine nuts",
         "c": "Peanuts",
@@ -2232,7 +2232,7 @@
     {
         "id": 227,
         "difficulty": 1,
-        "question": " What is a group of turkeys called?",
+        "question": "What is a group of turkeys called?",
         "a": "A clutch",
         "b": "A rafter",
         "c": "A brood",
@@ -2242,7 +2242,7 @@
     {
         "id": 228,
         "difficulty": 3,
-        "question": " What was the first car to break the sound barrier?",
+        "question": "What was the first car to break the sound barrier?",
         "a": "Bloodhound",
         "b": "X-1",
         "c": "Bugatti Chiron ",
@@ -2351,8 +2351,8 @@
     },
     {
         "id": 239,
-        "difficulty": 3,
-        "question": "Which day is observed as the World Standards  Day?",
+        "difficulty": 5,
+        "question": "Which day is observed as the World Standards Day?",
         "a": "June 26",
         "b": "Oct 14",
         "c": "Nov 15",
@@ -2441,7 +2441,7 @@
     },
     {
         "id": 248,
-        "difficulty": 3,
+        "difficulty": 4,
         "question": "What was the name of the band Lionel Richie was a part of?",
         "a": "King Harvest",
         "b": "Spectrums",
@@ -2491,7 +2491,7 @@
     },
     {
         "id": 253,
-        "difficulty": 4,
+        "difficulty": 3,
         "question": "In Pirates of the Caribbean, what was the name of Captain Jack Sparrow’s ship?",
         "a": "The Marauder",
         "b": "The Black Pearl",
@@ -2891,7 +2891,7 @@
     },
     {
         "id": 293,
-        "difficulty": 1,
+        "difficulty": 5,
         "question": "Which one of the following was the first fort constructed by the British in India?",
         "a": "Fort William",
         "b": " Fort St. George",
@@ -2942,7 +2942,7 @@
     {
         "id": 298,
         "difficulty": 3,
-        "question": " ' Global 500 ' awards are given for the outstanding achievement in which of the following fields?",
+        "question": " 'Global 500' awards are given for the outstanding achievement in which of the following fields?",
         "a": "Elimination of illiteracy",
         "b": "Protection of environment",
         "c": "campaign against drugs",
