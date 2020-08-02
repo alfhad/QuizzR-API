@@ -1,33 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Alegreya&family=Arvo&family=Mali:ital,wght@1,500;1,600&family=Nunito&family=Questrial&family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Alegreya&family=Arvo&family=Mali:ital,wght@1,500;1,600&family=Nunito&family=Questrial&family=Raleway&display=swap"
+        rel="stylesheet">
     <title>Home of the QuizzR-API</title>
     <style>
-        a{
+        a {
             text-align: center;
             color: rgb(253 167 61);
             font-size: 1.2rem;
             font-family: 'Questrial', sans-serif;
         }
-        a:hover{
+
+        a:hover {
             text-decoration: none;
             color: rgb(128, 119, 119);
         }
-        .center{
+
+        .center {
             padding: 1% 0;
             text-align: center;
         }
     </style>
 </head>
+
 <body>
     <nav class="navbar navbar-expand-sm fixed-top navbar-dark bg-dark">
         <a href="" class="navbar-brand">
@@ -43,25 +57,27 @@
                 <li class="nav-item"><a class="nav-link" href="#blog">Blogs</a></li>
                 <li class="nav-item"><a class="nav-link" href="#project">Projects</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-            </ul>
+                </li>
         </div>
     </nav>
-      <div class="head">
-          <div class="rheto">Ever wanted to Build a Quiz Game but gave up at the prospect of Hunting for the Right Questions and set them up?</div>
-          <div class="ans">Well, look no further, the QuizzR API has got your back!</div>
-          <p class="kya">QuizzR is an Open-Source RESTful API to return General Knowledge questions at Random or by Difficulty.</p>
-      </div>
-      <div class="use">
-          <h2 class="use-title">How to Use: </h2>
-          <div class="random">
+    <div class="head">
+        <div class="rheto">Ever wanted to Build a Quiz Game but gave up at the prospect of Hunting for the Right
+            Questions and set them up?</div>
+        <div class="ans">Well, look no further, the QuizzR API has got your back!</div>
+        <p class="kya">QuizzR is an Open-Source RESTful API to return General Knowledge questions at Random or by
+            Difficulty.</p>
+    </div>
+    <div class="use">
+        <h2 class="use-title">How to Use: </h2>
+        <div class="random">
             <h3 class="random-title">Get a Random Question</h3>
             <p class="hitup">Hit Up the URL: <br></p>
             <div class="random-url">https://quizzrapi.herokuapp.com/random</div>
             <div class="center"><a href="https://quizzrapi.herokuapp.com/random">( Here )</a></div>
             <p class="what">You get a JSON file to import similar to this:</p>
             <img src="images/random.png" alt="random question" class="img-fluid randomcode">
-          </div>
-          <div class="diffi">
+        </div>
+        <div class="diffi">
             <h3 class="random-title">Get a Question of Custom Difficulty</h3>
             <p class="hitup">Hit Up the URL: <br></p>
             <div class="random-url">https://quizzrapi.herokuapp.com/difficulty/3</div>
@@ -69,8 +85,37 @@
             <p class="diff-level">(Difficulty Ranges from 1 to 5.)</p>
             <p class="what">You get a JSON file to import similar to this:</p>
             <img src="images/custom.png" alt="random output" class="img-fluid randomcode">
-          </div>
-      </div>
+        </div>
+    </div>
+    <div class="contribute">
+        <h2 class="use-title">Contribute</h2>
+        <div class="gh">The Entire Code Base Can Be Found on <a href="https://github.com/alfhad/QuizzR-API"
+                style="font-size: 1.39rem;">GitHub</a>.</div>
+        <h3 class="addme">Want to Add Your Questions?</h3>
+        <div class="addq">
+            <h1 class="headcontri">Contribution Guidelines:</h1>
+            <div class="guide">
+                <ul>
+                    <li>
+                        Add your Questions <a
+                            href="https://github.com/alfhad/QuizzR-API/blob/master/questions/index.json">here</a>.<br>
+                        Keep the id unique by incrementing the value of yours by 1 of the previous.
+                    </li>
+                    <li>
+                        Keep the Questions Global Centric and not about a particular region. <br>
+                        Eg: Who was the Vice-President of India in 1980? is NOT a global-centric question. <br>
+                        Keep the Questions diverse.
+                    </li>
+                    <li>
+                        We understand that difficulty is subjective and each person may have different parameters for
+                        the same. <br>
+                        Hence, keep the difficulty to what you expect for an average person.
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
 </body>
+
 </html>
