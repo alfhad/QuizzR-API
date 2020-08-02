@@ -125,3 +125,44 @@ nav{
     color: #d5ebfc;
     padding-left: 15%
 }
+.contact{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: #707070;
+}
+.column{
+    padding: 0;
+    border: 2px solid #d5ebfc;
+    border-radius: 20px;
+}
+.contactus{
+    text-align: center;
+    color: #f1e5e5;
+    font-family: 'Arvo', serif;
+    font-size: 2.2rem;
+    padding-bottom: 1%;
+}
+.cont{
+    text-align: center;
+    color: #d9d1f8;
+    padding-top: 1%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.9rem;
+    padding-bottom: 1.5%;
+}
+.name{
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Alegreya', serif;
+    color: #e1e2f5;
+    text-decoration: underline;
+}
+.ghhh{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+.college{
+    text-align: center;
+    color: #fcfcfc;
+    font-family: 'Arvo', serif;
+}
