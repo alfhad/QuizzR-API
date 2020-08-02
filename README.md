@@ -19,7 +19,7 @@ In an attempt to make things easy for everyone.
 
 ### Make a contribution!
 
-Submit a Pull Request, with your question added to the questions/index3.json file. Make sure the question is in this format:
+Submit a Pull Request, with your question added to the questions/index.json file. Make sure the question is in this format:
 
 ```javascript
 {
