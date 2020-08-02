@@ -11,6 +11,22 @@
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Alegreya&family=Arvo&family=Mali:ital,wght@1,500;1,600&family=Nunito&family=Questrial&family=Raleway&display=swap" rel="stylesheet">
     <title>Home of the QuizzR-API</title>
+    <style>
+        a{
+            text-align: center;
+            color: rgb(253 167 61);
+            font-size: 1.2rem;
+            font-family: 'Questrial', sans-serif;
+        }
+        a:hover{
+            text-decoration: none;
+            color: rgb(128, 119, 119);
+        }
+        .center{
+            padding: 1% 0;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-sm fixed-top navbar-dark bg-dark">
@@ -41,6 +57,7 @@
             <h3 class="random-title">Get a Random Question</h3>
             <p class="hitup">Hit Up the URL: <br></p>
             <div class="random-url">https://quizzrapi.herokuapp.com/random</div>
+            <div class="center"><a href="https://quizzrapi.herokuapp.com/random">( Here )</a></div>
             <p class="what">You get a JSON file to import similar to this:</p>
             <img src="images/random.png" alt="random question" class="img-fluid randomcode">
           </div>
@@ -48,6 +65,7 @@
             <h3 class="random-title">Get a Question of Custom Difficulty</h3>
             <p class="hitup">Hit Up the URL: <br></p>
             <div class="random-url">https://quizzrapi.herokuapp.com/difficulty/3</div>
+            <div class="center"><a href="https://quizzrapi.herokuapp.com/difficulty/3">( Here )</a></div>>
             <p class="diff-level">(Difficulty Ranges from 1 to 5.)</p>
             <p class="what">You get a JSON file to import similar to this:</p>
             <img src="images/custom.png" alt="random output" class="img-fluid randomcode">
