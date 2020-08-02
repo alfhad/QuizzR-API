@@ -61,14 +61,15 @@ nav{
 }
 .random-url{
     text-align: center;
+    font-size: 0.9rem;
     margin: 0 auto;
     color: #e4ece5;
-    font-size: 1.4rem;
 }
 .random-url:hover{
     color: #b1c5ff;
 }
 .diff-level{
+    font-size: 0.9rem;
     text-align: center;
     font-family: 'Arvo', serif;
     color: #fff;
