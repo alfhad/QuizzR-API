@@ -1,4 +1,4 @@
-# Quizzr API
+# QuizzR API
 
 ## Endpoints:
 
