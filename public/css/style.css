@@ -1,0 +1,38 @@
+.brand-name{
+    display: inline-block;
+    font-family: 'Mali', cursive;
+    font-size: 130%;
+    margin: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.nav-item{
+    font-size: 120%;
+}
+nav{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.head{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 11%;
+    background: rgb(139, 138, 141);
+}
+.rheto{
+    font-family: 'Raleway', sans-serif;
+    font-size: 300%;
+    padding-bottom: 2%;
+    color: #f7f7f7;
+}
+.ans{
+    color: rgb(255 255 255);
+    font-size: 160%;
+    padding-bottom: 2%;
+    font-family: 'Arvo', serif;
+}
+.kya{
+    color: rgb(252 252 252);
+    font-size: 130%;
+    font-family: 'Questrial', sans-serif;
+}
