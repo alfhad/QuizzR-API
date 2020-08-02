@@ -87,3 +87,41 @@ nav{
   margin-left: auto;
   margin-right: auto;
 }
+.contribute{
+    padding-top: 5.5%;
+    background: #4d4141;
+    padding-bottom: 6.6%;
+}
+.gh{
+    padding-top: 1%;
+    font-size: 1.39rem;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+.addme{
+    text-align: center;
+    color: #efefef;
+    padding-top: 4%;
+    font-family: 'Questrial', sans-serif;
+    font-size: 2.9rem;
+}
+.addq{
+    text-align: center;
+}
+.headcontri{
+    padding-top: 1.2%;
+    font-size: 1.7rem;
+    color: #eba6a6;
+    font-family: 'Arvo', serif;
+}
+.guide{
+    padding-top: 3%;
+    display: inline-block;
+    text-align: start;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    font-family: 'Nunito', sans-serif;
+    color: #d5ebfc;
+    padding-left: 15%
+}
