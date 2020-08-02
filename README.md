@@ -30,6 +30,6 @@ Submit a Pull Request, with your question added to the questions/index.json file
   "b:: "",
   "c": "",
   "d": "",
-  "answer": ""(option having correct answer)
+  "answer": "(#)"(replace # -> option having correct answer)
 }
 ```
