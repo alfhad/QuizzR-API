@@ -2262,7 +2262,7 @@
     {
         "id": 230,
         "difficulty": 3,
-        "question": "What year was the first color photograph taken?1861",
+        "question": "What year was the first color photograph taken?",
         "a": "1861",
         "b": "1885",
         "c": "1885",
