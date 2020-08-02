@@ -175,7 +175,7 @@ footer{
     color: #ddd;
     font-family: 'Alegreya', serif;
 }
-section {
+.section {
     width: 350px;
     height: 130px;
     overflow-y: scroll;
@@ -184,7 +184,7 @@ section {
     scroll-behavior: smooth;    /* <----- THE SECRET ---- */
   }
   
-  section div{
+.section div{
     display: flex;
     align-items: center;
     justify-content: center;
