@@ -2978,5 +2978,255 @@
         "c": "Albert",
         "d": "Samuel",
         "answer": "c"
+    },
+    {
+        "id": 302,
+        "difficulty": 5,
+        "question": "Zeus seduced Leda disguised as what?",
+        "a": "A snake",
+        "b": "A swan",
+        "c": "An eagle",
+        "d": "A bull",
+        "answer": "b"
+    },
+    {
+        "id": 303,
+        "difficulty": 2,
+        "question": "What kind of bean is used to make tofu?",
+        "a": "Green",
+        "b": "Kidney",
+        "c": "Navy",
+        "d": "Soy",
+        "answer": "d"
+    },
+    {
+        "id": 304,
+        "difficulty": 1,
+        "question": "In what country can you visit Machu Picchu?",
+        "a": "China",
+        "b": "Turkey",
+        "c": "Colombia",
+        "d": "Peru",
+        "answer": "d"
+    },
+    {
+        "id": 305,
+        "difficulty": 5,
+        "question": "Bhumibol Adulyadej, who died in 2016 and was then the longest ruling living monarch, was the king of which country?",
+        "a": "Cambodia",
+        "b": "Bhutan",
+        "c": "Malaysia",
+        "d": "Thailand",
+        "answer": "d"
+    },
+    {
+        "id": 306,
+        "difficulty": 4,
+        "question": "Majorca, Minorca and Ibiza are the main islands of which group?",
+        "a": "Baleric Islands",
+        "b": "The Lesser Antilles",
+        "c": "Canary Islands",
+        "d": "The Azores",
+        "answer": "a"
+    },
+    {
+        "id": 307,
+        "difficulty": 4,
+        "question": "What kind of animal is a pipistrelle?",
+        "a": "Bird",
+        "b": "Bat",
+        "c": "Cat",
+        "d": "Mouse",
+        "answer": "b"
+    },
+    {
+        "id": 308,
+        "difficulty": 4,
+        "question": "Which Oscar-Winning actress duetted with Robbie Williams on his 2001 international hit single 'Somethin Stupid'?",
+        "a": "Kate Winslet",
+        "b": "Anne Hathaway",
+        "c": "Catherine Zeta-Jones",
+        "d": "Nicole Kidman",
+        "answer": "d"
+    },
+    {
+        "id": 309,
+        "difficulty": 1,
+        "question": "In which city is the United Nations headquartered?",
+        "a": "London",
+        "b": "Brussels",
+        "c": "New York City",
+        "d": "Washington D.C.",
+        "answer": "c"
+    },
+    {
+        "id": 310,
+        "difficulty": 3,
+        "question": "In a European casino, how many divisions does a roulette wheel have?",
+        "a": "19",
+        "b": "37",
+        "c": "34",
+        "d": "40",
+        "answer": "b"
+    },
+    {
+        "id": 311,
+        "difficulty": 2,
+        "question": "Which out of the following elements has the lowest Atomic Number?",
+        "a": "Plutonium",
+        "b": "Platinum",
+        "c": "Lithium",
+        "d": "Iron",
+        "answer": "c"
+    },
+    {
+        "id": 312,
+        "difficulty": 1,
+        "question": "Whch prolific inventor filed over 1000 patents, including the phonograph, the electric light bulb and the motion picture camera?",
+        "a": "Nikola Tesla",
+        "b": "Alexander Graham Bell",
+        "c": "Thomas Edison",
+        "d": "Guglielmo Marconi",
+        "answer": "c"
+    },
+    {
+        "id": 313,
+        "difficulty": 3,
+        "question": "What does 'LP' on Gramophone Disks stand for?",
+        "a": "Long Playing",
+        "b": "Lengthy Performance",
+        "c": "Lasting Protection",
+        "d": "Listed Performance",
+        "answer": "a"
+    },
+    {
+        "id": 314,
+        "difficulty": 4,
+        "question": "In which Olympic event might you encounter the terms Eggbeater and Flamingo?",
+        "a": "Synchronised Swimming",
+        "b": "Diving",
+        "c": "Kayaking",
+        "d": "Cycling",
+        "answer": "a"
+    },
+    {
+        "id": 315,
+        "difficulty": 1,
+        "question": "What cartoon character knows a monkey named Boots and a fox named Swiper?",
+        "a": "Dora the Explorer",
+        "b": "Stewie Griffin",
+        "c": "Bugs Bunny",
+        "d": "Mickey Mouse",
+        "answer": "a"
+    },
+    {
+        "id": 316,
+        "difficulty": 4,
+        "question": "Ambergris, produced in the gut of sperm whales, has been used for centuries in the production of what?",
+        "a": "Perfumes",
+        "b": "Dyes",
+        "c": "Paints",
+        "d": "Wigs",
+        "answer": "a"
+    },
+    {
+        "id": 317,
+        "difficulty": 2,
+        "question": "Who was Sherlock Holmes' landlady?",
+        "a": "Mrs. Bennet",
+        "b": "Mrs. Hudson",
+        "c": "Mrs. Danvers",
+        "d": "Ms. Franco",
+        "answer": "b"
+    },
+    {
+        "id": 318,
+        "difficulty": 3,
+        "question": "The term 'trending' originated on which social network site?",
+        "a": "Facebook",
+        "b": "Twitter",
+        "c": "Spotify",
+        "d": "YouTube",
+        "answer": "b"
+    },
+    {
+        "id": 319,
+        "difficulty": 1,
+        "question": "Which of these animals is warm-blooded?",
+        "a": "Penguin",
+        "b": "Alligator",
+        "c": "Rattlesnake",
+        "d": "Eastern Box Turtle",
+        "answer": "a"
+    },
+    {
+        "id": 320,
+        "difficulty": 1,
+        "question": "What word means to 'think deeply'?",
+        "a": "Contemplate",
+        "b": "Obviate",
+        "c": "Abound",
+        "d": "Eradicate",
+        "answer": "a"
+    },
+    {
+        "id": 321,
+        "difficulty": 2,
+        "question": "Which fruit is pureed and strained to make Passata?",
+        "a": "Tomato",
+        "b": "Cabbage",
+        "c": "Beetroot",
+        "d": "Celeriac",
+        "answer": "a"
+    },
+    {
+        "id": 322,
+        "difficulty": 4,
+        "question": "Which composer was nicknamed the Red Priest?",
+        "a": "Haydn",
+        "b": "Schubert",
+        "c": "Vivaldi",
+        "d": "Ravel",
+        "answer": "c"
+    },
+    {
+        "id": 323,
+        "difficulty": 4,
+        "question": "Which drink did Benedictine monk Dom Perignon supposedly invent?",
+        "a": "Cointreau",
+        "b": "Champagne",
+        "c": "Benedictine",
+        "d": "Beer",
+        "answer": "b"
+    },
+    {
+        "id": 324,
+        "difficulty": 3,
+        "question": "Which mythological creature would you think you were if you were suffering from lycanthropy?",
+        "a": "Centaur",
+        "b": "Zombie",
+        "c": "Werewolf",
+        "d": "Vampire",
+        "answer": "c"
+    },
+    {
+        "id": 325,
+        "difficulty": 1,
+        "question": "Which mythical creature was half-man, half-horse?",
+        "a": "Hippogriff",
+        "b": "Griffin",
+        "c": "Centaur",
+        "d": "Minotaur",
+        "answer": "c"
+    },
+    {
+        "id": 326,
+        "difficulty": 3,
+        "question": "Europa, Ganymede and Io are all moons of which planet?",
+        "a": "Uranus",
+        "b": "Neptune",
+        "c": "Jupiter",
+        "d": "Mercury",
+        "answer": "c"
     }
 ]
