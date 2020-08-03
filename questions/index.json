@@ -2958,5 +2958,25 @@
         "c": "Silver and Tungsten",
         "d": "Silicon and Aluminium",
         "answer": "b"
+    },
+     {
+        "id": 300,
+        "difficulty": 3,
+        "question": "What is the biggest island in New Zealand called?",
+        "a": "North Island",
+        "b": "South Island",
+        "c": "Great South Island",
+        "d": "The mainland",
+        "answer": "b"
+    },
+    {
+        "id": 301,
+        "difficulty": 2,
+        "question": "What was Einstein's first name?",
+        "a": "Alfred",
+        "b": "Paul",
+        "c": "Albert",
+        "d": "Samuel",
+        "answer": "c"
     }
 ]
