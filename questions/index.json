@@ -3228,7 +3228,7 @@
         "c": "Jupiter",
         "d": "Mercury",
         "answer": "c"
-    }
+    },
     {
         "id": 327,
         "difficulty": 3,
@@ -3238,8 +3238,9 @@
         "c": "Indian",
         "d": "Black Sea",
         "answer": "a"
-    }
-    {"id": 328,
+    },
+    {
+	"id": 328,
         "difficulty": 3,
         "question": "The Part VI of constitution of India is not applicable to_____?",
         "a": "Arunachal Pradesh",
