@@ -3261,7 +3261,7 @@
     },
     {
         "id": 330,
-        "difficulty": 1,
+        "difficulty": 2,
         "question": "What gas makes soda bubbly?",
         "a": "Ethylene Oxide",
         "b": "Carbon Monoxide",
@@ -3272,7 +3272,7 @@
 	
     {
         "id": 331,
-        "difficulty": 4,
+        "difficulty": 3,
         "question": "Water has a pH level of around?",
         "a": "8",
         "b": "7",
@@ -3282,7 +3282,7 @@
     },
     {
         "id": 332,
-        "difficulty": 3,
+        "difficulty": 1,
         "question": "What is the name of the Earth’s largest ocean?",
         "a": "The Arctic Ocean",
         "b": "The Indian Ocean",
@@ -3302,7 +3302,7 @@
     },
     {
         "id": 334,
-        "difficulty": 2,
+        "difficulty": 1,
         "question": "Who was SpaceX founded by in 2002?",
         "a": "Elon Musk",
         "b": "Jeff Bezos",
