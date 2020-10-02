@@ -3310,4 +3310,14 @@
         "d": "Bill Gates",
         "answer": "a"
     }
+    {
+        "id": 335,
+        "difficulty": 1,
+        "question": "What does AD stand for in reference to dates?",
+        "a": "After Death",
+        "b": "Ancient Dates",
+        "c": "Altered Dates",
+        "d": "Anno Domini",
+        "answer": "d"
+    },
 ]
