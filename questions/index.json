@@ -3240,7 +3240,7 @@
         "answer": "a"
     },
     {
-	"id": 328,
+        "id": 328,
         "difficulty": 3,
         "question": "The Part VI of constitution of India is not applicable to_____?",
         "a": "Arunachal Pradesh",
@@ -3248,5 +3248,66 @@
         "c": "Sikkim",
         "d": "Goa",
         "answer": "b"
+    },
+    {
+        "id": 329,
+        "difficulty": 2,
+        "question": "Nepal is located on which continent?",
+        "a": "Asia",
+        "b": "Europe",
+        "c": "Africa",
+        "d": "South America",
+        "answer": "a"
+    },
+    {
+        "id": 330,
+        "difficulty": 1,
+        "question": "What gas makes soda bubbly?",
+        "a": "Ethylene Oxide",
+        "b": "Carbon Monoxide",
+        "c": "Carbon Dioxide",
+        "d": "Hydrogen Sulfide",
+        "answer": "c"
+    },
+	
+    {
+        "id": 331,
+        "difficulty": 4,
+        "question": "Water has a pH level of around?",
+        "a": "8",
+        "b": "7",
+        "c": "6",
+        "d": "5",
+        "answer": "b"
+    },
+    {
+        "id": 332,
+        "difficulty": 3,
+        "question": "What is the name of the Earth’s largest ocean?",
+        "a": "The Arctic Ocean",
+        "b": "The Indian Ocean",
+        "c": "The Atlantic Ocean",
+        "d": "The Pacific Ocean",
+        "answer": "d"
+    },
+    {
+        "id": 333,
+        "difficulty": 1,
+        "question": "Which country consumes the most chocolate per capita?",
+        "a": "Germany",
+        "b": "India",
+        "c": "Switzerland",
+        "d": "Lithuania",
+        "answer": "c"
+    },
+    {
+        "id": 334,
+        "difficulty": 2,
+        "question": "Who was SpaceX founded by in 2002?",
+        "a": "Elon Musk",
+        "b": "Jeff Bezos",
+        "c": "Tim Cook",
+        "d": "Bill Gates",
+        "answer": "a"
     }
 ]
