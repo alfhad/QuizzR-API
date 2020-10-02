@@ -3211,7 +3211,7 @@
     },
     {
         "id": 325,
-        "difficulty": 1,
+        "difficulty":  1,
         "question": "Which mythical creature was half-man, half-horse?",
         "a": "Hippogriff",
         "b": "Griffin",
@@ -3228,5 +3228,24 @@
         "c": "Jupiter",
         "d": "Mercury",
         "answer": "c"
+    }
+    {
+        "id": 327,
+        "difficulty": 3,
+        "question": "The Bermuda Triangle is a mysterious place that covers roughly 500,000 square miles in which ocean?",
+        "a": "Atlantic",
+        "b": "Pacific",
+        "c": "Indian",
+        "d": "Black Sea",
+        "answer": "a"
+    }
+    {"id": 328,
+        "difficulty": 3,
+        "question": "The Part VI of constitution of India is not applicable to_____?",
+        "a": "Arunachal Pradesh",
+        "b": "Jammu & Kashmir",
+        "c": "Sikkim",
+        "d": "Goa",
+        "answer": "b"
     }
 ]
