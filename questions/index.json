@@ -3309,5 +3309,53 @@
         "c": "Tim Cook",
         "d": "Bill Gates",
         "answer": "a"
+    },
+	{
+        "id": 335,
+        "difficulty": 1,
+        "question": "Who is the first female computer programmer?",
+        "a": "Grace Hopper",
+        "b": "Edith Clarke",
+        "c": "Ada Lovelace",
+        "d": "Evelyn Boyd Granville",
+        "answer": "c"
+    },
+	{
+        "id": 336,
+        "difficulty": 3,
+        "question": "Who was the second person to land on the moon?",
+        "a": "David Schott",
+        "b": "Charles Duke",
+        "c": "Michael Collins",
+        "d": "Buzz Aldrin",
+        "answer": "d"
+    },
+	{
+        "id": 337,
+        "difficulty": 3,
+        "question": "Which flower blooms once in 12 years?",
+        "a": "Refleshia",
+        "b": "Kurinji",
+        "c": "Bird of Paradise",
+        "d": "Red camellia",
+        "answer": "b"
+    },
+	{
+        "id": 338,
+        "difficulty": 2,
+        "question": "Which is known as the laughing gas?",
+        "a": "Nitrogen dioxide",
+        "b": "Nitric oxide",
+        "c": "Nitrous oxide",
+        "d": "Nitroxyl",
+        "answer": "c"
     }
+	
+	
+	
+	
+	
+	
+	
+	
 ]
