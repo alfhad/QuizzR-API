@@ -3248,5 +3248,325 @@
         "c": "Sikkim",
         "d": "Goa",
         "answer": "b"
-    }
+    },
+    {
+        "id": 329,
+        "difficulty": 4,
+        "question": "Chennakeshab Temple is located in …………",
+        "a": "Konark",
+        "b": "Puri",
+        "c": "Belur",
+        "d": "Chhatarpur",
+        "answer": "c"
+    },
+    {
+        "id": 330,
+        "difficulty": 3,
+        "question": "Which one of the following mountain peaks is popular as ‘Godwin Austin?’",
+        "a": "K-2",
+        "b": "Kangchenjunga",
+        "c": "Nanga Parvat",
+        "d": "Gasherbrum",
+        "answer": "a"
+    },
+    {
+        "id": 331,
+        "difficulty": 3,
+        "question": "The racing area of Cycling is known as …",
+        "a": "Velodrome",
+        "b": "Track",
+        "c": "Ring",
+        "d": "Range",
+        "answer": "a"
+    },
+    {
+        "id": 332,
+        "difficulty": 3,
+        "question": "September 16 is celebrated as …",
+        "a": "World Environment Day",
+        "b": "World Ocean Day",
+        "c": "World Ozone Day",
+        "d": "World Red Cross Day",
+        "answer": "c"
+    },
+    {
+        "id": 333,
+        "difficulty": 2,
+        "question": "The term ‘rally’ is related to …",
+        "a": "Football",
+        "b": "Badminton",
+        "c": "Polo",
+        "d": "Boxing",
+        "answer": "b"
+    },
+    {
+        "id": 334,
+        "difficulty": 3,
+        "question": "Which among the following is popular as Eternal City?",
+        "a": "New York City",
+        "b": "Rome",
+        "c": "London",
+        "d": "Paris",
+        "answer": "b"
+    },
+    {
+        "id": 335,
+        "difficulty": 3,
+        "question": "As per the Census 2011, what is the Male literacy of India?",
+        "a": "78 percent",
+        "b": "82 percent",
+        "c": "65 percent",
+        "d": "76 percent",
+        "answer": "b"
+    },
+    {
+        "id": 336,
+        "difficulty": 3,
+        "question": "Where is Bose Institute ?",
+        "a": "Dispur",
+        "b": "Kolkata",
+        "c": "Mumbai",
+        "d": "New Delhi",
+        "answer": "b"
+    },
+    {
+        "id": 337,
+        "difficulty": 3,
+        "question": "Where is Bose Institute ?",
+        "a": "Dispur",
+        "b": "Kolkata",
+        "c": "Mumbai",
+        "d": "New Delhi",
+        "answer": "b"
+    },
+    {
+        "id": 338,
+        "difficulty": 1,
+        "question": "Which one is the largest exporter of tea in the world?",
+        "a": "India",
+        "b": "China",
+        "c": "Sri Lanka",
+        "d": "Kenya",
+        "answer": "d"
+    },
+    {
+        "id": 339,
+        "difficulty": 2,
+        "question": "The costliest metal of the world is ...",
+        "a": "Endohedral Fullerene",
+        "b": "Californium 252",
+        "c": "Tritium",
+        "d": "Rhodium",
+        "answer": "b"
+    },
+    {
+        "id": 340,
+        "difficulty": 3,
+        "question": "Which one of the following countries has been the largest producer of copper?",
+        "a": "China",
+        "b": "Uruguay",
+        "c": "Brazil",
+        "d": "Chile",
+        "answer": "d"
+    },
+    {
+        "id": 341,
+        "difficulty": 3,
+        "question": "The famous Bolan Pass is situated in ...",
+        "a": "India",
+        "b": "Pakistan",
+        "c": "Afghanistan",
+        "d": "Russia",
+        "answer": "b"
+    },
+    {
+        "id": 342,
+        "difficulty": 3,
+        "question": "The largest producer of peanuts in the world is ...",
+        "a": "China",
+        "b": "India",
+        "c": "Nigeria",
+        "d": "Russia",
+        "answer": "a"
+    },
+    {
+        "id": 343,
+        "difficulty": 2,
+        "question": "Which one is the highest population density country in Asia?",
+        "a": "India",
+        "b": "Bangladesh",
+        "c": "China",
+        "d": "Singapore",
+        "answer": "d"
+    },
+    {
+        "id": 344,
+        "difficulty": 3,
+        "question": "which country was previously known as 'Ceylon'",
+        "a": "Sri Lanka",
+        "b": "Malaysia",
+        "c": "Maldives",
+        "d": "Mauritius",
+        "answer": "a"
+    },
+    {
+        "id": 345,
+        "difficulty": 3,
+        "question": "Thailand was known by the name of ...",
+        "a": "Saigon",
+        "b": "Abyssinia",
+        "c": "Siam",
+        "d": "None of the above",
+        "answer": "c"
+    },
+    {
+        "id": 346,
+        "difficulty": 3,
+        "question": "Which place is also known as the bullfighting capital of the World?",
+        "a": "Madrid",
+        "b": "Serville",
+        "c": "Barcelone",
+        "d": "Lisbon",
+        "answer": "b"
+    },
+    {
+        "id": 347,
+        "difficulty": 2,
+        "question": "At present which country is the maximum emitter of carbon dioxide?",
+        "a": "USA",
+        "b": "China",
+        "c": "Russia",
+        "d": "India",
+        "answer": "b"
+    },
+    {
+        "id": 348,
+        "difficulty": 3,
+        "question": "In which city the 'Wailing Wall' can be found",
+        "a": "Jerusalem",
+        "b": "Abu Dhabi",
+        "c": "Ammam",
+        "d": "Damascus",
+        "answer": "a"
+    },
+    {
+        "id": 349,
+        "difficulty": 3,
+        "question": "Which country is known as the sugar bowl of the world?",
+        "a": "India",
+        "b": "South Africa",
+        "c": "Cuba",
+        "d": "Brazil",
+        "answer": "c"
+    },
+    {
+        "id": 350,
+        "difficulty": 3,
+        "question": "The permanent Headquarters of SAARC Secretariat is located at ...",
+        "a": "Kathmandu",
+        "b": "Dhaka",
+        "c": "New Delhi",
+        "d": "Islamabad",
+        "answer": "a"
+    },
+    {
+        "id": 351,
+        "difficulty": 4,
+        "question": "The headquarters of the Arab League is based in",
+        "a": "Cairo",
+        "b": "Istanbul",
+        "c": "Tripoli",
+        "d": "Beirut",
+        "answer": "a"
+    },
+    {
+        "id": 352,
+        "difficulty": 5,
+        "question": "Which of the following countries is the largest producer of diamond?",
+        "a": "Australia",
+        "b": "Venezuela",
+        "c": "Russia",
+        "d": "Botswana",
+        "answer": "c"
+    },
+    {
+        "id": 353,
+        "difficulty": 3,
+        "question": "Which of the following seas has the highest salinity?",
+        "a": "Caspian Sea",
+        "b": "Mediterranean Sea",
+        "c": "Red Sea",
+        "d": "Dead Sea",
+        "answer": "d"
+    },
+    {
+        "id": 354,
+        "difficulty": 4,
+        "question": "The country that has officially recognised 'Bitcoin' as a currency is ...",
+        "a": "Korea",
+        "b": "China",
+        "c": "Japan",
+        "d": "Singapore",
+        "answer": "c"
+    },
+    {
+        "id": 355,
+        "difficulty": 3,
+        "question": "The headquarters of Asian Development Bank is located at ...",
+        "a": "Manilla",
+        "b": "Bangkok",
+        "c": "Dhaka",
+        "d": "Kathmandu",
+        "answer": "a"
+    },
+    {
+        "id": 356,
+        "difficulty": 3,
+        "question": "The International Date Line passes through middle of which Ocean?",
+        "a": "Pacific",
+        "b": "Indian",
+        "c": "Atlantic",
+        "d": "Arctic",
+        "answer": "a"
+    },
+    {
+        "id": 357,
+        "difficulty": 3,
+        "question": "In which of the following regions are Pygmies found",
+        "a": "Sahara",
+        "b": "Kalahari",
+        "c": "Equatorial forest",
+        "d": "Pampas",
+        "answer": "c"
+    },
+    {
+        "id": 358,
+        "difficulty": 2,
+        "question": "How many Nobel Prize Awards are awarded each year?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "answer": "b"
+    },
+    {
+        "id": 359,
+        "difficulty": 3,
+        "question": "Who discovered 'The Cape of Good Hope'?",
+        "a": "Bartolomeu Dias",
+        "b": "Vasco da Gama",
+        "c": "Marco Polo",
+        "d": "Robert Cook",
+        "answer": "a"
+    },
+    {
+        "id": 360,
+        "difficulty": 3,
+        "question": "The International Tsunami Information Center is located in ...",
+        "a": "Colombo",
+        "b": "Singapore",
+        "c": "Tokyo",
+        "d": "Honolulu",
+        "answer": "d"
+    },
 ]
