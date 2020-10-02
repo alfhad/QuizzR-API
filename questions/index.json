@@ -3239,15 +3239,15 @@
         "d": "Black Sea",
         "answer": "a"
     },
-    {
+      {
         "id": 328,
         "difficulty": 3,
-        "question": "The Part VI of constitution of India is not applicable to_____?",
-        "a": "Arunachal Pradesh",
-        "b": "Jammu & Kashmir",
-        "c": "Sikkim",
-        "d": "Goa",
-        "answer": "b"
+        "question": "The racing area of Cycling is known as …",
+        "a": "Velodrome",
+        "b": "Track",
+        "c": "Ring",
+        "d": "Range",
+        "answer": "a"
     },
     {
         "id": 329,
@@ -3310,44 +3310,44 @@
         "d": "Bill Gates",
         "answer": "a"
     },
-    {
+	{
         "id": 335,
-        "difficulty": 4,
-        "question": "Chennakeshab Temple is located in …………",
-        "a": "Konark",
-        "b": "Puri",
-        "c": "Belur",
-        "d": "Chhatarpur",
+        "difficulty": 1,
+        "question": "Who is the first female computer programmer?",
+        "a": "Grace Hopper",
+        "b": "Edith Clarke",
+        "c": "Ada Lovelace",
+        "d": "Evelyn Boyd Granville",
         "answer": "c"
     },
-    {
+	{
         "id": 336,
-        "difficulty": 3,
-        "question": "Which one of the following mountain peaks is popular as ‘Godwin Austin?’",
-        "a": "K-2",
-        "b": "Kangchenjunga",
-        "c": "Nanga Parvat",
-        "d": "Gasherbrum",
-        "answer": "a"
+        "difficulty": 2,
+        "question": "Who was the second person to land on the moon?",
+        "a": "David Schott",
+        "b": "Charles Duke",
+        "c": "Michael Collins",
+        "d": "Buzz Aldrin",
+        "answer": "d"
     },
-    {
+	{
         "id": 337,
-        "difficulty": 3,
-        "question": "The racing area of Cycling is known as …",
-        "a": "Velodrome",
-        "b": "Track",
-        "c": "Ring",
-        "d": "Range",
-        "answer": "a"
+        "difficulty": 5,
+        "question": "Which flower blooms once in 12 years?",
+        "a": "Refleshia",
+        "b": "Kurinji",
+        "c": "Bird of Paradise",
+        "d": "Red camellia",
+        "answer": "b"
     },
-    {
+	{
         "id": 338,
-        "difficulty": 3,
-        "question": "September 16 is celebrated as …",
-        "a": "World Environment Day",
-        "b": "World Ocean Day",
-        "c": "World Ozone Day",
-        "d": "World Red Cross Day",
+        "difficulty": 2,
+        "question": "Which is known as the laughing gas?",
+        "a": "Nitrogen dioxide",
+        "b": "Nitric oxide",
+        "c": "Nitrous oxide",
+        "d": "Nitroxyl",
         "answer": "c"
     },
     {
@@ -3378,16 +3378,6 @@
         "b": "82 percent",
         "c": "65 percent",
         "d": "76 percent",
-        "answer": "b"
-    },
-    {
-        "id": 342,
-        "difficulty": 3,
-        "question": "Where is Bose Institute ?",
-        "a": "Dispur",
-        "b": "Kolkata",
-        "c": "Mumbai",
-        "d": "New Delhi",
         "answer": "b"
     },
     {
@@ -3602,7 +3592,7 @@
     },
     {
         "id": 364,
-        "difficulty": 2,
+        "difficulty": 3,
         "question": "How many Nobel Prize Awards are awarded each year?",
         "a": "5",
         "b": "6",
@@ -3620,9 +3610,19 @@
         "d": "Robert Cook",
         "answer": "a"
     },
+      {
+        "id": 366,
+        "difficulty": 3,
+        "question": "The racing area of Cycling is known as …",
+        "a": "Velodrome",
+        "b": "Track",
+        "c": "Ring",
+        "d": "Range",
+        "answer": "a"
+    },
     {
         "id": 367,
-        "difficulty": 3,
+        "difficulty": 5,
         "question": "The International Tsunami Information Center is located in ...",
         "a": "Colombo",
         "b": "Singapore",
@@ -3631,3 +3631,4 @@
         "answer": "d"
     }
 ]
+
