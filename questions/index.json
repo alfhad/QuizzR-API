@@ -3228,5 +3228,25 @@
         "c": "Jupiter",
         "d": "Mercury",
         "answer": "c"
+    },
+    {
+        "id": 327,
+        "difficulty": 2,
+        "question": "Which club won the 2019-20 UCL championship?",
+        "a": "Bayern Munchen",
+        "b": "FC Barcelona",
+        "c": "Manchester City",
+        "d": "Paris Saint-German",
+        "answer": "a"
+    },
+    {
+        "id": 328,
+        "difficulty": 3,
+        "question": "Where was the first modern Olympic Games held?",
+        "a": "Berlin",
+        "b": "Athens",
+        "c": "London",
+        "d": "Beijing",
+        "answer": "b"
     }
 ]
