@@ -3240,7 +3240,7 @@
         "answer": "a"
     },
     {
-	"id": 328,
+        "id": 328,
         "difficulty": 3,
         "question": "The Part VI of constitution of India is not applicable to_____?",
         "a": "Arunachal Pradesh",
@@ -3251,6 +3251,67 @@
     },
     {
         "id": 329,
+        "difficulty": 2,
+        "question": "Nepal is located on which continent?",
+        "a": "Asia",
+        "b": "Europe",
+        "c": "Africa",
+        "d": "South America",
+        "answer": "a"
+    },
+    {
+        "id": 330,
+        "difficulty": 2,
+        "question": "What gas makes soda bubbly?",
+        "a": "Ethylene Oxide",
+        "b": "Carbon Monoxide",
+        "c": "Carbon Dioxide",
+        "d": "Hydrogen Sulfide",
+        "answer": "c"
+    },
+	
+    {
+        "id": 331,
+        "difficulty": 3,
+        "question": "Water has a pH level of around?",
+        "a": "8",
+        "b": "7",
+        "c": "6",
+        "d": "5",
+        "answer": "b"
+    },
+    {
+        "id": 332,
+        "difficulty": 1,
+        "question": "What is the name of the Earth’s largest ocean?",
+        "a": "The Arctic Ocean",
+        "b": "The Indian Ocean",
+        "c": "The Atlantic Ocean",
+        "d": "The Pacific Ocean",
+        "answer": "d"
+    },
+    {
+        "id": 333,
+        "difficulty": 1,
+        "question": "Which country consumes the most chocolate per capita?",
+        "a": "Germany",
+        "b": "India",
+        "c": "Switzerland",
+        "d": "Lithuania",
+        "answer": "c"
+    },
+    {
+        "id": 334,
+        "difficulty": 1,
+        "question": "Who was SpaceX founded by in 2002?",
+        "a": "Elon Musk",
+        "b": "Jeff Bezos",
+        "c": "Tim Cook",
+        "d": "Bill Gates",
+        "answer": "a"
+    },
+    {
+        "id": 335,
         "difficulty": 4,
         "question": "Chennakeshab Temple is located in …………",
         "a": "Konark",
@@ -3260,7 +3321,7 @@
         "answer": "c"
     },
     {
-        "id": 330,
+        "id": 336,
         "difficulty": 3,
         "question": "Which one of the following mountain peaks is popular as ‘Godwin Austin?’",
         "a": "K-2",
@@ -3270,7 +3331,7 @@
         "answer": "a"
     },
     {
-        "id": 331,
+        "id": 337,
         "difficulty": 3,
         "question": "The racing area of Cycling is known as …",
         "a": "Velodrome",
@@ -3280,7 +3341,7 @@
         "answer": "a"
     },
     {
-        "id": 332,
+        "id": 338,
         "difficulty": 3,
         "question": "September 16 is celebrated as …",
         "a": "World Environment Day",
@@ -3290,7 +3351,7 @@
         "answer": "c"
     },
     {
-        "id": 333,
+        "id": 339,
         "difficulty": 2,
         "question": "The term ‘rally’ is related to …",
         "a": "Football",
@@ -3300,7 +3361,7 @@
         "answer": "b"
     },
     {
-        "id": 334,
+        "id": 340,
         "difficulty": 3,
         "question": "Which among the following is popular as Eternal City?",
         "a": "New York City",
@@ -3310,7 +3371,7 @@
         "answer": "b"
     },
     {
-        "id": 335,
+        "id": 341,
         "difficulty": 3,
         "question": "As per the Census 2011, what is the Male literacy of India?",
         "a": "78 percent",
@@ -3320,7 +3381,7 @@
         "answer": "b"
     },
     {
-        "id": 336,
+        "id": 342,
         "difficulty": 3,
         "question": "Where is Bose Institute ?",
         "a": "Dispur",
@@ -3330,7 +3391,7 @@
         "answer": "b"
     },
     {
-        "id": 337,
+        "id": 343,
         "difficulty": 3,
         "question": "Where is Bose Institute ?",
         "a": "Dispur",
@@ -3340,7 +3401,7 @@
         "answer": "b"
     },
     {
-        "id": 338,
+        "id": 344,
         "difficulty": 1,
         "question": "Which one is the largest exporter of tea in the world?",
         "a": "India",
@@ -3350,7 +3411,7 @@
         "answer": "d"
     },
     {
-        "id": 339,
+        "id": 345,
         "difficulty": 2,
         "question": "The costliest metal of the world is ...",
         "a": "Endohedral Fullerene",
@@ -3360,7 +3421,7 @@
         "answer": "b"
     },
     {
-        "id": 340,
+        "id": 346,
         "difficulty": 3,
         "question": "Which one of the following countries has been the largest producer of copper?",
         "a": "China",
@@ -3370,7 +3431,7 @@
         "answer": "d"
     },
     {
-        "id": 341,
+        "id": 347,
         "difficulty": 3,
         "question": "The famous Bolan Pass is situated in ...",
         "a": "India",
@@ -3380,7 +3441,7 @@
         "answer": "b"
     },
     {
-        "id": 342,
+        "id": 348,
         "difficulty": 3,
         "question": "The largest producer of peanuts in the world is ...",
         "a": "China",
@@ -3390,7 +3451,7 @@
         "answer": "a"
     },
     {
-        "id": 343,
+        "id": 349,
         "difficulty": 2,
         "question": "Which one is the highest population density country in Asia?",
         "a": "India",
@@ -3400,7 +3461,7 @@
         "answer": "d"
     },
     {
-        "id": 344,
+        "id": 350,
         "difficulty": 3,
         "question": "which country was previously known as 'Ceylon'",
         "a": "Sri Lanka",
@@ -3410,7 +3471,7 @@
         "answer": "a"
     },
     {
-        "id": 345,
+        "id": 351,
         "difficulty": 3,
         "question": "Thailand was known by the name of ...",
         "a": "Saigon",
@@ -3420,7 +3481,7 @@
         "answer": "c"
     },
     {
-        "id": 346,
+        "id": 352,
         "difficulty": 3,
         "question": "Which place is also known as the bullfighting capital of the World?",
         "a": "Madrid",
@@ -3430,7 +3491,7 @@
         "answer": "b"
     },
     {
-        "id": 347,
+        "id": 353,
         "difficulty": 2,
         "question": "At present which country is the maximum emitter of carbon dioxide?",
         "a": "USA",
@@ -3440,7 +3501,7 @@
         "answer": "b"
     },
     {
-        "id": 348,
+        "id": 354,
         "difficulty": 3,
         "question": "In which city the 'Wailing Wall' can be found",
         "a": "Jerusalem",
@@ -3450,7 +3511,7 @@
         "answer": "a"
     },
     {
-        "id": 349,
+        "id": 355,
         "difficulty": 3,
         "question": "Which country is known as the sugar bowl of the world?",
         "a": "India",
@@ -3460,7 +3521,7 @@
         "answer": "c"
     },
     {
-        "id": 350,
+        "id": 356,
         "difficulty": 3,
         "question": "The permanent Headquarters of SAARC Secretariat is located at ...",
         "a": "Kathmandu",
@@ -3470,7 +3531,7 @@
         "answer": "a"
     },
     {
-        "id": 351,
+        "id": 357,
         "difficulty": 4,
         "question": "The headquarters of the Arab League is based in",
         "a": "Cairo",
@@ -3480,7 +3541,7 @@
         "answer": "a"
     },
     {
-        "id": 352,
+        "id": 358,
         "difficulty": 5,
         "question": "Which of the following countries is the largest producer of diamond?",
         "a": "Australia",
@@ -3490,7 +3551,7 @@
         "answer": "c"
     },
     {
-        "id": 353,
+        "id": 359,
         "difficulty": 3,
         "question": "Which of the following seas has the highest salinity?",
         "a": "Caspian Sea",
@@ -3500,7 +3561,7 @@
         "answer": "d"
     },
     {
-        "id": 354,
+        "id": 360,
         "difficulty": 4,
         "question": "The country that has officially recognised 'Bitcoin' as a currency is ...",
         "a": "Korea",
@@ -3510,7 +3571,7 @@
         "answer": "c"
     },
     {
-        "id": 355,
+        "id": 361,
         "difficulty": 3,
         "question": "The headquarters of Asian Development Bank is located at ...",
         "a": "Manilla",
@@ -3520,7 +3581,7 @@
         "answer": "a"
     },
     {
-        "id": 356,
+        "id": 362,
         "difficulty": 3,
         "question": "The International Date Line passes through middle of which Ocean?",
         "a": "Pacific",
@@ -3530,7 +3591,7 @@
         "answer": "a"
     },
     {
-        "id": 357,
+        "id": 363,
         "difficulty": 3,
         "question": "In which of the following regions are Pygmies found",
         "a": "Sahara",
@@ -3540,7 +3601,7 @@
         "answer": "c"
     },
     {
-        "id": 358,
+        "id": 364,
         "difficulty": 2,
         "question": "How many Nobel Prize Awards are awarded each year?",
         "a": "5",
@@ -3550,7 +3611,7 @@
         "answer": "b"
     },
     {
-        "id": 359,
+        "id": 365,
         "difficulty": 3,
         "question": "Who discovered 'The Cape of Good Hope'?",
         "a": "Bartolomeu Dias",
@@ -3560,7 +3621,7 @@
         "answer": "a"
     },
     {
-        "id": 360,
+        "id": 367,
         "difficulty": 3,
         "question": "The International Tsunami Information Center is located in ...",
         "a": "Colombo",
