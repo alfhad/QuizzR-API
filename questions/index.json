@@ -3629,6 +3629,16 @@
         "c": "Tokyo",
         "d": "Honolulu",
         "answer": "d"
+    },
+    {
+        "id": 368,
+        "difficulty": 1,
+        "question": "What is the capital city of Nepal?",
+        "a": "Pokhara",
+        "b": "Lalitpur",
+        "c": "Kathmandu",
+        "d": "Dharan",
+        "answer": "c"
     }
 ]
 
