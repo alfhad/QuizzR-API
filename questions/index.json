@@ -3639,6 +3639,16 @@
         "c": "Kathmandu",
         "d": "Dharan",
         "answer": "c"
+    },
+    {
+        "id": 369,
+        "difficulty": 1,
+        "question": "Which is the best club in WCE?",
+        "a": "ACSES",
+        "b": "ACM",
+        "c": "WLUG",
+        "d": "CodeChef",
+        "answer": "b"
     }
 ]
 
