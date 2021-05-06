@@ -3640,5 +3640,15 @@
         "d": "Dharan",
         "answer": "c"
     },
+    {
+        "id": 369,
+        "difficulty": 2,
+        "question": "How much time does it take for Jupiter to complete a revolution?",
+        "a": "12 Years",
+        "b": "13 Years",
+        "c": "10 Years",
+        "d": "50 Years",
+        "answer": "a"
+    }
 ]
 
