@@ -3649,6 +3649,16 @@
         "c": "10 Years",
         "d": "50 Years",
         "answer": "a"
+    },
+	{
+        "id": 370,
+        "difficulty": 2,
+        "question": "Where would the 2021 Summer Olympics be held?",
+        "a": "Russia",
+        "b": "Greece",
+        "c": "Qatar",
+        "d": "Japan",
+        "answer": "d"
     }
 ]
 
