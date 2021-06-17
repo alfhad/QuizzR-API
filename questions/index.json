@@ -3659,6 +3659,16 @@
         "c": "Alexander Fleming",
         "d": "Charles Babbage",
         "answer": "c"
+    },
+	{
+        "id": 371,
+        "difficulty": 2,
+        "question": "Where would the 2021 Summer Olympics be held?",
+        "a": "Russia",
+        "b": "Greece",
+        "c": "Qatar",
+        "d": "Japan",
+        "answer": "d"
     }
 ]
 
