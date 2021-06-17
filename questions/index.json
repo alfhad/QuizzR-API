@@ -3650,15 +3650,15 @@
         "d": "50 Years",
         "answer": "a"
     },
-	{
+    {
         "id": 370,
         "difficulty": 2,
-        "question": "Where would the 2021 Summer Olympics be held?",
-        "a": "Russia",
-        "b": "Greece",
-        "c": "Qatar",
-        "d": "Japan",
-        "answer": "d"
+        "question": "Who discovered Penicillin?",
+        "a": "Alexander Graham Bell",
+        "b": "Johannes Gutenberg",
+        "c": "Alexander Fleming",
+        "d": "Charles Babbage",
+        "answer": "c"
     }
 ]
 
