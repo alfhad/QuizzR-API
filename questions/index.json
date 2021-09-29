@@ -3669,6 +3669,16 @@
         "c": "Qatar",
         "d": "Japan",
         "answer": "d"
+    },
+	{
+        "id": 372,
+        "difficulty": 4,
+        "question": "What was the name of Hitler's Wife?",
+        "a": "Emma Brown",
+        "b": "Emily Brown",
+        "c": "Helen Brown",
+        "d": "Lily Brown",
+        "answer": "a"
     }
 ]
 
