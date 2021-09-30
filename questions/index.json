@@ -3749,16 +3749,16 @@
 	"c": "Herat",
 	"d": "Kandahar",
 	"answer": "a"	
-	}
-	{
-	 "id": 381,
-	"difficulty": 2,
-	"question": "What is capital of Bangladesh",
-	"a": "Dhaka",
-	"b": "Mumbai",
-	"c": "Delhi",
-	"d": "New York",
-	"answer": "a"	
+	},
+    	{
+	 "id": 380,
+	"difficulty": 3,
+	"question": "Which country gifted the "Statue of Liberty" to USA in 1886? ",
+	"a": "France",
+	"b": "Brazil",
+	"c": "England",
+	"d": "Germany",
+	"answer": "A"	
 	}
 
 ]
