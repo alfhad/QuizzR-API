@@ -3750,5 +3750,15 @@
 	"d": "Kandahar",
 	"answer": "a"	
 	}
+	{
+	 "id": 381,
+	"difficulty": 2,
+	"question": "What is capital of Bangladesh",
+	"a": "Dhaka",
+	"b": "Mumbai",
+	"c": "Delhi",
+	"d": "New York",
+	"answer": "a"	
+	}
 
 ]
