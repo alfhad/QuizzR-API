@@ -3857,5 +3857,14 @@
        "c": "Legend of Zelda",
        "d": "Sonic the Hedgehog",
        "answer": "a"	
+       },
+	"id": 389,
+       "difficulty": 2,
+       "question": "What is the full form of GIT?",
+       "a": "Gastro Intestional Track.",
+       "b": "Gastro International Track.",
+       "c": "Global information Tracker",
+       "d": "None of these",
+       "answer": "c"	
        }
 ]
