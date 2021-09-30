@@ -3804,7 +3804,7 @@
 	"d": "Fluorine and Caesium",
 	"answer": "d"	
 
-        }
+        },
 {
 	 "id": 385,
 	"difficulty": 2,
@@ -3815,6 +3815,18 @@
 	"d": "deflocculation",
 	"answer": "a"	
 
+        },
+{
+	 "id": 386,
+	"difficulty": 4,
+	"question": "In animals , Glycogen is stored in :",
+	"a": "Liver",
+	"b": "Spleen",
+	"c": "Lungs",
+	"d": "heart",
+	"answer": "a"	
+
         }
+
 
 ]
