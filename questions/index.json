@@ -3690,9 +3690,39 @@
 	"d": "Martin Lorentzon",
 	"answer": "d"	
 	},
-	
-	{
-	 "id": 374,
+    {
+        "id": 374,
+       "difficulty": 4,
+       "question": "Who was Zeus's wife?",
+       "a": "Aphrodite",
+       "b": "Athena",
+       "c": "Artemis",
+       "d": "Hera",
+       "answer": "d"	
+       },
+       {
+        "id": 375,
+       "difficulty": 3,
+       "question": "Aphrodite was the goddess of what?",
+       "a": "Anger and sex",
+       "b": "Love and hate",
+       "c": "Love and beauty",
+       "d": "Beauty and war",
+       "answer": "c"	
+       }
+	,
+       {
+        "id": 376,
+       "difficulty": 3,
+       "question": "which is the smallest ocean in the world?",
+       "a": "Arctic",
+       "b": "Pacific",
+       "c": "Atlantic",
+       "d": "Indian",
+       "answer": "A"	
+       },
+    	{
+	 "id": 377,
 	"difficulty": 3,
 	"question": "What is capital of Afghanistan",
 	"a": "Kabul",
@@ -3701,5 +3731,6 @@
 	"d": "Kandahar",
 	"answer": "a"	
 	}
+
 ]
 
