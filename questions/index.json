@@ -3804,6 +3804,29 @@
 	"d": "Fluorine and Caesium",
 	"answer": "d"	
 
+        },
+{
+	 "id": 385,
+	"difficulty": 2,
+	"question": "Settling down of colloidal particles to form a suspension is called:",
+	"a": "flocculation",
+	"b": "peptization",
+	"c": "aggregation",
+	"d": "deflocculation",
+	"answer": "a"	
+
+        },
+{
+	 "id": 386,
+	"difficulty": 4,
+	"question": "In animals , Glycogen is stored in :",
+	"a": "Liver",
+	"b": "Spleen",
+	"c": "Lungs",
+	"d": "heart",
+	"answer": "a"	
+
         }
+
 
 ]
