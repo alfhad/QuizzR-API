@@ -3750,8 +3750,95 @@
 	"d": "Kandahar",
 	"answer": "a"	
 	},
-       {
-       "id": 380,
+	{
+	 "id": 380,
+	"difficulty": 2,
+	"question": "What is capital of Bangladesh",
+	"a": "Dhaka",
+	"b": "Mumbai",
+	"c": "Delhi",
+	"d": "New York",
+	"answer": "a"	
+	},
+{
+	 "id": 381,
+	"difficulty": 3,
+	"question": "What percentage of World’s population lives in India?",
+	"a": "16.5%",
+	"b": "17.5%",
+	"c": "20%",
+	"d": "15%",
+	"answer": "b"	
+
+	},
+    	{
+	 "id": 382,
+	"difficulty": 3,
+	"question": "Which country gifted the "Statue of Liberty" to USA in 1886? ",
+	"a": "France",
+	"b": "Brazil",
+	"c": "England",
+	"d": "Germany",
+	"answer": "A"	
+
+	},
+	{
+  	"id": 383,
+ 	"difficulty": 3,
+ 	"question": "What is the name of first super computer of india?",
+ 	"a": "PARAM 7000",
+  	"b": "PARAM 8000",
+  	"c": "SURYA 8000",
+ 	"d": "SURYA 7000",
+  	"answer": "B"
+	},
+
+        {
+	 "id": 384,
+	"difficulty": 5,
+	"question": "Which of the following are the most and the least electronegative elements in the periodic table? ",
+	"a": "Chlorine and Fluorine",
+	"b": "Hydrogen and Helium",
+	"c": "Carbon and Oxygen",
+	"d": "Fluorine and Caesium",
+	"answer": "d"	
+
+        },
+
+{
+	 "id": 385,
+	"difficulty": 2,
+	"question": "Settling down of colloidal particles to form a suspension is called:",
+	"a": "flocculation",
+	"b": "peptization",
+	"c": "aggregation",
+	"d": "deflocculation",
+	"answer": "a"	
+
+        },
+{
+	 "id": 386,
+	"difficulty": 4,
+	"question": "In animals , Glycogen is stored in :",
+	"a": "Liver",
+	"b": "Spleen",
+	"c": "Lungs",
+	"d": "heart",
+	"answer": "a"	
+
+        },
+	{	
+	"id": 387,
+	"difficulty": 3,
+	"question": "Who was the first Indian ruler who had territory outside India? ",
+	"a": "Ashoka",
+	"b": "Chandragupta Maurya",
+	"c": "Kanishka",
+	"d": "Huvishka",
+	"answer": "c"
+	},
+         {
+       "id": 388,
        "difficulty": 5,
        "question": "A game based on which animated franchise propelled AR into the mainstream in recent years?",
        "a": "Pokemon",
