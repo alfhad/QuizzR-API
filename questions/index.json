@@ -3782,6 +3782,16 @@
 	"d": "Germany",
 	"answer": "A"	
 
+	},
+	{
+	 "id": 383,
+	"difficulty": 3,
+	"question": "Who was the Prime Minister of India in 2014-19 ?",
+	"a": "Rahul Gandhi",
+	"b": "Narendra Modi",
+	"c": "Amit Shah",
+	"d": "Sardar Khan",
+	"answer": "b"	
 	}
 
 ]
