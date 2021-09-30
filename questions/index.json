@@ -3759,6 +3759,16 @@
 	"c": "Delhi",
 	"d": "New York",
 	"answer": "a"	
+	},
+{
+	 "id": 382,
+	"difficulty": 3,
+	"question": "What percentage of World’s population lives in India?",
+	"a": "16.5%",
+	"b": "17.5%",
+	"c": "20%",
+	"d": "15%",
+	"answer": "b"	
 	}
 
 ]
