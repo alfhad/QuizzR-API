@@ -3782,6 +3782,17 @@
 	"d": "Germany",
 	"answer": "A"	
 
+	},
+        {
+	 "id": 383,
+	"difficulty": 5,
+	"question": "Which of the following are the most and the least electronegative elements in the periodic table? ",
+	"a": "Chlorine and Fluorine",
+	"b": "Hydrogen and Helium",
+	"c": "Carbon and Oxygen",
+	"d": "Fluorine and Caesium",
+	"answer": "d"	
+
 	}
 
 ]
