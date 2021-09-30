@@ -3729,5 +3729,26 @@
         "c": "Spain",
         "d": "Portugal",
         "answer": "c"	
-       }
+       },
+       {
+        "id": 378,
+       "difficulty": 3,
+       "question": "which is the smallest ocean in the world?",
+       "a": "Arctic",
+       "b": "Pacific",
+       "c": "Atlantic",
+       "d": "Indian",
+       "answer": "A"	
+       },
+    	{
+	 "id": 379,
+	"difficulty": 3,
+	"question": "What is capital of Afghanistan",
+	"a": "Kabul",
+	"b": "zelum",
+	"c": "Herat",
+	"d": "Kandahar",
+	"answer": "a"	
+	}
+
 ]
