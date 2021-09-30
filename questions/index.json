@@ -3783,8 +3783,19 @@
 	"answer": "A"	
 
 	},
+	{
+  	"id": 383,
+ 	"difficulty": 3,
+ 	"question": "What is the name of first super computer of india?",
+ 	"a": "PARAM 7000",
+  	"b": "PARAM 8000",
+  	"c": "SURYA 8000",
+ 	"d": "SURYA 7000",
+  	"answer": "B"
+	},
+
         {
-	 "id": 383,
+	 "id": 384,
 	"difficulty": 5,
 	"question": "Which of the following are the most and the least electronegative elements in the periodic table? ",
 	"a": "Chlorine and Fluorine",
