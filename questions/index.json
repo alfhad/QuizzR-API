@@ -3783,15 +3783,16 @@
 	"answer": "A"	
 
 	},
-	{
+        {
 	 "id": 383,
-	"difficulty": 3,
-	"question": "Who was the Prime Minister of India in 2014-19 ?",
-	"a": "Rahul Gandhi",
-	"b": "Narendra Modi",
-	"c": "Amit Shah",
-	"d": "Sardar Khan",
-	"answer": "b"	
-	}
+	"difficulty": 5,
+	"question": "Which of the following are the most and the least electronegative elements in the periodic table? ",
+	"a": "Chlorine and Fluorine",
+	"b": "Hydrogen and Helium",
+	"c": "Carbon and Oxygen",
+	"d": "Fluorine and Caesium",
+	"answer": "d"	
+
+        }
 
 ]
