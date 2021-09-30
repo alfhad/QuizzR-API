@@ -3749,8 +3749,7 @@
 	"c": "Herat",
 	"d": "Kandahar",
 	"answer": "a"	
-
-	}
+	},
 	{
 	 "id": 380,
 	"difficulty": 2,
@@ -3837,8 +3836,15 @@
 	"c": "Kanishka",
 	"d": "Huvishka",
 	"answer": "c"
-	}
-
-
-
+	},
+         {
+       "id": 388,
+       "difficulty": 5,
+       "question": "A game based on which animated franchise propelled AR into the mainstream in recent years?",
+       "a": "Pokemon",
+       "b": "Super Mario",
+       "c": "Legend of Zelda",
+       "d": "Sonic the Hedgehog",
+       "answer": "a"	
+       }
 ]
