@@ -3749,8 +3749,7 @@
 	"c": "Herat",
 	"d": "Kandahar",
 	"answer": "a"	
-
-	}
+	},
 	{
 	 "id": 380,
 	"difficulty": 2,
@@ -3817,5 +3816,46 @@
 	"answer": "c"	
 
         }
+{
+	 "id": 385,
+	"difficulty": 2,
+	"question": "Settling down of colloidal particles to form a suspension is called:",
+	"a": "flocculation",
+	"b": "peptization",
+	"c": "aggregation",
+	"d": "deflocculation",
+	"answer": "a"	
 
+        },
+{
+	 "id": 386,
+	"difficulty": 4,
+	"question": "In animals , Glycogen is stored in :",
+	"a": "Liver",
+	"b": "Spleen",
+	"c": "Lungs",
+	"d": "heart",
+	"answer": "a"	
+
+        },
+	{	
+	"id": 387,
+	"difficulty": 3,
+	"question": "Who was the first Indian ruler who had territory outside India? ",
+	"a": "Ashoka",
+	"b": "Chandragupta Maurya",
+	"c": "Kanishka",
+	"d": "Huvishka",
+	"answer": "c"
+	},
+         {
+       "id": 388,
+       "difficulty": 5,
+       "question": "A game based on which animated franchise propelled AR into the mainstream in recent years?",
+       "a": "Pokemon",
+       "b": "Super Mario",
+       "c": "Legend of Zelda",
+       "d": "Sonic the Hedgehog",
+       "answer": "a"	
+       }
 ]
