@@ -3804,6 +3804,18 @@
 	"d": "Fluorine and Caesium",
 	"answer": "d"	
 
-        }
+        },
+
+	{	
+	"id": 385,
+	"difficulty": 3,
+	"question": "Who was the first Indian ruler who had territory outside India? ",
+	"a": "Ashoka",
+	"b": "Chandragupta Maurya",
+	"c": "Kanishka",
+	"d": "Huvishka",
+	"answer": "c"
+	}
+
 
 ]
