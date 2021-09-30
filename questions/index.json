@@ -3709,10 +3709,29 @@
        "c": "Love and beauty",
        "d": "Beauty and war",
        "answer": "c"	
-       }
-	,
+       },
        {
         "id": 376,
+       "difficulty": 1,
+       "question": "Which city is the financial capital of India?",
+       "a": "Delhi",
+       "b": "Mumbai",
+       "c": "Pune",
+       "d": "Nagpur",
+       "answer": "b"	
+       },
+       {
+        "id": 377,
+        "difficulty": 2,
+        "question": "Which country are the Canary Islands part of?",
+        "a": "Belgium",
+        "b": "France",
+        "c": "Spain",
+        "d": "Portugal",
+        "answer": "c"	
+       },
+       {
+        "id": 378,
        "difficulty": 3,
        "question": "which is the smallest ocean in the world?",
        "a": "Arctic",
@@ -3722,7 +3741,7 @@
        "answer": "A"	
        },
     	{
-	 "id": 377,
+	 "id": 379,
 	"difficulty": 3,
 	"question": "What is capital of Afghanistan",
 	"a": "Kabul",
@@ -3733,4 +3752,3 @@
 	}
 
 ]
-
