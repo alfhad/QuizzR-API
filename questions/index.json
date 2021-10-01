@@ -3692,7 +3692,7 @@
 	},
     {
         "id": 374,
-       "difficulty": 4,
+       "difficulty": 3,
        "question": "Who was Zeus's wife?",
        "a": "Aphrodite",
        "b": "Athena",
@@ -3711,16 +3711,6 @@
        "answer": "c"	
        },
        {
-        "id": 376,
-       "difficulty": 1,
-       "question": "Which city is the financial capital of India?",
-       "a": "Delhi",
-       "b": "Mumbai",
-       "c": "Pune",
-       "d": "Nagpur",
-       "answer": "b"	
-       },
-       {
         "id": 377,
         "difficulty": 2,
         "question": "Which country are the Canary Islands part of?",
@@ -3732,7 +3722,7 @@
        },
        {
         "id": 378,
-       "difficulty": 3,
+       "difficulty": 1,
        "question": "which is the smallest ocean in the world?",
        "a": "Arctic",
        "b": "Pacific",
@@ -3745,14 +3735,14 @@
 	"difficulty": 3,
 	"question": "What is capital of Afghanistan",
 	"a": "Kabul",
-	"b": "zelum",
+	"b": "Zelum",
 	"c": "Herat",
 	"d": "Kandahar",
 	"answer": "a"	
 	},
 	{
 	 "id": 380,
-	"difficulty": 2,
+	"difficulty": 1,
 	"question": "What is capital of Bangladesh",
 	"a": "Dhaka",
 	"b": "Mumbai",
@@ -3760,27 +3750,15 @@
 	"d": "New York",
 	"answer": "a"	
 	},
-{
-	 "id": 381,
-	"difficulty": 3,
-	"question": "What percentage of World’s population lives in India?",
-	"a": "16.5%",
-	"b": "17.5%",
-	"c": "20%",
-	"d": "15%",
-	"answer": "b"	
-
-	},
     	{
 	 "id": 382,
 	"difficulty": 3,
-	"question": "Which country gifted the "Statue of Liberty" to USA in 1886? ",
+	"question": "Which country gifted the \"Statue of Liberty\" to USA in 1886? ",
 	"a": "France",
 	"b": "Brazil",
 	"c": "England",
 	"d": "Germany",
 	"answer": "A"	
-
 	},
 	{
   	"id": 383,
@@ -3792,7 +3770,6 @@
  	"d": "SURYA 7000",
   	"answer": "B"
 	},
-
         {
 	 "id": 384,
 	"difficulty": 5,
@@ -3802,9 +3779,7 @@
 	"c": "Carbon and Oxygen",
 	"d": "Fluorine and Caesium",
 	"answer": "d"	
-
         },
-
 	{
 	 "id": 385,
 	"difficulty": 3,
@@ -3814,8 +3789,7 @@
 	"c": "Global information Tracker.",
 	"d": "None of these.",
 	"answer": "c"	
-
-        }
+        },
 {
 	 "id": 385,
 	"difficulty": 2,
@@ -3829,25 +3803,14 @@
         },
 {
 	 "id": 386,
-	"difficulty": 4,
+	"difficulty": 2,
 	"question": "In animals , Glycogen is stored in :",
 	"a": "Liver",
 	"b": "Spleen",
 	"c": "Lungs",
 	"d": "heart",
 	"answer": "a"	
-
-        },
-	{	
-	"id": 387,
-	"difficulty": 3,
-	"question": "Who was the first Indian ruler who had territory outside India? ",
-	"a": "Ashoka",
-	"b": "Chandragupta Maurya",
-	"c": "Kanishka",
-	"d": "Huvishka",
-	"answer": "c"
-	},
+      },
          {
        "id": 388,
        "difficulty": 5,
@@ -3858,6 +3821,7 @@
        "d": "Sonic the Hedgehog",
        "answer": "a"	
        },
+{
 	"id": 389,
        "difficulty": 2,
        "question": "What is the full form of GIT?",
@@ -3887,37 +3851,6 @@
         "d": "Stout infantfish",
         "answer": "b"
     },
-    
-{
- 	"id": 392,
-        "difficulty": 1 ,
-        "question": "Who is the president of USA?",
-        "a": "Joe Biden",
-        "b": "Kamla Harris",
-        "c": "Narendraa Modi",
-        "d": "Obama",
-        "answer": "a"
-    },
-{
-	"id": 392,
-        "difficulty": 2 ,
-        "question": "Which is the smallest state in India?",
-        "a": "Goa",
-        "b": "Mizoram",
-        "c": "Tripura",
-        "d": "Maharashra",
-        "answer": "a"
-},
-{
-        "difficulty": 3 ,
-        "question": "Which is the smallest state in india?",
-        "a": "goa",
-        "b": "mizoram",
-        "c": "tripura",
-        "d": "maharastra",
-        "answer": "a"
-},
-
 {
 	"id": 393,
         "difficulty": 3 ,
@@ -3927,36 +3860,6 @@
         "c": "Ac",
         "d": "Ae",
         "answer": "b"
-},
-{
-	"id": 393,
-        "difficulty": 2 ,
-        "question": "Which is the largest state in india?",
-        "a": "Rajasthan",
-        "b": "M.P.",
-        "c": "A.P.",
-        "d": "Maharashtra",
-        "answer": "a"
-},
- {
-	"id": 394,
-        "difficulty": 2 ,
-        "question": "Which is national animal of India?",
-        "a": "Tiger",
-        "b": "Lion",
-        "c": "Elephant",
-        "d": "Rabbit",
-        "answer": "a"
-},
-{
-	"id": 395,
-        "difficulty": 2 ,
-        "question": "Which is national bird of India?",
-        "a": "peacock",
-        "b": "peigion",
-        "c": "crow",
-        "d": "owl",
-        "answer": "a"
 },
 {
 	"id": 395,
@@ -3977,16 +3880,5 @@
   "c": "4 billion years",
   "d": "2.5 billion years",
   "answer": "b"
-},
-
-{
-	"id": 397,
-  "difficulty": 3,
-  "question": "First recipient of Khel Ratna Award",
-  "a": "Major Dhyanchand",
-  "b": "Sachin Tendulkar",
-  "c": "Vishwanathan Anand",
-  "d": "Dhanraj Pillay",
-  "answer": "c"
 }
 ]
