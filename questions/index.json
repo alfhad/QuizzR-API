@@ -4088,5 +4088,15 @@
         "c": "ZTE",
         "d": "Lenevo",
         "answer": "a"
+    },
+	 {        
+	"id": 421,
+        "difficulty": 2,
+        "question": "What is the name of the biggest technology company in South Korea?",
+        "a": "Samsung",
+        "b": "LG",
+        "c": "ZTE",
+        "d": "Lenevo",
+        "answer": "a"
     }
 ]
