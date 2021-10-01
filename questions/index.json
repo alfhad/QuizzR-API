@@ -3929,36 +3929,6 @@
         "answer": "b"
 },
 {
-	"id": 393,
-        "difficulty": 2 ,
-        "question": "Which is the largest state in india?",
-        "a": "Rajasthan",
-        "b": "M.P.",
-        "c": "A.P.",
-        "d": "Maharashtra",
-        "answer": "a"
-},
- {
-	"id": 394,
-        "difficulty": 2 ,
-        "question": "Which is national animal of India?",
-        "a": "Tiger",
-        "b": "Lion",
-        "c": "Elephant",
-        "d": "Rabbit",
-        "answer": "a"
-},
-{
-	"id": 395,
-        "difficulty": 2 ,
-        "question": "Which is national bird of India?",
-        "a": "peacock",
-        "b": "peigion",
-        "c": "crow",
-        "d": "owl",
-        "answer": "a"
-},
-{
 	"id": 395,
   "difficulty": 2 ,
   "question": "Which is fastest game in the world?",
@@ -3977,60 +3947,5 @@
   "c": "4 billion years",
   "d": "2.5 billion years",
   "answer": "b"
-}
- {
-	"id": 394,
-        "difficulty": 2 ,
-        "question": "Which is the largest state in india?",
-        "a": "Rajasthan",
-        "b": "M.P.",
-        "c": "A.P.",
-        "d": "Maharashtra",
-        "answer": "a"
-
-}
- {
-	"id": 395,
-        "difficulty": 2 ,
-        "question": "Which is the capital city of Maharashtra in india?",
-        "a": "Aurangabad",
-        "b": "Pune",
-        "c": "Nagpur",
-        "d": "Mumbai",
-        "answer": "c"
-
-}
- {
-	"id": 396,
-        "difficulty": 2 ,
-        "question": "Which is the cultural capital city of Maharashtra in india?",
-        "a": "Aurangabad",
-        "b": "Pune",
-        "c": "Nagpur",
-        "d": "Mumbai",
-        "answer": "b"
-
-}
-{
-	"id": 397,
-        "difficulty": 2 ,
-        "question": "Which is the historical capital city of Maharashtra in india?",
-        "a": "Aurangabad",
-        "b": "Pune",
-        "c": "Nagpur",
-        "d": "Mumbai",
-        "answer": "b"
-
-}
-{
-	"id": 398,
-        "difficulty": 2 ,
-        "question": "Which is the financial capital city of Maharashtra in india?",
-        "a": "Aurangabad",
-        "b": "Pune",
-        "c": "Nagpur",
-        "d": "Mumbai",
-        "answer": "d"
-
-}
+},
 ]
