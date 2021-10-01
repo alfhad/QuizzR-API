@@ -1009,7 +1009,7 @@
         "d": "Earth",
         "answer": "a"
     },
-	{
+    {
         "id": 101,
         "difficulty": 2,
         "question": "Which planet has the most number of moons?",
@@ -1019,7 +1019,7 @@
         "d": "Pluto",
         "answer": "b"
     },
- 	{
+    {
         "id": 102,
         "difficulty": 4,
         "question": "Who was the first person to reach space?",
@@ -1029,7 +1029,7 @@
         "d": "Robert Behnken",
         "answer": "a"
     },
-	{
+    {
         "id": 103,
         "difficulty": 1,
         "question": "Which continent has the largest coastline?",
@@ -1039,7 +1039,7 @@
         "d": "Europe",
         "answer": "c"
     },
-	{
+    {
         "id": 104,
         "difficulty": 3,
         "question": "Who invented the mobile phone?",
@@ -1049,7 +1049,7 @@
         "d": "Robert E.Kahn",
         "answer": "a"
     },
-	{
+    {
         "id": 105,
         "difficulty": 1,
         "question": "For which of the following disciplines is Nobel Prize awarded?",
@@ -1059,7 +1059,7 @@
         "d": "All of the above",
         "answer": "d"
     },
-	{
+    {
         "id": 106,
         "difficulty": 1,
         "question": "Hitler's party which came into power in 1933 is known as?",
@@ -1069,7 +1069,7 @@
         "d": "Nazi Party",
         "answer": "d"
     },
-	{
+    {
         "id": 107,
         "difficulty": 3,
         "question": "Georgia, Uzbekistan and Turkmenistan became the members of UNO in?",
@@ -1079,7 +1079,7 @@
         "d": "1993",
         "answer": "b"
     },
-	{
+    {
         "id": 108,
         "difficulty": 4,
         "question": "Katerina Sakellaropoulou was elected the first woman President of?",
@@ -1089,7 +1089,7 @@
         "d": "Netherlands",
         "answer": "a"
     },
-	{
+    {
         "id": 109,
         "difficulty": 2,
         "question": "Tutankhamun was what when he died?",
@@ -1099,7 +1099,7 @@
         "d": "President",
         "answer": "c"
     },
-	{
+    {
         "id": 110,
         "difficulty": 2,
         "question": "At what sporting event you might witness a 'slam dunk'?",
@@ -1109,7 +1109,7 @@
         "d": "Baseball",
         "answer": "b"
     },
-	{
+    {
         "id": 111,
         "difficulty": 1,
         "question": "A mosiac is ?",
@@ -1119,7 +1119,7 @@
         "d": "Photo Album",
         "answer": "b"
     },
-	{
+    {
         "id": 112,
         "difficulty": 2,
         "question": "Tiger Woods is famous for which game?",
@@ -1129,7 +1129,7 @@
         "d": "Pole-vault",
         "answer": "c"
     },
-	{
+    {
         "id": 113,
         "difficulty": 2,
         "question": "Who created a world record for the maximum number of dismissals in Test Cricket as a Wicket Keeper?",
@@ -1139,7 +1139,7 @@
         "d": "Moin Khan",
         "answer": "c"
     },
-	{
+    {
         "id": 114,
         "difficulty": 2,
         "question": "What country has the largest Muslim population?",
@@ -1149,7 +1149,7 @@
         "d": "Indonesia",
         "answer": "d"
     },
-	{
+    {
         "id": 115,
         "difficulty": 3,
         "question": "Which of these is the largest landlocked country in the world?",
@@ -1159,7 +1159,7 @@
         "d": "Central African Republic",
         "answer": "c"
     },
-	{
+    {
         "id": 116,
         "difficulty": 2,
         "question": "What European country is divided into departments?",
@@ -1169,7 +1169,7 @@
         "d": "Germany",
         "answer": "c"
     },
-	{
+    {
         "id": 117,
         "difficulty": 3,
         "question": "Which of these countries is considered the world’s oldest republic?",
@@ -1179,7 +1179,7 @@
         "d": "Chile",
         "answer": "b"
     },
-	{
+    {
         "id": 118,
         "difficulty": 3,
         "question": "Which of the following regions is referred to as Garden of Eden as mentioned in the Bible?",
@@ -1189,7 +1189,7 @@
         "d": "Cango Valley",
         "answer": "b"
     },
-	{
+    {
         "id": 119,
         "difficulty": 3,
         "question": "The first subcutaneous pacemaker was built by ?",
@@ -1199,7 +1199,7 @@
         "d": "Thomas Edison",
         "answer": "b"
     },
-	{
+    {
         "id": 120,
         "difficulty": 5,
         "question": "The transition from hand production methods to machines, the increasing use of steam power and water power, the development of machine tools and the rise of the mechanized factory system  in Europe and the US, in the period from about 1760 to sometime between 1820 is known as?",
@@ -1209,17 +1209,17 @@
         "d": "Industrial Revolution",
         "answer": "d"
     },
-	{
+    {
         "id": 121,
         "difficulty": 1,
         "question": "The number of rings in the Olympic symbol is ?",
         "a": "7",
         "b": "4",
         "c": "3",
-        "d": "5"	,
+        "d": "5",
         "answer": "d"
     },
-	{
+    {
         "id": 122,
         "difficulty": 5,
         "question": "Who was the last Soviet premier?",
@@ -1229,7 +1229,7 @@
         "d": "Vladimir Lenin",
         "answer": "a"
     },
-	{
+    {
         "id": 123,
         "difficulty": 2,
         "question": "Where is the largest library in the world located?",
@@ -1239,7 +1239,7 @@
         "d": "United States",
         "answer": "d"
     },
-	{
+    {
         "id": 124,
         "difficulty": 3,
         "question": "The world's first intercity rail line was between?",
@@ -1249,7 +1249,7 @@
         "d": "Rome and Naples",
         "answer": "a"
     },
-	{
+    {
         "id": 125,
         "difficulty": 2,
         "question": "Global Navigation Satellite System or GIONASS has been developed by which country?",
@@ -1259,7 +1259,7 @@
         "d": "Germany",
         "answer": "a"
     },
-	{
+    {
         "id": 126,
         "difficulty": 1,
         "question": "The modern Olympic games were started in the year?",
@@ -1269,7 +1269,7 @@
         "d": "1947",
         "answer": "a"
     },
-	{
+    {
         "id": 127,
         "difficulty": 1,
         "question": "Pluto is classified as a ?",
@@ -1279,7 +1279,7 @@
         "d": "Asteroid",
         "answer": "b"
     },
-	{
+    {
         "id": 128,
         "difficulty": 2,
         "question": "National Emblem of which of these countries shows a lion and a sword?",
@@ -1289,7 +1289,7 @@
         "d": "Sri Lanka",
         "answer": "d"
     },
-	{
+    {
         "id": 129,
         "difficulty": 1,
         "question": "Which of these companies is the world's largest maker of computer chips?",
@@ -1299,7 +1299,7 @@
         "d": "Nividia",
         "answer": "a"
     },
-	{
+    {
         "id": 130,
         "difficulty": 3,
         "question": "The first Internet search engine was?",
@@ -1309,7 +1309,7 @@
         "d": "Archie",
         "answer": "d"
     },
-	{
+    {
         "id": 131,
         "difficulty": 3,
         "question": "What is common among the following cities Tokyo, Mumbai, Islamabad and Kathmandu?",
@@ -1319,7 +1319,7 @@
         "d": "All cities have hosted Common Wealth games",
         "answer": "b"
     },
-	{
+    {
         "id": 132,
         "difficulty": 2,
         "question": "Who said this famous quote 'government of the people, by the people, for the people, shall not perish from the earth'?",
@@ -1329,7 +1329,7 @@
         "d": "Nelson Mandela",
         "answer": "c"
     },
-	{
+    {
         "id": 133,
         "difficulty": 5,
         "question": "The Treaty of Paris, signed in Paris by representatives of King George III of Great Britain and representatives of the United States of America on September 3, 1783, ended the?",
@@ -1339,7 +1339,7 @@
         "d": "World War I",
         "answer": "b"
     },
-	{
+    {
         "id": 134,
         "difficulty": 4,
         "question": "Reunification of the East and West Germany happened in the year?",
@@ -1349,8 +1349,8 @@
         "d": "1998",
         "answer": "b"
     },
-	{
-        "id": 	135,
+    {
+        "id": 135,
         "difficulty": 2,
         "question": "In computer world Trojan refers to ?",
         "a": "Virus",
@@ -1359,7 +1359,7 @@
         "d": "Spyware",
         "answer": "b"
     },
-	{
+    {
         "id": 136,
         "difficulty": 3,
         "question": "Which protocol is used to recieve e-mail?",
@@ -1540,7 +1540,7 @@
         "answer": "d"
     },
     {
-        "id":154,
+        "id": 154,
         "difficulty": 5,
         "question": "In 1986, a U.S. court of appeals ruled that what magic-practising movement qualifies as a religion?",
         "a": "Wicca",
@@ -1550,7 +1550,7 @@
         "answer": "a"
     },
     {
-        "id":155,
+        "id": 155,
         "difficulty": 4,
         "question": "Russia is the world’s largest country (by area), and its largest city (by population) is its capital. What’s the nextlargest country for which this is the case?",
         "a": "Canada",
@@ -1561,7 +1561,7 @@
     },
     {
         "id": 156,
-        "difficulty":4 ,
+        "difficulty": 4,
         "question": "What scientist challenged church dogma but was nevertheless buried in a Catholic cathedral in Frombork, Poland?",
         "a": "Leonardo da Vinci",
         "b": "Copernicus",
@@ -1580,7 +1580,7 @@
         "answer": "c"
     },
     {
-        "id": 158 ,
+        "id": 158,
         "difficulty": 4,
         "question": "In 2016, a Pizza Hut in Dar es Salaam delivered to the top of what mountain,thus setting a record for the highest-elevation pizza delivery?",
         "a": "Manaslu",
@@ -1600,7 +1600,7 @@
         "answer": "c"
     },
     {
-        "id": 160 ,
+        "id": 160,
         "difficulty": 3,
         "question": "What writer with a highfalutin reputation used jokes about passing wind in such plays as The Comedy of Errors and Othello?",
         "a": "Christopher Marlow",
@@ -1610,7 +1610,7 @@
         "answer": "d"
     },
     {
-        "id": 161 ,
+        "id": 161,
         "difficulty": 3,
         "question": "What singer was born in Havana in 1957, the daughter of a bodyguard employed by dictator Fulgencio Batista?",
         "a": "Gloria EStefan",
@@ -1620,7 +1620,7 @@
         "answer": "a"
     },
     {
-        "id": 162 ,
+        "id": 162,
         "difficulty": 3,
         "question": "Although it freed itself from the United States in 1946, what nation’s Independence Day celebrates its declaration of independence from Spain in 1898?",
         "a": "Mexico",
@@ -1641,7 +1641,7 @@
     },
     {
         "id": 164,
-        "difficulty": 3 ,
+        "difficulty": 3,
         "question": "Gioachino Rossini’s last opera was produced in 1829, complete with Swiss alphorns. What was it?",
         "a": "The Marriage of Figaro",
         "b": "Don Giovanni",
@@ -2360,7 +2360,7 @@
         "answer": "b"
     },
     {
-        "id":240,
+        "id": 240,
         "difficulty": 2,
         "question": "Which of the following was the theme of the World Red Cross and Red Crescent Day?",
         "a": "Dignity for all - focus on women",
@@ -2740,28 +2740,8 @@
         "answer": "a"
     },
     {
-        "id": 278,
-        "difficulty": 2,
-        "question": "Where did India play its 1st one day international match?",
-        "a": "Lords",
-        "b": "Headingly",
-        "c": "Taunton",
-        "d": "The Oval",
-        "answer": "b"
-    },
-    {
-        "id": 279,
-        "difficulty": 1,
-        "question": "Who was the 1st ODI captain for India?",
-        "a": "Ajit Wadekar",
-        "b": "Bishen Singh Bedi",
-        "c": "Nawab Pataudi",
-        "d": "Vinoo Mankad",
-        "answer": "a"
-    },
-    {
         "id": 280,
-        "difficulty": 2,
+        "difficulty": 4,
         "question": "When was the first cricket Test match played?",
         "a": "1873",
         "b": "1877",
@@ -2808,16 +2788,6 @@
         "c": "Virat Kohli",
         "d": "Brain Lara",
         "answer": "a"
-    },
-    {
-        "id": 285,
-        "difficulty": 3,
-        "question": "Which cricket has the highest individual score in test cricket?",
-        "a": "Sir Don Bradman",
-        "b": "Sachin R. Tendulkar",
-        "c": "Virat Kohli",
-        "d": "Brain Lara",
-        "answer": "d"
     },
     {
         "id": 286,
@@ -2882,22 +2852,12 @@
     {
         "id": 292,
         "difficulty": 3,
-        "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+        "question": "Grand Central Terminal, Park Avenue, New York is the world's ___",
         "a": "highest railway station",
         "b": "longest railway station",
         "c": "largest railway station",
         "d": "None of the above",
         "answer": "c"
-    },
-    {
-        "id": 293,
-        "difficulty": 5,
-        "question": "Which one of the following was the first fort constructed by the British in India?",
-        "a": "Fort William",
-        "b": " Fort St. George",
-        "c": "Fort St. David",
-        "d": "Fort St. Angelo",
-        "answer": "b"
     },
     {
         "id": 294,
@@ -2912,7 +2872,7 @@
     {
         "id": 295,
         "difficulty": 2,
-        "question": "Ball pen function on which one of the following principal?",
+        "question": "Ball pen functions on which one of the following principal?",
         "a": "Boyle’s law",
         "b": "Gravitational force",
         "c": "Surface tension",
@@ -2927,16 +2887,6 @@
         "b": "Solomon Islands",
         "c": "Fiji",
         "d": "Kiribati",
-        "answer": "d"
-    },
-    {
-        "id": 297,
-        "difficulty": 4,
-        "question": "The Indian, who holds the pride of beating the computers in mathematical wizard is:?",
-        "a": "Rina Panigrahi",
-        "b": "Ramanujam",
-        "c": "Raja Ramanna",
-        "d": "Shakuntala Devi",
         "answer": "d"
     },
     {
@@ -2959,7 +2909,7 @@
         "d": "Silicon and Aluminium",
         "answer": "b"
     },
-     {
+    {
         "id": 300,
         "difficulty": 3,
         "question": "What is the biggest island in New Zealand called?",
@@ -3211,7 +3161,7 @@
     },
     {
         "id": 325,
-        "difficulty":  1,
+        "difficulty": 1,
         "question": "Which mythical creature was half-man, half-horse?",
         "a": "Hippogriff",
         "b": "Griffin",
@@ -3239,7 +3189,7 @@
         "d": "Black Sea",
         "answer": "a"
     },
-      {
+    {
         "id": 328,
         "difficulty": 3,
         "question": "The racing area of Cycling is known as …",
@@ -3269,7 +3219,6 @@
         "d": "Hydrogen Sulfide",
         "answer": "c"
     },
-	
     {
         "id": 331,
         "difficulty": 3,
@@ -3310,7 +3259,7 @@
         "d": "Bill Gates",
         "answer": "a"
     },
-	{
+    {
         "id": 335,
         "difficulty": 1,
         "question": "Who is the first female computer programmer?",
@@ -3320,7 +3269,7 @@
         "d": "Evelyn Boyd Granville",
         "answer": "c"
     },
-	{
+    {
         "id": 336,
         "difficulty": 2,
         "question": "Who was the second person to land on the moon?",
@@ -3330,7 +3279,7 @@
         "d": "Buzz Aldrin",
         "answer": "d"
     },
-	{
+    {
         "id": 337,
         "difficulty": 5,
         "question": "Which flower blooms once in 12 years?",
@@ -3340,7 +3289,7 @@
         "d": "Red camellia",
         "answer": "b"
     },
-	{
+    {
         "id": 338,
         "difficulty": 2,
         "question": "Which is known as the laughing gas?",
@@ -3353,7 +3302,7 @@
     {
         "id": 339,
         "difficulty": 2,
-        "question": "The term ‘rally’ is related to …",
+        "question": "The term ‘rally’ is related to ___",
         "a": "Football",
         "b": "Badminton",
         "c": "Polo",
@@ -3423,7 +3372,7 @@
     {
         "id": 347,
         "difficulty": 3,
-        "question": "The famous Bolan Pass is situated in ...",
+        "question": "The famous Bolan Pass is situated in ___",
         "a": "India",
         "b": "Pakistan",
         "c": "Afghanistan",
@@ -3433,7 +3382,7 @@
     {
         "id": 348,
         "difficulty": 3,
-        "question": "The largest producer of peanuts in the world is ...",
+        "question": "The largest producer of peanuts in the world is ___",
         "a": "China",
         "b": "India",
         "c": "Nigeria",
@@ -3463,7 +3412,7 @@
     {
         "id": 351,
         "difficulty": 3,
-        "question": "Thailand was known by the name of ...",
+        "question": "Thailand was known by the name of ___",
         "a": "Saigon",
         "b": "Abyssinia",
         "c": "Siam",
@@ -3513,7 +3462,7 @@
     {
         "id": 356,
         "difficulty": 3,
-        "question": "The permanent Headquarters of SAARC Secretariat is located at ...",
+        "question": "The permanent Headquarters of SAARC Secretariat is located at ___",
         "a": "Kathmandu",
         "b": "Dhaka",
         "c": "New Delhi",
@@ -3602,22 +3551,12 @@
     },
     {
         "id": 365,
-        "difficulty": 3,
+        "difficulty": 2,
         "question": "Who discovered 'The Cape of Good Hope'?",
         "a": "Bartolomeu Dias",
         "b": "Vasco da Gama",
         "c": "Marco Polo",
         "d": "Robert Cook",
-        "answer": "a"
-    },
-      {
-        "id": 366,
-        "difficulty": 3,
-        "question": "The racing area of Cycling is known as …",
-        "a": "Velodrome",
-        "b": "Track",
-        "c": "Ring",
-        "d": "Range",
         "answer": "a"
     },
     {
@@ -3660,7 +3599,7 @@
         "d": "Charles Babbage",
         "answer": "c"
     },
-	{
+    {
         "id": 371,
         "difficulty": 2,
         "question": "Where would the 2021 Summer Olympics be held?",
@@ -3670,7 +3609,7 @@
         "d": "Japan",
         "answer": "d"
     },
-	{
+    {
         "id": 372,
         "difficulty": 4,
         "question": "What was the name of Hitler's Wife?",
@@ -3680,47 +3619,37 @@
         "d": "Lily Braun",
         "answer": "a"
     },
-	{
-	 "id": 373,
-	"difficulty": 4,
-	"question": "Who is not one of the founders of Facebook?",
-	"a": "Mark Zuckeberg",
-	"b": "Eduardo Saverin",
-	"c": "Chris Hughes",
-	"d": "Martin Lorentzon",
-	"answer": "d"	
-	},
+    {
+        "id": 373,
+        "difficulty": 4,
+        "question": "Who is not one of the founders of Facebook?",
+        "a": "Mark Zuckeberg",
+        "b": "Eduardo Saverin",
+        "c": "Chris Hughes",
+        "d": "Martin Lorentzon",
+        "answer": "d"
+    },
     {
         "id": 374,
-       "difficulty": 4,
-       "question": "Who was Zeus's wife?",
-       "a": "Aphrodite",
-       "b": "Athena",
-       "c": "Artemis",
-       "d": "Hera",
-       "answer": "d"	
-       },
-       {
+        "difficulty": 4,
+        "question": "Who was Zeus's wife?",
+        "a": "Aphrodite",
+        "b": "Athena",
+        "c": "Artemis",
+        "d": "Hera",
+        "answer": "d"
+    },
+    {
         "id": 375,
-       "difficulty": 3,
-       "question": "Aphrodite was the goddess of what?",
-       "a": "Anger and sex",
-       "b": "Love and hate",
-       "c": "Love and beauty",
-       "d": "Beauty and war",
-       "answer": "c"	
-       },
-       {
-        "id": 376,
-       "difficulty": 1,
-       "question": "Which city is the financial capital of India?",
-       "a": "Delhi",
-       "b": "Mumbai",
-       "c": "Pune",
-       "d": "Nagpur",
-       "answer": "b"	
-       },
-       {
+        "difficulty": 3,
+        "question": "Aphrodite was the goddess of what?",
+        "a": "Anger and sex",
+        "b": "Love and hate",
+        "c": "Love and beauty",
+        "d": "Beauty and war",
+        "answer": "c"
+    },
+    {
         "id": 377,
         "difficulty": 2,
         "question": "Which country are the Canary Islands part of?",
@@ -3728,157 +3657,121 @@
         "b": "France",
         "c": "Spain",
         "d": "Portugal",
-        "answer": "c"	
-       },
-       {
+        "answer": "c"
+    },
+    {
         "id": 378,
-       "difficulty": 1,
-       "question": "which is the smallest ocean in the world?",
-       "a": "Arctic",
-       "b": "Pacific",
-       "c": "Atlantic",
-       "d": "Indian",
-       "answer": "A"	
-       },
-    	{
-	 "id": 379,
-	"difficulty": 3,
-	"question": "What is capital of Afghanistan",
-	"a": "Kabul",
-	"b": "zelum",
-	"c": "Herat",
-	"d": "Kandahar",
-	"answer": "a"	
-	},
-	{
-	 "id": 380,
-	"difficulty": 2,
-	"question": "What is capital of Bangladesh",
-	"a": "Dhaka",
-	"b": "Mumbai",
-	"c": "Delhi",
-	"d": "New York",
-	"answer": "a"	
-	},
-{
-	 "id": 381,
-	"difficulty": 3,
-	"question": "What percentage of World’s population lives in India?",
-	"a": "16.5%",
-	"b": "17.5%",
-	"c": "20%",
-	"d": "15%",
-	"answer": "b"	
-
-	},
-    	{
-	 "id": 382,
-	"difficulty": 3,
-	"question": "Which country gifted the "Statue of Liberty" to USA in 1886? ",
-	"a": "France",
-	"b": "Brazil",
-	"c": "England",
-	"d": "Germany",
-	"answer": "A"	
-
-	},
-	{
-  	"id": 383,
- 	"difficulty": 3,
- 	"question": "What is the name of first super computer of india?",
- 	"a": "PARAM 7000",
-  	"b": "PARAM 8000",
-  	"c": "SURYA 8000",
- 	"d": "SURYA 7000",
-  	"answer": "B"
-	},
-
-        {
-	 "id": 384,
-	"difficulty": 5,
-	"question": "Which of the following are the most and the least electronegative elements in the periodic table? ",
-	"a": "Chlorine and Fluorine",
-	"b": "Hydrogen and Helium",
-	"c": "Carbon and Oxygen",
-	"d": "Fluorine and Caesium",
-	"answer": "d"	
-
-        },
-
-	{
-	 "id": 385,
-	"difficulty": 3,
-	"question": "What is the full form of GIT? ",
-	"a": "Gastro Intestional Track.",
-	"b": "Gastro International Track.",
-	"c": "Global information Tracker.",
-	"d": "None of these.",
-	"answer": "c"	
-        },
-{
-	 "id": 385,
-	"difficulty": 2,
-	"question": "Settling down of colloidal particles to form a suspension is called:",
-	"a": "flocculation",
-	"b": "peptization",
-	"c": "aggregation",
-	"d": "deflocculation",
-	"answer": "a"	
-
-        },
-{
-	 "id": 386,
-	"difficulty": 4,
-	"question": "In animals , Glycogen is stored in :",
-	"a": "Liver",
-	"b": "Spleen",
-	"c": "Lungs",
-	"d": "heart",
-	"answer": "a"	
-
-        },
-	{	
-	"id": 387,
-	"difficulty": 3,
-	"question": "Who was the first Indian ruler who had territory outside India? ",
-	"a": "Ashoka",
-	"b": "Chandragupta Maurya",
-	"c": "Kanishka",
-	"d": "Huvishka",
-	"answer": "c"
-	},
-         {
-       "id": 388,
-       "difficulty": 5,
-       "question": "A game based on which animated franchise propelled AR into the mainstream in recent years?",
-       "a": "Pokemon",
-       "b": "Super Mario",
-       "c": "Legend of Zelda",
-       "d": "Sonic the Hedgehog",
-       "answer": "a"	
-       },
-	"id": 389,
-       "difficulty": 2,
-       "question": "What is the full form of GIT?",
-       "a": "Gastro Intestional Track.",
-       "b": "Gastro International Track.",
-       "c": "Global information Tracker",
-       "d": "None of these",
-       "answer": "c"	
-       },
-{
- 	"id": 390,
-        "difficulty": 3 ,
-        "question": "Which of these alias used by Noor Inayat Khan to work as spy for Britian in France during the second world war?",
-        "a": "Vera Atkins",
-        "b": "Krystyan Skarbek",
-        "c": "Julienne Aisner",
-        "d": "Jeannen-Marie Reiner",
+        "difficulty": 1,
+        "question": "which is the smallest ocean in the world?",
+        "a": "Arctic",
+        "b": "Pacific",
+        "c": "Atlantic",
+        "d": "Indian",
+        "answer": "A"
+    },
+    {
+        "id": 379,
+        "difficulty": 3,
+        "question": "What is capital of Afghanistan",
+        "a": "Kabul",
+        "b": "zelum",
+        "c": "Herat",
+        "d": "Kandahar",
+        "answer": "a"
+    },
+    {
+        "id": 380,
+        "difficulty": 2,
+        "question": "What is the capital of Bangladesh?",
+        "a": "Dhaka",
+        "b": "Mumbai",
+        "c": "Delhi",
+        "d": "New York",
+        "answer": "a"
+    },
+    {
+        "id": 381,
+        "difficulty": 3,
+        "question": "What percentage of World’s population lives in India?",
+        "a": "16.5%",
+        "b": "17.5%",
+        "c": "20%",
+        "d": "15%",
+        "answer": "b"
+    },
+    {
+        "id": 382,
+        "difficulty": 3,
+        "question": "Which country gifted the \"Statue of Liberty\" to USA in 1886? ",
+        "a": "France",
+        "b": "Brazil",
+        "c": "England",
+        "d": "Germany",
+        "answer": "A"
+    },
+    {
+        "id": 383,
+        "difficulty": 5,
+        "question": "Which of the following are the most and the least electronegative elements in the periodic table? ",
+        "a": "Chlorine and Fluorine",
+        "b": "Hydrogen and Helium",
+        "c": "Carbon and Oxygen",
+        "d": "Fluorine and Caesium",
         "answer": "d"
     },
-{
- 	"id": 391,
-        "difficulty": 2 ,
+    {
+        "id": 384,
+        "difficulty": 3,
+        "question": "What is the full form of GIT? ",
+        "a": "Gastro Intestional Track.",
+        "b": "Gastro International Track.",
+        "c": "Global information Tracker.",
+        "d": "None of these.",
+        "answer": "c"
+    },
+    {
+        "id": 385,
+        "difficulty": 2,
+        "question": "Settling down of colloidal particles to form a suspension is called:",
+        "a": "flocculation",
+        "b": "peptization",
+        "c": "aggregation",
+        "d": "deflocculation",
+        "answer": "a"
+    },
+    {
+        "id": 386,
+        "difficulty": 4,
+        "question": "In animals , Glycogen is stored in :",
+        "a": "Liver",
+        "b": "Spleen",
+        "c": "Lungs",
+        "d": "heart",
+        "answer": "a"
+    },
+    {
+        "id": 388,
+        "difficulty": 5,
+        "question": "A game based on which animated franchise propelled AR into the mainstream in recent years?",
+        "a": "Pokemon",
+        "b": "Super Mario",
+        "c": "Legend of Zelda",
+        "d": "Sonic the Hedgehog",
+        "answer": "a"
+    },
+    {
+        "id": 389,
+        "difficulty": 2,
+        "question": "What is the full form of GIT?",
+        "a": "Gastro Intestional Track.",
+        "b": "Gastro International Track.",
+        "c": "Global information Tracker",
+        "d": "None of these",
+        "answer": "c"
+    },
+    {
+        "id": 390,
+        "difficulty": 2,
         "question": "Which is the smallest fish in world?",
         "a": "Midget dwarfgoby",
         "b": "dwarf minnow",
@@ -3886,43 +3779,44 @@
         "d": "Stout infantfish",
         "answer": "b"
     },
-{
-	"id": 393,
-        "difficulty": 3 ,
+    {
+        "id": 391,
+        "difficulty": 3,
         "question": "How is 'H' pronounced in French?",
         "a": "E",
         "b": "Ache",
         "c": "Ac",
         "d": "Ae",
         "answer": "b"
-},
-{
-	"id": 395,
-  "difficulty": 2 ,
-  "question": "Which is fastest game in the world?",
-  "a": "Basketball",
-  "b": "Football",
-  "c": "Hockey",
-  "d": "Badminton",
-  "answer": "d"
-},
-{
-	"id": 396,
-  "difficulty": 2,
-  "question": "Approximately what is the age of the earth?",
-  "a": "3.5 billion years",
-  "b": "4.5 billion years",
-  "c": "4 billion years",
-  "d": "2.5 billion years",
-  "answer": "b"
-},
-{
-	"id": 397,
-  "difficulty": 2,
-  "question": "Which is the longest river in world?",
-  "a": "Nile river",
-  "b": "Amazon river",
-  "c": "Congo river",
-  "d": "Ganga river",
-  "answer": "a"
+    },
+    {
+        "id": 392,
+        "difficulty": 2,
+        "question": "Which is fastest game in the world?",
+        "a": "Basketball",
+        "b": "Football",
+        "c": "Hockey",
+        "d": "Badminton",
+        "answer": "d"
+    },
+    {
+        "id": 393,
+        "difficulty": 2,
+        "question": "Approximately what is the age of the earth?",
+        "a": "3.5 billion years",
+        "b": "4.5 billion years",
+        "c": "4 billion years",
+        "d": "2.5 billion years",
+        "answer": "b"
+    },
+    {
+        "id": 394,
+        "difficulty": 2,
+        "question": "Which is the longest river in world?",
+        "a": "Nile river",
+        "b": "Amazon river",
+        "c": "Congo river",
+        "d": "Ganga river",
+        "answer": "a"
+    }
 ]
