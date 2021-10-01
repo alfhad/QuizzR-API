@@ -3886,5 +3886,16 @@
         "c": "Gobiidae",
         "d": "Stout infantfish",
         "answer": "b"
-    }
+    },
+{
+	"id": 392,
+        "difficulty": 3 ,
+        "question": "Which is the smallest state in india?",
+        "a": "goa",
+        "b": "mizoram",
+        "c": "tripura",
+        "d": "maharastra",
+        "answer": "a"
+}
+
 ]
