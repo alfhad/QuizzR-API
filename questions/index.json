@@ -3949,7 +3949,18 @@
         "d": "2.5 billion years",
         "answer": "b"
 
-}
+},
+	{
+	"id": 396,
+        "difficulty": 3 ,
+        "question": "Who is the first Indian women to win an Asian games in 400m run",
+        "a": "M.L Valasamma",
+        "b": "P.T. Usha",
+        "c": "Kamaljit Sandhu",
+        "d": "K.Malleshwari",
+        "answer": "c"
+
+
 
 
 ]
