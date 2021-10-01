@@ -3947,16 +3947,25 @@
         "c": "Elephant",
         "d": "Rabbit",
         "answer": "a"
-
 }
 {
 	"id": 395,
-        "difficulty": 2 ,
-        "question": "Which is fastest game in the world?",
-        "a": "Basketball",
-        "b": "Football",
-        "c": "Hockey",
-        "d": "Badminton",
-        "answer": "d"
+  "difficulty": 2 ,
+  "question": "Which is fastest game in the world?",
+  "a": "Basketball",
+  "b": "Football",
+  "c": "Hockey",
+  "d": "Badminton",
+  "answer": "d"
+},
+{
+	"id": 396,
+  "difficulty": 2,
+  "question": "Approximately what is the age of the earth?",
+  "a": "3.5 billion years",
+  "b": "4.5 billion years",
+  "c": "4 billion years",
+  "d": "2.5 billion years",
+  "answer": "b"
 }
 ]
