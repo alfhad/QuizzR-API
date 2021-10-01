@@ -3938,5 +3938,15 @@
         "d": "Maharashtra",
         "answer": "a"
 
+}, {
+	"id": 394,
+        "difficulty": 2 ,
+        "question": "Which is national animal of India?",
+        "a": "Tiger",
+        "b": "Lion",
+        "c": "Elephant",
+        "d": "Rabbit",
+        "answer": "a"
+
 }
 ]
