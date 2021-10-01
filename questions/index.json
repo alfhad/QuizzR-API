@@ -3820,7 +3820,133 @@
         "answer": "a"
     },
     {
-        "id": 394,
+    "id": 395,
+    "difficulty": 2,
+    "question": "Which country is known as the ‘playground of Europe?",
+    "a": "Austria",
+    "b": "Holland",
+    "c": "Switzerland",
+    "d": "Italy",
+    "answer": "c"
+},
+{
+    "id": 396,
+    "difficulty": 2,
+    "question": "Which country is also known as the ‘Land of Rising Sun’",
+    "a": "Japan",
+    "b": "Holland",
+    "c": "China",
+    "d": "Fiji",
+    "answer": "a"
+},
+{
+    "id": 397,
+    "difficulty": 2,
+    "question": "In which country, white elephant is found?",
+    "a": "India",
+    "b": "Sri Lanka",
+    "c": "Thailand",
+    "d": "Malaysia",
+    "answer": "c"
+},
+{
+    "id": 398,
+    "difficulty": 2,
+    "question": "Which one is the largest tropical rain forest in the world",
+    "a": "Amazon",
+    "b": "Bosawas",
+    "c": "Southeast Asian Rain Forest",
+    "d": "Daintree Rain Forest",
+    "answer": "a"
+},
+{
+    "id": 399,
+    "difficulty": 2,
+    "question": "Vientiane is the capital city of which country?",
+    "a": "Vietnam",
+    "b": "Laos",
+    "c": "Thailand",
+    "d": "Cambodia",
+    "answer": "b"
+},
+
+{
+    "id": 400,
+    "difficulty": 2,
+    "question": "Which one is the World’s biggest cave?",
+    "a": "Son Doong cave, Vietnam",
+    "b": "Jewel Cave, United State",
+    "c": "Holloch, Switzerland",
+    "d": "Optymistychna Cave, Ukraine",
+    "answer": "a"
+},
+
+{
+    "id": 401,
+    "difficulty": 2,
+    "question": "Which one is the World’s biggest cave?",
+    "a": "Son Doong cave, Vietnam",
+    "b": "Jewel Cave, United State",
+    "c": "Holloch, Switzerland",
+    "d": "Optymistychna Cave, Ukraine",
+    "answer": "a"
+},
+
+{
+    "id": 402,
+    "difficulty": 2,
+    "question": "How many new countries are emerged from the Union of Soviet Socialist Republics in its dissolution in December 1991?",
+    "a": "11",
+    "b": "15",
+    "c": "16",
+    "d": "9",
+    "answer": "b"
+},
+
+{
+    "id": 403,
+    "difficulty": 2,
+    "question": "Astana’ is the capital city of which country",
+    "a": "Kazakhstan",
+    "b": "Uzbekistan",
+    "c": "Tajikistan",
+    "d": "Turkmenistan",
+    "answer": "a"
+},
+
+{
+    "id": 404,
+    "difficulty": 2,
+    "question": "Lisbon is the capital of",
+    "a": "Canada",
+    "b": "French",
+    "c": "Germany",
+    "d": "Portugal",
+    "answer": "d"
+},
+
+{
+    "id": 405,
+    "difficulty": 2,
+    "question": "Which country was the first to make sealt belts compulsory for journey",
+    "a": "China",
+    "b": "Czechoslovakia",
+    "c": "France",
+    "d": "India",
+    "answer": "b"
+},
+
+{
+    "id": 406,
+    "difficulty": 2,
+    "question": "The youngest elected President of USA is",
+    "a": "Obama",
+    "b": "Andrew Jackson",
+    "c": "John F. Kennedy",
+    "d": "Donald Trumph",
+    "answer": "c"
+},
+  {        "id": 394,
         "difficulty": 2,
         "question": " Which country gifted the 'Statue of Liberty' to USA in 1886",
         "a": "Canada",
