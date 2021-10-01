@@ -3938,5 +3938,16 @@
         "d": "Maharashtra",
         "answer": "a"
 
+},
+ {
+	"id": 394,
+        "difficulty": 2 ,
+        "question": "who is India's Prime minister?",
+        "a": "rahul gandhi",
+        "b": "Rahul mahajan.",
+        "c": "arvind patil .",
+        "d": "Narendra modi",
+        "answer": "d"
+
 }
 ]
