@@ -4057,11 +4057,11 @@
 },
   {        "id": 418,
         "difficulty": 2,
-        "question": " Which country gifted the 'Statue of Liberty' to USA in 1886",
-        "a": "Canada",
-        "b": "French",
-        "c": "Brazil",
-        "d": "England",
-        "answer": "b"
+        "question": "Which is the longest river in world?",
+        "a": "Nile river",
+        "b": "Amazon river",
+        "c": "Congo river",
+        "d": "Ganga river",
+        "answer": "a"
     }
 ]
