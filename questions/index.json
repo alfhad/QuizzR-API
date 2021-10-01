@@ -3896,5 +3896,15 @@
         "c": "Tripura",
         "d": "Maharashra",
         "answer": "a"
+},
+{
+        "difficulty": 3 ,
+        "question": "Which is the smallest state in india?",
+        "a": "goa",
+        "b": "mizoram",
+        "c": "tripura",
+        "d": "maharastra",
+        "answer": "a"
 }
+
 ]
