@@ -1,4 +1,4 @@
-[ 
+[
     {
         "id": 0,
         "difficulty": 1,
@@ -3820,263 +3820,247 @@
         "answer": "a"
     },
     {
-    "id": 395,
-    "difficulty": 2,
-    "question": "Which country is known as the ‘playground of Europe?",
-    "a": "Austria",
-    "b": "Holland",
-    "c": "Switzerland",
-    "d": "Italy",
-    "answer": "c"
-},
-{
-    "id": 396,
-    "difficulty": 2,
-    "question": "Which country is also known as the ‘Land of Rising Sun’",
-    "a": "Japan",
-    "b": "Holland",
-    "c": "China",
-    "d": "Fiji",
-    "answer": "a"
-},
-{
-    "id": 397,
-    "difficulty": 2,
-    "question": "In which country, white elephant is found?",
-    "a": "India",
-    "b": "Sri Lanka",
-    "c": "Thailand",
-    "d": "Malaysia",
-    "answer": "c"
-},
-{
-    "id": 398,
-    "difficulty": 2,
-    "question": "Which one is the largest tropical rain forest in the world",
-    "a": "Amazon",
-    "b": "Bosawas",
-    "c": "Southeast Asian Rain Forest",
-    "d": "Daintree Rain Forest",
-    "answer": "a"
-},
-{
-    "id": 399,
-    "difficulty": 2,
-    "question": "Vientiane is the capital city of which country?",
-    "a": "Vietnam",
-    "b": "Laos",
-    "c": "Thailand",
-    "d": "Cambodia",
-    "answer": "b"
-},
-
-{
-    "id": 400,
-    "difficulty": 2,
-    "question": "Which one is the World’s biggest cave?",
-    "a": "Son Doong cave, Vietnam",
-    "b": "Jewel Cave, United State",
-    "c": "Holloch, Switzerland",
-    "d": "Optymistychna Cave, Ukraine",
-    "answer": "a"
-},
-
-{
-    "id": 401,
-    "difficulty": 2,
-    "question": "Which one is the World’s biggest cave?",
-    "a": "Son Doong cave, Vietnam",
-    "b": "Jewel Cave, United State",
-    "c": "Holloch, Switzerland",
-    "d": "Optymistychna Cave, Ukraine",
-    "answer": "a"
-},
-
-{
-    "id": 402,
-    "difficulty": 2,
-    "question": "How many new countries are emerged from the Union of Soviet Socialist Republics in its dissolution in December 1991?",
-    "a": "11",
-    "b": "15",
-    "c": "16",
-    "d": "9",
-    "answer": "b"
-},
-
-{
-    "id": 403,
-    "difficulty": 2,
-    "question": "Astana’ is the capital city of which country",
-    "a": "Kazakhstan",
-    "b": "Uzbekistan",
-    "c": "Tajikistan",
-    "d": "Turkmenistan",
-    "answer": "a"
-},
-
-{
-    "id": 404,
-    "difficulty": 2,
-    "question": "Lisbon is the capital of",
-    "a": "Canada",
-    "b": "French",
-    "c": "Germany",
-    "d": "Portugal",
-    "answer": "d"
-},
-
-{
-    "id": 405,
-    "difficulty": 2,
-    "question": "Which country was the first to make sealt belts compulsory for journey",
-    "a": "China",
-    "b": "Czechoslovakia",
-    "c": "France",
-    "d": "India",
-    "answer": "b"
-},
-
-{
-    "id": 406,
-    "difficulty": 2,
-    "question": "The youngest elected President of USA is",
-    "a": "Obama",
-    "b": "Andrew Jackson",
-    "c": "John F. Kennedy",
-    "d": "Donald Trumph",
-    "answer": "c"
-},
-{
-    "id": 408,
-    "difficulty": 1,
-    "question": "Which of these is not a primary colour?",
-    "a": "Blue",
-    "b": "Green",
-    "c": "Red",
-    "d": "Yellow",
-    "answer": "b"
-},
-
-{
-    "id": 409,
-    "difficulty": 2,
-    "question": "How many game pieces are present on a chessboard?",
-    "a": "34",
-    "b": "32",
-    "c": "30",
-    "d": "28",
-    "answer": "b"
-},
-
-{
-    "id": 410,
-    "difficulty": 3,
-    "question": "Which country has the longest coastline in the world?",
-    "a": "Russia",
-    "b": "Indonesia",
-    "c": "Canada",
-    "d": "Denmark (Incl. Greenland)",
-    "answer": "c"
-},
-
-{
-    "id": 411,
-    "difficulty": 4,
-    "question": "How many particles are currently present in the standard model",
-    "a": "15",
-    "b": "16",
-    "c": "17",
-    "d": "18",
-    "answer": "c"
-},
-
-{
-    "id": 412,
-    "difficulty": 5,
-    "question": "How far is the Andromeda Galaxy from earth?",
-    "a": "2.5 Million Light Years away",
-    "b": "25 Million Light Years away",
-    "c": "250 Million Light Years away",
-    "d": "2.5 Billion Light Years away",
-    "answer": "a"
-},
-
-{
-    "id": 413,
-    "difficulty": 1,
-    "question": "What is the fullform of WWW",
-    "a": "World Wide Web",
-    "b": "Web World Wide",
-    "c": "World Wild Web",
-    "d": "Web Wild World",
-    "answer": "a"
-},
-
-{
-    "id": 414,
-    "difficulty": 2,
-    "question": "What is the atomic number of carbon?",
-    "a": "5",
-    "b": "6",
-    "c": "7",
-    "d": "8",
-    "answer": "b"
-},
-
-{
-    "id": 415,
-    "difficulty": 3,
-    "question": "When did World War 1 begin?",
-    "a": "1917",
-    "b": "1916",
-    "c": "1915",
-    "d": "1914",
-    "answer": "d"
-},
-
-{
-    "id": 416,
-    "difficulty": 4,
-    "question": "Which of these did not belong to the Americas",
-    "a": "Aztecs",
-    "b": "Mayans",
-    "c": "Incas",
-    "d": "Maoris",
-    "answer": "d"
-},
-{
-	"id": 399,
-        "difficulty": 2 ,
+        "id": 395,
+        "difficulty": 2,
+        "question": "Which country is known as the ‘playground of Europe?",
+        "a": "Austria",
+        "b": "Holland",
+        "c": "Switzerland",
+        "d": "Italy",
+        "answer": "c"
+    },
+    {
+        "id": 396,
+        "difficulty": 2,
+        "question": "Which country is also known as the ‘Land of Rising Sun’",
+        "a": "Japan",
+        "b": "Holland",
+        "c": "China",
+        "d": "Fiji",
+        "answer": "a"
+    },
+    {
+        "id": 397,
+        "difficulty": 2,
+        "question": "In which country, white elephant is found?",
+        "a": "India",
+        "b": "Sri Lanka",
+        "c": "Thailand",
+        "d": "Malaysia",
+        "answer": "c"
+    },
+    {
+        "id": 398,
+        "difficulty": 2,
+        "question": "Which one is the largest tropical rain forest in the world",
+        "a": "Amazon",
+        "b": "Bosawas",
+        "c": "Southeast Asian Rain Forest",
+        "d": "Daintree Rain Forest",
+        "answer": "a"
+    },
+    {
+        "id": 399,
+        "difficulty": 2,
+        "question": "Vientiane is the capital city of which country?",
+        "a": "Vietnam",
+        "b": "Laos",
+        "c": "Thailand",
+        "d": "Cambodia",
+        "answer": "b"
+    },
+    {
+        "id": 400,
+        "difficulty": 2,
+        "question": "Which one is the World’s biggest cave?",
+        "a": "Son Doong cave, Vietnam",
+        "b": "Jewel Cave, United State",
+        "c": "Holloch, Switzerland",
+        "d": "Optymistychna Cave, Ukraine",
+        "answer": "a"
+    },
+    {
+        "id": 401,
+        "difficulty": 2,
+        "question": "Which one is the World’s biggest cave?",
+        "a": "Son Doong cave, Vietnam",
+        "b": "Jewel Cave, United State",
+        "c": "Holloch, Switzerland",
+        "d": "Optymistychna Cave, Ukraine",
+        "answer": "a"
+    },
+    {
+        "id": 402,
+        "difficulty": 2,
+        "question": "How many new countries are emerged from the Union of Soviet Socialist Republics in its dissolution in December 1991?",
+        "a": "11",
+        "b": "15",
+        "c": "16",
+        "d": "9",
+        "answer": "b"
+    },
+    {
+        "id": 403,
+        "difficulty": 2,
+        "question": "Astana’ is the capital city of which country",
+        "a": "Kazakhstan",
+        "b": "Uzbekistan",
+        "c": "Tajikistan",
+        "d": "Turkmenistan",
+        "answer": "a"
+    },
+    {
+        "id": 404,
+        "difficulty": 2,
+        "question": "Lisbon is the capital of",
+        "a": "Canada",
+        "b": "French",
+        "c": "Germany",
+        "d": "Portugal",
+        "answer": "d"
+    },
+    {
+        "id": 405,
+        "difficulty": 2,
+        "question": "Which country was the first to make sealt belts compulsory for journey",
+        "a": "China",
+        "b": "Czechoslovakia",
+        "c": "France",
+        "d": "India",
+        "answer": "b"
+    },
+    {
+        "id": 406,
+        "difficulty": 2,
+        "question": "The youngest elected President of USA is",
+        "a": "Obama",
+        "b": "Andrew Jackson",
+        "c": "John F. Kennedy",
+        "d": "Donald Trumph",
+        "answer": "c"
+    },
+    {
+        "id": 408,
+        "difficulty": 1,
+        "question": "Which of these is not a primary colour?",
+        "a": "Blue",
+        "b": "Green",
+        "c": "Red",
+        "d": "Yellow",
+        "answer": "b"
+    },
+    {
+        "id": 409,
+        "difficulty": 2,
+        "question": "How many game pieces are present on a chessboard?",
+        "a": "34",
+        "b": "32",
+        "c": "30",
+        "d": "28",
+        "answer": "b"
+    },
+    {
+        "id": 410,
+        "difficulty": 3,
+        "question": "Which country has the longest coastline in the world?",
+        "a": "Russia",
+        "b": "Indonesia",
+        "c": "Canada",
+        "d": "Denmark (Incl. Greenland)",
+        "answer": "c"
+    },
+    {
+        "id": 411,
+        "difficulty": 4,
+        "question": "How many particles are currently present in the standard model",
+        "a": "15",
+        "b": "16",
+        "c": "17",
+        "d": "18",
+        "answer": "c"
+    },
+    {
+        "id": 412,
+        "difficulty": 5,
+        "question": "How far is the Andromeda Galaxy from earth?",
+        "a": "2.5 Million Light Years away",
+        "b": "25 Million Light Years away",
+        "c": "250 Million Light Years away",
+        "d": "2.5 Billion Light Years away",
+        "answer": "a"
+    },
+    {
+        "id": 413,
+        "difficulty": 1,
+        "question": "What is the fullform of WWW",
+        "a": "World Wide Web",
+        "b": "Web World Wide",
+        "c": "World Wild Web",
+        "d": "Web Wild World",
+        "answer": "a"
+    },
+    {
+        "id": 414,
+        "difficulty": 2,
+        "question": "What is the atomic number of carbon?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "answer": "b"
+    },
+    {
+        "id": 415,
+        "difficulty": 3,
+        "question": "When did World War 1 begin?",
+        "a": "1917",
+        "b": "1916",
+        "c": "1915",
+        "d": "1914",
+        "answer": "d"
+    },
+    {
+        "id": 416,
+        "difficulty": 4,
+        "question": "Which of these did not belong to the Americas",
+        "a": "Aztecs",
+        "b": "Mayans",
+        "c": "Incas",
+        "d": "Maoris",
+        "answer": "d"
+    },
+    {
+        "id": 399,
+        "difficulty": 2,
         "question": "Which is smallest ocean in the world?",
         "a": "Indian",
         "b": "Pacific",
         "c": "Atlantic",
         "d": "Arctic",
         "answer": "d"
-
-}
-{
-	"id": 400,
-        "difficulty": 2 ,
+    },
+    {
+        "id": 400,
+        "difficulty": 2,
         "question": "Dead sea is located between which two countries?",
         "a": "Jordan and Sudan",
         "b": "Jordan and Israel",
         "c": "Turkey and UAE",
         "d": "UAE and Egypt",
         "answer": "b"
-
-},
-{
-    "id": 417,
-    "difficulty": 5,
-    "question": "What is the highest grossing media franchise in the world?",
-    "a": "Mickey Mouse",
-    "b": "Marvel Cinematic Universe",
-    "c": "Pokemon",
-    "d": "Mario",
-    "answer": "c"
-},
-  {        "id": 418,
+    },
+    {
+        "id": 417,
+        "difficulty": 5,
+        "question": "What is the highest grossing media franchise in the world?",
+        "a": "Mickey Mouse",
+        "b": "Marvel Cinematic Universe",
+        "c": "Pokemon",
+        "d": "Mario",
+        "answer": "c"
+    },
+    {
+        "id": 418,
         "difficulty": 2,
         "question": "Which is the longest river in world?",
         "a": "Nile river",
