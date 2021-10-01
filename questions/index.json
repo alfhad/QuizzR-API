@@ -3946,7 +3946,6 @@
     "d": "Donald Trumph",
     "answer": "c"
 },
-    
 {
     "id": 408,
     "difficulty": 1,
@@ -4056,4 +4055,13 @@
     "d": "Mario",
     "answer": "c"
 },
+  {        "id": 418,
+        "difficulty": 2,
+        "question": " Which country gifted the 'Statue of Liberty' to USA in 1886",
+        "a": "Canada",
+        "b": "French",
+        "c": "Brazil",
+        "d": "England",
+        "answer": "b"
+    }
 ]
