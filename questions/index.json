@@ -3732,7 +3732,7 @@
        },
        {
         "id": 378,
-       "difficulty": 3,
+       "difficulty": 1,
        "question": "which is the smallest ocean in the world?",
        "a": "Arctic",
        "b": "Pacific",
@@ -3814,8 +3814,7 @@
 	"c": "Global information Tracker.",
 	"d": "None of these.",
 	"answer": "c"	
-
-        }
+        },
 {
 	 "id": 385,
 	"difficulty": 2,
@@ -3887,37 +3886,6 @@
         "d": "Stout infantfish",
         "answer": "b"
     },
-    
-{
- 	"id": 392,
-        "difficulty": 1 ,
-        "question": "Who is the president of USA?",
-        "a": "Joe Biden",
-        "b": "Kamla Harris",
-        "c": "Narendraa Modi",
-        "d": "Obama",
-        "answer": "a"
-    },
-{
-	"id": 392,
-        "difficulty": 2 ,
-        "question": "Which is the smallest state in India?",
-        "a": "Goa",
-        "b": "Mizoram",
-        "c": "Tripura",
-        "d": "Maharashra",
-        "answer": "a"
-},
-{
-        "difficulty": 3 ,
-        "question": "Which is the smallest state in india?",
-        "a": "goa",
-        "b": "mizoram",
-        "c": "tripura",
-        "d": "maharastra",
-        "answer": "a"
-},
-
 {
 	"id": 393,
         "difficulty": 3 ,
