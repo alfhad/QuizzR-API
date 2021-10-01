@@ -3977,5 +3977,16 @@
   "c": "4 billion years",
   "d": "2.5 billion years",
   "answer": "b"
+},
+
+{
+	"id": 397,
+  "difficulty": 3,
+  "question": "First recipient of Khel Ratna Award",
+  "a": "Major Dhyanchand",
+  "b": "Sachin Tendulkar",
+  "c": "Vishwanathan Anand",
+  "d": "Dhanraj Pillay",
+  "answer": "c"
 }
 ]
