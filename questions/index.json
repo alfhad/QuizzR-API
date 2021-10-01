@@ -3887,8 +3887,28 @@
         "d": "Stout infantfish",
         "answer": "b"
     },
+    
+{
+ 	"id": 392,
+        "difficulty": 1 ,
+        "question": "Who is the president of USA?",
+        "a": "Joe Biden",
+        "b": "Kamla Harris",
+        "c": "Narendraa Modi",
+        "d": "Obama",
+        "answer": "a"
+    },
 {
 	"id": 392,
+        "difficulty": 2 ,
+        "question": "Which is the smallest state in India?",
+        "a": "Goa",
+        "b": "Mizoram",
+        "c": "Tripura",
+        "d": "Maharashra",
+        "answer": "a"
+},
+{
         "difficulty": 3 ,
         "question": "Which is the smallest state in india?",
         "a": "goa",
@@ -3897,39 +3917,31 @@
         "d": "maharastra",
         "answer": "a"
 },
+
 {
+	"id": 393,
+        "difficulty": 3 ,
+        "question": "How is 'H' pronounced in French?",
+        "a": "E",
+        "b": "Ache",
+        "c": "Ac",
+        "d": "Ae",
+        "answer": "b"
+},
+  {
 	"id": 393,
         "difficulty": 2 ,
         "question": "Which is the largest state in india?",
-        "a": "rajasthan",
-        "b": "mizoram",
-        "c": "tripura",
-        "d": "maharastra",
+        "a": "Rajasthan",
+        "b": "M.P.",
+        "c": "A.P.",
+        "d": "Maharashtra",
         "answer": "a"
-},
-{
-        "id": 394,
-        "difficulty": 2 ,
-        "question": "Which is the highest gdp state in india ?",
-        "a": "rajasthan",
-        "b": "mizoram",
-        "c": "tripura",
-        "d": "maharastra",
-        "answer": "d"
+
 },
 
 {
-        "id": 395,
-        "difficulty": 2 ,
-        "question": "Which is the peninsula state in india ?",
-        "a": "rajasthan",
-        "b": "mizoram",
-        "c": "tripura",
-        "d": "maharastra",
-        "answer": "b"
-
-}, {
-	"id": 396,
+	"id": 394,
         "difficulty": 2 ,
         "question": "Which is national animal of India?",
         "a": "Tiger",
@@ -3939,17 +3951,33 @@
         "answer": "a"
 
 },
-	{
+{
 	"id": 395,
-        "difficulty": 3 ,
-        "question": "Approximately what is the age of the earth?",
-        "a": "3.5 billion years",
-        "b": "4.5 billion years",
-        "c": "4 billion years",
-        "d": "2.5 billion years",
-        "answer": "b"
-
+        "difficulty": 2 ,
+        "question": "Which is national bird of India?",
+        "a": "peacock",
+        "b": "peigion",
+        "c": "crow",
+        "d": "owl",
+        "answer": "a"
+},
+{    
+	"id": 396,
+        "difficulty": 5 ,
+        "question": "india is a ----- country?",
+        "a": "peninsula ",
+        "b": "island ",
+        "c": "enclave",
+        "d": "polar",
+        "answer": "a"
+ },
+{        "id": 397,
+        "difficulty": 5 ,
+        "question": "india is a geographically close to which country?",
+        "a": "russia ",
+        "b": "poland ",
+        "c": "america",
+        "d": "bhutan ",
+        "answer": "d"
 }
-
-
 ]
