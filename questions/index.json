@@ -3949,7 +3949,17 @@
         "d": "2.5 billion years",
         "answer": "b"
 
-}
+},
+{
+	"id": 395,
+        "difficulty": 3 ,
+        "question": "Approximately what is the age of the earth?",
+        "a": "3.5 billion years",
+        "b": "4.5 billion years",
+        "c": "4 billion years",
+        "d": "2.5 billion years",
+        "answer": "b"
 
+}
 
 ]
