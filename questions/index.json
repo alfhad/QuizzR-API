@@ -4044,7 +4044,28 @@
     "d": "Maoris",
     "answer": "d"
 },
+{
+	"id": 399,
+        "difficulty": 2 ,
+        "question": "Which is smallest ocean in the world?",
+        "a": "Indian",
+        "b": "Pacific",
+        "c": "Atlantic",
+        "d": "Arctic",
+        "answer": "d"
 
+}
+{
+	"id": 400,
+        "difficulty": 2 ,
+        "question": "Dead sea is located between which two countries?",
+        "a": "Jordan and Sudan",
+        "b": "Jordan and Israel",
+        "c": "Turkey and UAE",
+        "d": "UAE and Egypt",
+        "answer": "b"
+
+},
 {
     "id": 417,
     "difficulty": 5,
