@@ -3954,5 +3954,15 @@
         "c": "Brazil",
         "d": "England",
         "answer": "b"
+    },
+    
+  {     "id":407 ,
+        "difficulty":2,
+        "question": "The Disaster Management Act was enacted in India in the year,
+        "a": "2003",
+        "b": "2004",
+        "c": "2005",
+        "d": "2006",
+        "answer": "c"
     }
 ]
