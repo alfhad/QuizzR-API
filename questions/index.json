@@ -3887,6 +3887,17 @@
         "d": "Stout infantfish",
         "answer": "b"
     },
+    
+{
+ 	"id": 392,
+        "difficulty": 1 ,
+        "question": "Who is the president of USA?",
+        "a": "Joe Biden",
+        "b": "Kamla Harris",
+        "c": "Narendraa Modi",
+        "d": "Obama",
+        "answer": "a"
+    },
 {
 	"id": 392,
         "difficulty": 2 ,
@@ -3928,6 +3939,4 @@
         "answer": "a"
 
 }
-
-
 ]
