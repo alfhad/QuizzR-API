@@ -3889,6 +3889,15 @@
     },
 {
 	"id": 392,
+        "difficulty": 2 ,
+        "question": "Which is the smallest state in India?",
+        "a": "Goa",
+        "b": "Mizoram",
+        "c": "Tripura",
+        "d": "Maharashra",
+        "answer": "a"
+},
+{
         "difficulty": 3 ,
         "question": "Which is the smallest state in india?",
         "a": "goa",
@@ -3901,12 +3910,24 @@
 {
 	"id": 393,
         "difficulty": 3 ,
-        "question": "How is "H" pronounced in French?",
+        "question": "How is 'H' pronounced in French?",
         "a": "E",
         "b": "Ache",
         "c": "Ac",
         "d": "Ae",
         "answer": "b"
+},
+  {
+	"id": 393,
+        "difficulty": 2 ,
+        "question": "Which is the largest state in india?",
+        "a": "Rajasthan",
+        "b": "M.P.",
+        "c": "A.P.",
+        "d": "Maharashtra",
+        "answer": "a"
+
 }
+
 
 ]
