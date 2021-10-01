@@ -3946,8 +3946,116 @@
     "d": "Donald Trumph",
     "answer": "c"
 },
-  { 
-        "id": 407,
+{
+    "id": 408,
+    "difficulty": 1,
+    "question": "Which of these is not a primary colour?",
+    "a": "Blue",
+    "b": "Green",
+    "c": "Red",
+    "d": "Yellow",
+    "answer": "b"
+},
+
+{
+    "id": 409,
+    "difficulty": 2,
+    "question": "How many game pieces are present on a chessboard?",
+    "a": "34",
+    "b": "32",
+    "c": "30",
+    "d": "28",
+    "answer": "b"
+},
+
+{
+    "id": 410,
+    "difficulty": 3,
+    "question": "Which country has the longest coastline in the world?",
+    "a": "Russia",
+    "b": "Indonesia",
+    "c": "Canada",
+    "d": "Denmark (Incl. Greenland)",
+    "answer": "c"
+},
+
+{
+    "id": 411,
+    "difficulty": 4,
+    "question": "How many particles are currently present in the standard model",
+    "a": "15",
+    "b": "16",
+    "c": "17",
+    "d": "18",
+    "answer": "c"
+},
+
+{
+    "id": 412,
+    "difficulty": 5,
+    "question": "How far is the Andromeda Galaxy from earth?",
+    "a": "2.5 Million Light Years away",
+    "b": "25 Million Light Years away",
+    "c": "250 Million Light Years away",
+    "d": "2.5 Billion Light Years away",
+    "answer": "a"
+},
+
+{
+    "id": 413,
+    "difficulty": 1,
+    "question": "What is the fullform of WWW",
+    "a": "World Wide Web",
+    "b": "Web World Wide",
+    "c": "World Wild Web",
+    "d": "Web Wild World",
+    "answer": "a"
+},
+
+{
+    "id": 414,
+    "difficulty": 2,
+    "question": "What is the atomic number of carbon?",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "answer": "b"
+},
+
+{
+    "id": 415,
+    "difficulty": 3,
+    "question": "When did World War 1 begin?",
+    "a": "1917",
+    "b": "1916",
+    "c": "1915",
+    "d": "1914",
+    "answer": "d"
+},
+
+{
+    "id": 416,
+    "difficulty": 4,
+    "question": "Which of these did not belong to the Americas",
+    "a": "Aztecs",
+    "b": "Mayans",
+    "c": "Incas",
+    "d": "Maoris",
+    "answer": "d"
+},
+
+{
+    "id": 417,
+    "difficulty": 5,
+    "question": "What is the highest grossing media franchise in the world?",
+    "a": "Mickey Mouse",
+    "b": "Marvel Cinematic Universe",
+    "c": "Pokemon",
+    "d": "Mario",
+    "answer": "c"
+},
+  {        "id": 418,
         "difficulty": 2,
         "question": "Which is the longest river in world?",
         "a": "Nile river",
