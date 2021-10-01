@@ -4068,5 +4068,25 @@
         "c": "Congo river",
         "d": "Ganga river",
         "answer": "a"
+    },
+    {        
+	"id": 419,
+        "difficulty": 2,
+        "question": "What is 'cynophobia'?",
+        "a": "Fear of cat",
+        "b": "Fear of dogs",
+        "c": "Fear of lizard",
+        "d": "Fear of mouse",
+        "answer": "b"
+    },
+    {        
+	"id": 420,
+        "difficulty": 2,
+        "question": "What is the name of the biggest technology company in South Korea?",
+        "a": "Samsung",
+        "b": "LG",
+        "c": "ZTE",
+        "d": "Lenevo",
+        "answer": "a"
     }
 ]
