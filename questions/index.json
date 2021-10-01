@@ -3870,15 +3870,5 @@
   "c": "Hockey",
   "d": "Badminton",
   "answer": "d"
-},
-    {
-	"id": 396,
-  "difficulty": 2,
-  "question": "Approximately what is the age of the Earth?",
-  "a": "3.5 billion years",
-  "b": "4.5 billion years",
-  "c": "4 billion years",
-  "d": "2.5 billion years",
-  "answer": "b"
 }
 ]
