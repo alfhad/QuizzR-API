@@ -3722,7 +3722,7 @@
        },
        {
         "id": 378,
-       "difficulty": 3,
+       "difficulty": 1,
        "question": "which is the smallest ocean in the world?",
        "a": "Arctic",
        "b": "Pacific",
@@ -3789,8 +3789,7 @@
 	"c": "Global information Tracker.",
 	"d": "None of these.",
 	"answer": "c"	
-
-        }
+        },
 {
 	 "id": 385,
 	"difficulty": 2,
@@ -3852,7 +3851,6 @@
         "d": "Stout infantfish",
         "answer": "b"
     },
-
 {
 	"id": 393,
         "difficulty": 3 ,
@@ -3873,10 +3871,10 @@
   "d": "Badminton",
   "answer": "d"
 },
-{
+    {
 	"id": 396,
   "difficulty": 2,
-  "question": "Approximately what is the age of the earth?",
+  "question": "Approximately what is the age of the Earth?",
   "a": "3.5 billion years",
   "b": "4.5 billion years",
   "c": "4 billion years",
