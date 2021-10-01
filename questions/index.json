@@ -3867,8 +3867,9 @@
        "d": "None of these",
        "answer": "c"	
        },
- "id": 390,
-        "difficulty":3 ,
+{
+ 	"id": 390,
+        "difficulty": 3 ,
         "question": "Which of these alias used by Noor Inayat Khan to work as spy for Britian in France during the second world war?",
         "a": "Vera Atkins",
         "b": "Krystyan Skarbek",
