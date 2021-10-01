@@ -3896,6 +3896,17 @@
         "c": "tripura",
         "d": "maharastra",
         "answer": "a"
+},
+{
+	"id": 393,
+        "difficulty": 2 ,
+        "question": "Which is the largest state in india?",
+        "a": "rajasthan",
+        "b": "mizoram",
+        "c": "tripura",
+        "d": "maharastra",
+        "answer": "a"
 }
+
 
 ]
