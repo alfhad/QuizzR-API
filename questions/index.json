@@ -3896,6 +3896,17 @@
         "c": "tripura",
         "d": "maharastra",
         "answer": "a"
+},
+
+{
+	"id": 393,
+        "difficulty": 3 ,
+        "question": "How is "H" pronounced in French?",
+        "a": "E",
+        "b": "Ache",
+        "c": "Ac",
+        "d": "Ae",
+        "answer": "b"
 }
 
 ]
