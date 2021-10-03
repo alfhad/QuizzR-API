@@ -4098,5 +4098,17 @@
       "c":"ZTE",
       "d":"Lenevo",
       "answer":"a"
+   },
+   {
+      "id":422,
+      "difficulty":3,
+      "question":"Who is the Chairman of the Fifteenth Finance Commission (XVFC)?",
+      "a":"Ramesh Chand",
+      "b":"jay Narayan Jha",
+      "c":"N K Singh",
+      "d":"Ashok Lahiri",
+      "answer":"c"
+   
    }
+   
 ]
