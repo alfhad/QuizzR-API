@@ -4098,5 +4098,15 @@
       "c":"ZTE",
       "d":"Lenevo",
       "answer":"a"
+   },
+   {
+      "id":422,
+      "difficulty":2,
+      "question":"The Puna grassland ecoregion is found in which of the following continents?",
+      "a":"Asia",
+      "b":"Africa",
+      "c":"North America",
+      "d":"South America",
+      "answer":"d"
    }
 ]
