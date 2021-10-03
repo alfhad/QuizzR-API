@@ -4099,4 +4099,14 @@
       "d":"Lenevo",
       "answer":"a"
    }
+      {
+      "id":422,
+      "difficulty":2,
+      "question":"Who among the following proposed Laws of planetary motion?",
+      "a":"Newton",
+      "b":"Kepler",
+      "c":"Ptolemy",
+      "d":"Copernicus",
+      "answer":"b"
+   }
 ]
