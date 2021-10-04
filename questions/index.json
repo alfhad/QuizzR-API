@@ -4061,7 +4061,7 @@
    },
    {
       "id":418,
-      "difficulty":2,
+      "difficulty":1,
       "question":"Which is the longest river in world?",
       "a":"Nile river",
       "b":"Amazon river",
@@ -4088,25 +4088,5 @@
       "c":"ZTE",
       "d":"Lenevo",
       "answer":"a"
-   },
-   {
-      "id":421,
-      "difficulty":2,
-      "question":"What is the name of the biggest technology company in South Korea?",
-      "a":"Samsung",
-      "b":"LG",
-      "c":"ZTE",
-      "d":"Lenevo",
-      "answer":"a"
-   }
-   {
-      "id":422,
-      "difficulty":3,
-      "question":"Famous sculptures depicting art of love built some time in 950 AD – 1050 AD are?",
-      "a":"Konark Temple",
-      "b":"Khajuraho temples",
-      "c":"Mahabalipuram temples",
-      "d":"Sun temple",
-      "answer":"b"
    }
 ]
