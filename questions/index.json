@@ -4088,5 +4088,25 @@
       "c":"ZTE",
       "d":"Lenevo",
       "answer":"a"
+   },
+   {
+      "id":421,
+      "difficulty":2,
+      "question":"What is the name of the biggest technology company in South Korea?",
+      "a":"Samsung",
+      "b":"LG",
+      "c":"ZTE",
+      "d":"Lenevo",
+      "answer":"a"
+   },
+   {
+      "id":422,
+      "difficulty":2,
+      "question":"The Puna grassland ecoregion is found in which of the following continents?",
+      "a":"Asia",
+      "b":"Africa",
+      "c":"North America",
+      "d":"South America",
+      "answer":"d"
    }
 ]
