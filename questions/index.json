@@ -4118,5 +4118,15 @@
       "c":"Ptolemy",
       "d":"Copernicus",
       "answer":"b"
+   },
+   {
+      "id":424,
+      "difficulty":1,
+      "question":"National Housing Bank is the wholly subsidiary of RBI. In which year, NHB was established?",
+      "a":"1985",
+      "b":"1986",
+      "c":"1987",
+      "d":"1988",
+      "answer":"d"
    }
 ]
