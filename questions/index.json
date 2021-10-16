@@ -4118,5 +4118,25 @@
       "c":"Ptolemy",
       "d":"Copernicus",
       "answer":"b"
+   },
+   {
+      "id":425,
+      "difficulty":1,
+      "question":"{
+      "id":423,
+      "difficulty":1,
+      "question":"Who among the following proposed Laws of planetary motion?",
+      "a":"Machine Language",
+      "b":"High language",
+      "c":"assembly language",
+      "d":"second generation language"
+      "answer":"d"
+   }
+   }",
+      "a":"Newton",
+      "b":"Kepler",
+      "c":"Ptolemy",
+      "d":"Copernicus",
+      "answer":"b"
    }
 ]
