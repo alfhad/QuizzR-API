@@ -4118,5 +4118,15 @@
       "c":"Ptolemy",
       "d":"Copernicus",
       "answer":"b"
+   },
+   {
+      "id":424,
+      "difficulty":1,
+      "question":"Aapda Mitra Scheme, which was seen in the news recently, is implemented by which Union Ministry?",
+      "a":"Ministry of Defence",
+      "b":"Ministry of Home Affairs",
+      "c":"Ministry of Agriculture and Farmers Welfare",
+      "d":"Ministry of MSME",
+      "answer":"b"
    }
 ]
