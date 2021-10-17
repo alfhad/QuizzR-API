@@ -4118,5 +4118,15 @@
       "c":"Ptolemy",
       "d":"Copernicus",
       "answer":"b"
+   },
+    {
+      "id":424,
+      "difficulty":1,
+      "question":"Which institution releases the ‘Fiscal Monitor’ Report?",
+      "a":"World Bank",
+      "b":"Reserve Bank of India",
+      "c":"International Monetary Fund",
+      "d":"Reserve Bank of India",
+      "answer":"c"
    }
 ]
