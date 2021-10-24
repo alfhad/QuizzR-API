@@ -4118,5 +4118,15 @@
       "c":"Ptolemy",
       "d":"Copernicus",
       "answer":"b"
+   },
+      {
+     "id": 424,
+     "difficulty": 4,
+     "question": "How many buckets are created in AWS by default?",
+     "a": "100 buckets",
+     "b:: "200 buckets",
+     "c": "110 buckets",
+     "d": "125 buckets",
+     "answer": "a"
    }
 ]
