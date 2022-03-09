@@ -4124,7 +4124,7 @@
      "difficulty": 4,
      "question": "How many buckets are created in AWS by default?",
      "a": "100 buckets",
-     "b:: "200 buckets",
+     "b": "200 buckets",
      "c": "110 buckets",
      "d": "125 buckets",
      "answer": "a"
