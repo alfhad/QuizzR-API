@@ -4128,5 +4128,25 @@
       "c":"1987",
       "d":"1988",
       "answer":"d"
+   },
+   {
+     "id": 425,
+     "difficulty": 4,
+     "question": "How many buckets are created in AWS by default?",
+     "a": "100 buckets",
+     "b": "200 buckets",
+     "c": "110 buckets",
+     "d": "125 buckets",
+     "answer": "a"
+   },
+   {
+      "id":426,
+      "difficulty":1,
+      "question":"Malabar series of exercises began as a bilateral naval exercise between India and which country, in 1992?",
+      "a":"USA",
+      "b":"France",
+      "c":"Sri Lanka",
+      "d":"Bangladesh",
+      "answer":"a"
    }
 ]
