@@ -4119,8 +4119,18 @@
       "d":"Copernicus",
       "answer":"b"
    },
-      {
-     "id": 424,
+   {
+      "id":424,
+      "difficulty":1,
+      "question":"National Housing Bank is the wholly subsidiary of RBI. In which year, NHB was established?",
+      "a":"1985",
+      "b":"1986",
+      "c":"1987",
+      "d":"1988",
+      "answer":"d"
+   },
+   {
+     "id": 425,
      "difficulty": 4,
      "question": "How many buckets are created in AWS by default?",
      "a": "100 buckets",
@@ -4128,9 +4138,9 @@
      "c": "110 buckets",
      "d": "125 buckets",
      "answer": "a"
-   }
+   },
    {
-      "id":424,
+      "id":426,
       "difficulty":1,
       "question":"Malabar series of exercises began as a bilateral naval exercise between India and which country, in 1992?",
       "a":"USA",
