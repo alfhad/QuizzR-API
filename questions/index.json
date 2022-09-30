@@ -4110,7 +4110,459 @@
       "answer":"d"
    },
       {
-      "id":423,
+        "id": 328,
+        "difficulty": 3,
+        "question": "The racing area of Cycling is known as …",
+        "a": "Velodrome",
+        "b": "Track",
+        "c": "Ring",
+        "d": "Range",
+        "answer": "a"
+    },
+    {
+        "id": 329,
+        "difficulty": 2,
+        "question": "Nepal is located on which continent?",
+        "a": "Asia",
+        "b": "Europe",
+        "c": "Africa",
+        "d": "South America",
+        "answer": "a"
+    },
+    {
+        "id": 330,
+        "difficulty": 2,
+        "question": "What gas makes soda bubbly?",
+        "a": "Ethylene Oxide",
+        "b": "Carbon Monoxide",
+        "c": "Carbon Dioxide",
+        "d": "Hydrogen Sulfide",
+        "answer": "c"
+    },
+	
+    {
+        "id": 331,
+        "difficulty": 3,
+        "question": "Water has a pH level of around?",
+        "a": "8",
+        "b": "7",
+        "c": "6",
+        "d": "5",
+        "answer": "b"
+    },
+    {
+        "id": 332,
+        "difficulty": 1,
+        "question": "What is the name of the Earth’s largest ocean?",
+        "a": "The Arctic Ocean",
+        "b": "The Indian Ocean",
+        "c": "The Atlantic Ocean",
+        "d": "The Pacific Ocean",
+        "answer": "d"
+    },
+    {
+        "id": 333,
+        "difficulty": 1,
+        "question": "Which country consumes the most chocolate per capita?",
+        "a": "Germany",
+        "b": "India",
+        "c": "Switzerland",
+        "d": "Lithuania",
+        "answer": "c"
+    },
+    {
+        "id": 334,
+        "difficulty": 1,
+        "question": "Who was SpaceX founded by in 2002?",
+        "a": "Elon Musk",
+        "b": "Jeff Bezos",
+        "c": "Tim Cook",
+        "d": "Bill Gates",
+        "answer": "a"
+    },
+	{
+        "id": 335,
+        "difficulty": 1,
+        "question": "Who is the first female computer programmer?",
+        "a": "Grace Hopper",
+        "b": "Edith Clarke",
+        "c": "Ada Lovelace",
+        "d": "Evelyn Boyd Granville",
+        "answer": "c"
+    },
+	{
+        "id": 336,
+        "difficulty": 2,
+        "question": "Who was the second person to land on the moon?",
+        "a": "David Schott",
+        "b": "Charles Duke",
+        "c": "Michael Collins",
+        "d": "Buzz Aldrin",
+        "answer": "d"
+    },
+	{
+        "id": 337,
+        "difficulty": 5,
+        "question": "Which flower blooms once in 12 years?",
+        "a": "Refleshia",
+        "b": "Kurinji",
+        "c": "Bird of Paradise",
+        "d": "Red camellia",
+        "answer": "b"
+    },
+	{
+        "id": 338,
+        "difficulty": 2,
+        "question": "Which is known as the laughing gas?",
+        "a": "Nitrogen dioxide",
+        "b": "Nitric oxide",
+        "c": "Nitrous oxide",
+        "d": "Nitroxyl",
+        "answer": "c"
+    },
+    {
+        "id": 339,
+        "difficulty": 2,
+        "question": "The term ‘rally’ is related to …",
+        "a": "Football",
+        "b": "Badminton",
+        "c": "Polo",
+        "d": "Boxing",
+        "answer": "b"
+    },
+    {
+        "id": 340,
+        "difficulty": 3,
+        "question": "Which among the following is popular as Eternal City?",
+        "a": "New York City",
+        "b": "Rome",
+        "c": "London",
+        "d": "Paris",
+        "answer": "b"
+    },
+    {
+        "id": 341,
+        "difficulty": 3,
+        "question": "As per the Census 2011, what is the Male literacy of India?",
+        "a": "78 percent",
+        "b": "82 percent",
+        "c": "65 percent",
+        "d": "76 percent",
+        "answer": "b"
+    },
+    {
+        "id": 343,
+        "difficulty": 3,
+        "question": "Where is Bose Institute ?",
+        "a": "Dispur",
+        "b": "Kolkata",
+        "c": "Mumbai",
+        "d": "New Delhi",
+        "answer": "b"
+    },
+    {
+        "id": 344,
+        "difficulty": 1,
+        "question": "Which one is the largest exporter of tea in the world?",
+        "a": "India",
+        "b": "China",
+        "c": "Sri Lanka",
+        "d": "Kenya",
+        "answer": "d"
+    },
+    {
+        "id": 345,
+        "difficulty": 2,
+        "question": "The costliest metal of the world is ...",
+        "a": "Endohedral Fullerene",
+        "b": "Californium 252",
+        "c": "Tritium",
+        "d": "Rhodium",
+        "answer": "b"
+    },
+    {
+        "id": 346,
+        "difficulty": 3,
+        "question": "Which one of the following countries has been the largest producer of copper?",
+        "a": "China",
+        "b": "Uruguay",
+        "c": "Brazil",
+        "d": "Chile",
+        "answer": "d"
+    },
+    {
+        "id": 347,
+        "difficulty": 3,
+        "question": "The famous Bolan Pass is situated in ...",
+        "a": "India",
+        "b": "Pakistan",
+        "c": "Afghanistan",
+        "d": "Russia",
+        "answer": "b"
+    },
+    {
+        "id": 348,
+        "difficulty": 3,
+        "question": "The largest producer of peanuts in the world is ...",
+        "a": "China",
+        "b": "India",
+        "c": "Nigeria",
+        "d": "Russia",
+        "answer": "a"
+    },
+    {
+        "id": 349,
+        "difficulty": 2,
+        "question": "Which one is the highest population density country in Asia?",
+        "a": "India",
+        "b": "Bangladesh",
+        "c": "China",
+        "d": "Singapore",
+        "answer": "d"
+    },
+    {
+        "id": 350,
+        "difficulty": 3,
+        "question": "which country was previously known as 'Ceylon'",
+        "a": "Sri Lanka",
+        "b": "Malaysia",
+        "c": "Maldives",
+        "d": "Mauritius",
+        "answer": "a"
+    },
+    {
+        "id": 351,
+        "difficulty": 3,
+        "question": "Thailand was known by the name of ...",
+        "a": "Saigon",
+        "b": "Abyssinia",
+        "c": "Siam",
+        "d": "None of the above",
+        "answer": "c"
+    },
+    {
+        "id": 352,
+        "difficulty": 3,
+        "question": "Which place is also known as the bullfighting capital of the World?",
+        "a": "Madrid",
+        "b": "Serville",
+        "c": "Barcelone",
+        "d": "Lisbon",
+        "answer": "b"
+    },
+    {
+        "id": 353,
+        "difficulty": 2,
+        "question": "At present which country is the maximum emitter of carbon dioxide?",
+        "a": "USA",
+        "b": "China",
+        "c": "Russia",
+        "d": "India",
+        "answer": "b"
+    },
+    {
+        "id": 354,
+        "difficulty": 3,
+        "question": "In which city the 'Wailing Wall' can be found",
+        "a": "Jerusalem",
+        "b": "Abu Dhabi",
+        "c": "Ammam",
+        "d": "Damascus",
+        "answer": "a"
+    },
+    {
+        "id": 355,
+        "difficulty": 3,
+        "question": "Which country is known as the sugar bowl of the world?",
+        "a": "India",
+        "b": "South Africa",
+        "c": "Cuba",
+        "d": "Brazil",
+        "answer": "c"
+    },
+    {
+        "id": 356,
+        "difficulty": 3,
+        "question": "The permanent Headquarters of SAARC Secretariat is located at ...",
+        "a": "Kathmandu",
+        "b": "Dhaka",
+        "c": "New Delhi",
+        "d": "Islamabad",
+        "answer": "a"
+    },
+    {
+        "id": 357,
+        "difficulty": 4,
+        "question": "The headquarters of the Arab League is based in",
+        "a": "Cairo",
+        "b": "Istanbul",
+        "c": "Tripoli",
+        "d": "Beirut",
+        "answer": "a"
+    },
+    {
+        "id": 358,
+        "difficulty": 5,
+        "question": "Which of the following countries is the largest producer of diamond?",
+        "a": "Australia",
+        "b": "Venezuela",
+        "c": "Russia",
+        "d": "Botswana",
+        "answer": "c"
+    },
+    {
+        "id": 359,
+        "difficulty": 3,
+        "question": "Which of the following seas has the highest salinity?",
+        "a": "Caspian Sea",
+        "b": "Mediterranean Sea",
+        "c": "Red Sea",
+        "d": "Dead Sea",
+        "answer": "d"
+    },
+    {
+        "id": 360,
+        "difficulty": 4,
+        "question": "The country that has officially recognised 'Bitcoin' as a currency is ...",
+        "a": "Korea",
+        "b": "China",
+        "c": "Japan",
+        "d": "Singapore",
+        "answer": "c"
+    },
+    {
+        "id": 361,
+        "difficulty": 3,
+        "question": "The headquarters of Asian Development Bank is located at ...",
+        "a": "Manilla",
+        "b": "Bangkok",
+        "c": "Dhaka",
+        "d": "Kathmandu",
+        "answer": "a"
+    },
+    {
+        "id": 362,
+        "difficulty": 3,
+        "question": "The International Date Line passes through middle of which Ocean?",
+        "a": "Pacific",
+        "b": "Indian",
+        "c": "Atlantic",
+        "d": "Arctic",
+        "answer": "a"
+    },
+    {
+        "id": 363,
+        "difficulty": 3,
+        "question": "In which of the following regions are Pygmies found",
+        "a": "Sahara",
+        "b": "Kalahari",
+        "c": "Equatorial forest",
+        "d": "Pampas",
+        "answer": "c"
+    },
+    {
+        "id": 364,
+        "difficulty": 3,
+        "question": "How many Nobel Prize Awards are awarded each year?",
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8",
+        "answer": "b"
+    },
+    {
+        "id": 365,
+        "difficulty": 3,
+        "question": "Who discovered 'The Cape of Good Hope'?",
+        "a": "Bartolomeu Dias",
+        "b": "Vasco da Gama",
+        "c": "Marco Polo",
+        "d": "Robert Cook",
+        "answer": "a"
+    },
+      {
+        "id": 366,
+        "difficulty": 3,
+        "question": "The racing area of Cycling is known as …",
+        "a": "Velodrome",
+        "b": "Track",
+        "c": "Ring",
+        "d": "Range",
+        "answer": "a"
+    },
+    {
+        "id": 367,
+        "difficulty": 5,
+        "question": "The International Tsunami Information Center is located in ...",
+        "a": "Colombo",
+        "b": "Singapore",
+        "c": "Tokyo",
+        "d": "Honolulu",
+        "answer": "d"
+    },
+    {
+        "id": 368,
+        "difficulty": 1,
+        "question": "What is the capital city of Nepal?",
+        "a": "Pokhara",
+        "b": "Lalitpur",
+        "c": "Kathmandu",
+        "d": "Dharan",
+        "answer": "c"
+    },
+    {
+        "id": 369,
+        "difficulty": 2,
+        "question": "How much time does it take for Jupiter to complete a revolution?",
+        "a": "12 Years",
+        "b": "13 Years",
+        "c": "10 Years",
+        "d": "50 Years",
+        "answer": "a"
+    },
+    {
+        "id": 370,
+        "difficulty": 2,
+        "question": "Who discovered Penicillin?",
+        "a": "Alexander Graham Bell",
+        "b": "Johannes Gutenberg",
+        "c": "Alexander Fleming",
+        "d": "Charles Babbage",
+        "answer": "c"
+    },
+	{
+        "id": 371,
+        "difficulty": 2,
+        "question": "Where would the 2021 Summer Olympics be held?",
+        "a": "Russia",
+        "b": "Greece",
+        "c": "Qatar",
+        "d": "Japan",
+        "answer": "d"
+    },
+	{
+        "id": 372,
+        "difficulty": 4,
+        "question": "What was the name of Hitler's Wife?",
+        "a": "Eva Braun",
+        "b": "Emily Braun",
+        "c": "Helen Braun",
+        "d": "Lily Braun",
+        "answer": "a"
+    },
+	
+    {
+        "id": 373,
+        "difficulty": 1,
+        "question": "Who invented Linux",
+        "a": "Linus Torvalds",
+        "b": "Emily Braun",
+        "c": "Helen Walley",
+        "d": "Lily Bauji",
+        "answer": "a"
+    },	
+    {
+      "id":374,
       "difficulty":1,
       "question":"Who among the following proposed Laws of planetary motion?",
       "a":"Newton",
@@ -4120,7 +4572,7 @@
       "answer":"b"
    },
    {
-      "id":424,
+      "id":375,
       "difficulty":1,
       "question":"National Housing Bank is the wholly subsidiary of RBI. In which year, NHB was established?",
       "a":"1985",
@@ -4130,7 +4582,7 @@
       "answer":"d"
    },
    {
-     "id": 425,
+     "id": 376,
      "difficulty": 4,
      "question": "How many buckets are created in AWS by default?",
      "a": "100 buckets",
@@ -4140,7 +4592,7 @@
      "answer": "a"
    },
    {
-      "id":426,
+      "id":377,
       "difficulty":1,
       "question":"Malabar series of exercises began as a bilateral naval exercise between India and which country, in 1992?",
       "a":"USA",
