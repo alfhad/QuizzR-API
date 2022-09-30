@@ -4600,5 +4600,15 @@
       "c":"Sri Lanka",
       "d":"Bangladesh",
       "answer":"a"
+   },
+	{
+      "id":378,
+      "difficulty":4,
+      "question":"In which year the first international Olympic Games in modern history were held",
+      "a":"1899",
+      "b":"1896",
+      "c":"1869",
+      "d":"1870",
+      "answer":"b"
    }
 ]
