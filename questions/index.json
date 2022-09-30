@@ -3679,6 +3679,17 @@
         "c": "Helen Braun",
         "d": "Lily Braun",
         "answer": "a"
-    }
+    },
+	
+    {
+        "id": 373,
+        "difficulty": 1,
+        "question": "Who invented Linux",
+        "a": "Linus Torvalds",
+        "b": "Emily Braun",
+        "c": "Helen Walley",
+        "d": "Lily Bauji",
+        "answer": "a"
+    }	
 ]
 
