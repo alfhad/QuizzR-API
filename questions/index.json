@@ -4600,5 +4600,15 @@
       "c":"Sri Lanka",
       "d":"Bangladesh",
       "answer":"a"
-   }
+   },
+	 {
+        "id":412,
+        "difficulty":5,
+        "question":"At which among the following sites, first evidence of cultivation of cotton has been found?",
+        "a":"Piklihal",
+        "b":"Hathonora",
+        "c":"Mehrgarh",
+        "d":"Ghaligai",
+        "answer":"c"
+     }
 ]
