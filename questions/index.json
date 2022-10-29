@@ -4600,5 +4600,15 @@
       "c":"Sri Lanka",
       "d":"Bangladesh",
       "answer":"a"
+   },
+   {
+      "id":378,
+      "difficulty":3,
+      "question":"The only letter which does not appear in the periodic table is?",
+      "a":"e",
+      "b":"q",
+      "c":"b",
+      "d":"j",
+      "answer":"d"
    }
 ]
