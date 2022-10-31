@@ -21,24 +21,8 @@ app.get("/random", (req, res) =>{
     res.json(randomQuestion());
 });
 
-app.get("/difficulty/1", (req, res)=>{
-    res.json(getDifficulty(1));
-});
-
-app.get("/difficulty/2", (req, res)=>{
-    res.json(getDifficulty(2));
-});
-
-app.get("/difficulty/3", (req, res)=>{
-    res.json(getDifficulty(3));
-});
-
-app.get("/difficulty/4", (req, res)=>{
-    res.json(getDifficulty(4));
-});
-
-app.get("/difficulty/5", (req, res)=>{
-    res.json(getDifficulty(5));
+app.get("/difficulty/:level", (req, res)=>{
+    res.json(getDifficulty(req.params.level));
 });
 
 //app.use(app.router);
